@@ -8,19 +8,9 @@ pub async fn main() -> Result<()> {
     env_logger::init();
     dotenv().ok();
 
-    // if true {
-    //     use diesel::dsl::delete;
-    //     use diesel::prelude::*;
-
-    //     log::info!["deleting all existing previews"];
-
-    //     use previews::dsl;
-    //     delete(dsl::previews.filter(previews::url.is_not("NA"))).execute(&mut conn)?;
-    // }
-
     let mut env = Env::new()?;
 
-    log::info!["fetching new previews"];
+    log::info!["Begin fetching URLs"];
 
     let mut new_previews: Vec<Preview> = vec![];
 
@@ -46,7 +36,7 @@ pub async fn main() -> Result<()> {
                     }
                 }
                 Err(e) => {
-                    log::warn!["failed to fetch RSS feed \"{rss_feed_url}\": {e}"];
+                    log::warn!["I failed to fetch RSS feed {rss_feed_url}: {e}"];
                 }
             }
         }
@@ -72,8 +62,11 @@ pub async fn main() -> Result<()> {
     }
 
     if true {
+        log::info!["Clearing saved URLs"];
         clear_saved_urls()?;
     }
+
+    log::info!["End fetching URLs"];
 
     Ok(())
 }

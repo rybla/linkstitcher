@@ -9,6 +9,8 @@ pub async fn main() -> Result<()> {
 
     let mut env = Env::new()?;
 
+    log::trace!("Begin filling bookmark previews");
+
     let bookmarked_urls = get_bookmarked_urls()?;
 
     for bookmarked_url in bookmarked_urls {
@@ -20,8 +22,11 @@ pub async fn main() -> Result<()> {
     }
 
     if true {
+        log::trace!("Clearing bookmarked URLs");
         clear_bookmarked_urls()?;
     }
+
+    log::trace!("End filling bookmark previews");
 
     Ok(())
 }
