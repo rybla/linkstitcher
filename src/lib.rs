@@ -70,9 +70,12 @@ pub struct Env<'a> {
     pub octocrab: &'a Octocrab,
 }
 
-pub async fn fill_initial_preview(env: &mut Env<'_>, preview: &mut Preview) -> Result<()> {
+pub async fn fill_initial_preview(
+    env: &mut Env<'_>,
+    preview: &mut Preview,
+) -> Result<Option<String>> {
     if exists_preview(env.conn, &preview.url)? {
-        return Ok(());
+        return Ok(None);
     }
 
     log::info!["creating new preview for {}", &preview.url];
@@ -89,22 +92,25 @@ pub async fn fill_initial_preview(env: &mut Env<'_>, preview: &mut Preview) -> R
             }
             preview.tags = Some(article.category_names.join(", "));
             preview.summary = Some(article.summary.clone());
+            content = Some(article.summary.clone());
         } else {
             log::error!["failed to fetch ArXiv article: {}", preview.url];
         }
     } else if preview.url.starts_with("https://x.com/") {
         if let Ok(post) = utility::x::fetch_post(&preview.url).await {
             let html = Html::parse_fragment(&post.html);
-            let mut content = String::new();
-            for text in html.root_element().text() {
-                content.push_str(&format!(" {text}"));
+            let mut text = String::new();
+            for s in html.root_element().text() {
+                text.push_str(&format!(" {s}"));
             }
-            preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
+            preview.summary = Some(text.chars().take(config::MAX_CHARS_SUMMARY).collect());
+            content = Some(text.clone());
         } else {
             log::error!["failed to fetch X post: {}", preview.url];
         }
     } else if preview.url.contains("github.com") {
         if let Ok(info) = utility::github::fetch_repo_info(env.octocrab, &preview.url).await {
+            content = info.readme.clone();
             preview.summary = info
                 .readme
                 .map(|s| s.chars().take(config::MAX_CHARS_SUMMARY).collect());
@@ -165,19 +171,22 @@ pub async fn fill_initial_preview(env: &mut Env<'_>, preview: &mut Preview) -> R
             // TODO: handle other types of content
             _ => {}
         }
-
-        if preview.summary.is_none()
-            && let Some(content) = &content
-        {
-            preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
-        }
     }
 
-    Ok(())
+    if preview.summary.is_none()
+        && let Some(content) = &content
+    {
+        preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
+    }
+
+    Ok(content)
 }
 
 pub async fn fill_detailed_preview(env: &mut Env<'_>, preview: &mut Preview) -> Result<()> {
-    fill_initial_preview(env, preview).await?;
+    let content = fill_initial_preview(env, preview).await?;
+    // use gemini-cli to create tags based on `content`
+    // write URLs and tags to file
+    // have an Apple Shortcuts automation that collects from that file and makes entries in Anybox with the tags
     todo!()
 }
 
