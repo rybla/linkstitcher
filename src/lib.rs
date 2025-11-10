@@ -45,7 +45,6 @@ pub fn update_preview(conn: &mut SqliteConnection, preview: &Preview) -> Result<
 
     diesel::update(dsl::previews.find(&preview.url))
         .set((
-            dsl::added_date.eq(&preview.added_date),
             dsl::source.eq(&preview.source),
             dsl::title.eq(&preview.title),
             dsl::published_date.eq(&preview.published_date),
