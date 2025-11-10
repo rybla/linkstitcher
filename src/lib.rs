@@ -7,7 +7,7 @@ pub use models::*;
 pub use schema::*;
 
 use anyhow::{Result, anyhow};
-use diesel::{dsl::exists, insert_into, prelude::*, select};
+use diesel::prelude::*;
 use octocrab::Octocrab;
 use readability_js::Readability;
 use scraper::Html;
@@ -21,28 +21,59 @@ pub fn establish_connection() -> SqliteConnection {
         .unwrap_or_else(|_| panic!("Error connecting to {}", config::DATABASE_URL.as_str()))
 }
 
-pub fn set_preview(conn: &mut SqliteConnection, preview: Preview) -> Result<Option<Preview>> {
-    Ok(insert_into(previews::table)
-        .values(&preview)
-        .returning(Preview::as_returning())
-        .get_result(conn)
-        .optional()?)
+pub fn insert_or_update_preview(conn: &mut SqliteConnection, preview: &Preview) -> Result<()> {
+    if exists_preview(conn, &preview.url)? {
+        update_preview(conn, preview)?;
+    } else {
+        insert_preview(conn, preview)?;
+    }
+
+    Ok(())
+}
+
+pub fn insert_preview(conn: &mut SqliteConnection, preview: &Preview) -> Result<()> {
+    use crate::previews::dsl;
+
+    diesel::insert_into(dsl::previews)
+        .values(preview)
+        .execute(conn)?;
+    Ok(())
+}
+
+pub fn update_preview(conn: &mut SqliteConnection, preview: &Preview) -> Result<()> {
+    use crate::previews::dsl;
+
+    diesel::update(dsl::previews.find(&preview.url))
+        .set((
+            dsl::added_date.eq(&preview.added_date),
+            dsl::source.eq(&preview.source),
+            dsl::title.eq(&preview.title),
+            dsl::published_date.eq(&preview.published_date),
+            dsl::tags.eq(&preview.tags),
+            dsl::summary.eq(&preview.summary),
+            dsl::bookmarked.eq(&preview.bookmarked),
+        ))
+        .execute(conn)?;
+    Ok(())
 }
 
 pub fn get_preview(conn: &mut SqliteConnection, url: String) -> Result<Option<Preview>> {
-    use previews::dsl;
+    use crate::previews::dsl::previews;
 
-    Ok(dsl::previews
+    Ok(previews
         .find(url)
         .select(Preview::as_select())
         .first(conn)
         .optional()?)
 }
-
 pub fn exists_preview(conn: &mut SqliteConnection, url: &str) -> Result<bool> {
-    use previews::dsl;
+    use crate::previews::dsl::previews;
 
-    Ok(select(exists(dsl::previews.find(url))).get_result(conn)?)
+    Ok(previews
+        .find(url)
+        .first::<Preview>(conn)
+        .optional()?
+        .is_some())
 }
 
 /// Gets all previews with an `added_date` within the last `days`.
@@ -63,22 +94,37 @@ pub fn get_recent_previews(
         .load(conn)?)
 }
 
-pub struct Env<'a> {
-    pub client: &'a reqwest::Client,
-    pub conn: &'a mut SqliteConnection,
-    pub readability: &'a Readability,
-    pub octocrab: &'a Octocrab,
+pub struct Env {
+    pub client: reqwest::Client,
+    pub conn: SqliteConnection,
+    pub readability: Readability,
+    pub octocrab: Octocrab,
 }
 
-pub async fn fill_initial_preview(
-    env: &mut Env<'_>,
-    preview: &mut Preview,
-) -> Result<Option<String>> {
-    if exists_preview(env.conn, &preview.url)? {
-        return Ok(None);
-    }
+impl Env {
+    pub fn new() -> Result<Self> {
+        let conn = establish_connection();
 
-    log::info!["creating new preview for {}", &preview.url];
+        let readability = Readability::new()?;
+
+        let octocrab = Octocrab::builder()
+            .personal_token(config::GITHUB_PERSONAL_ACCESS_TOKEN.as_str())
+            .build()
+            .unwrap();
+
+        let client = reqwest::Client::new();
+
+        Ok(Env {
+            conn,
+            readability,
+            octocrab,
+            client,
+        })
+    }
+}
+
+pub async fn fill_initial_preview(env: &mut Env, preview: &mut Preview) -> Result<Option<String>> {
+    log::info!["Filling initial preview: {}", &preview.url];
 
     let mut content: Option<String> = None;
 
@@ -109,7 +155,7 @@ pub async fn fill_initial_preview(
             log::error!["failed to fetch X post: {}", preview.url];
         }
     } else if preview.url.contains("github.com") {
-        if let Ok(info) = utility::github::fetch_repo_info(env.octocrab, &preview.url).await {
+        if let Ok(info) = utility::github::fetch_repo_info(&env.octocrab, &preview.url).await {
             content = info.readme.clone();
             preview.summary = info
                 .readme
@@ -182,12 +228,39 @@ pub async fn fill_initial_preview(
     Ok(content)
 }
 
-pub async fn fill_detailed_preview(env: &mut Env<'_>, preview: &mut Preview) -> Result<()> {
-    let content = fill_initial_preview(env, preview).await?;
-    // use gemini-cli to create tags based on `content`
-    // write URLs and tags to file
-    // have an Apple Shortcuts automation that collects from that file and makes entries in Anybox with the tags
-    todo!()
+pub async fn fill_bookmarked_preview(env: &mut Env, preview: &mut Preview) -> Result<()> {
+    log::info!("Filling bookmarked preview: {}", preview.url);
+
+    if let Some(content) = fill_initial_preview(env, preview).await? {
+        log::info!("Creating tags for preview: {}", preview.url);
+
+        let output = utility::ai::gemini_cli(&format!(
+            "Write a comma-separated list of tags that categorize the following written content. Respond ONLY with the comma-separated list.\n\n{content}"
+        ))?;
+
+        let tags = [
+            preview.tags().unwrap_or_default(),
+            output
+                .trim()
+                .split(",")
+                .map(|tag| tag.trim())
+                .filter(|tag| !tag.is_empty())
+                .collect::<Vec<_>>(),
+        ]
+        .concat();
+
+        preview.tags = Some(tags.join(","));
+        // fs::write(config::BOOKMARKED_URLS_WITH_TAGS_FILEPATH, contents)
+    } else {
+        log::warn!(
+            "I failed to create tags for this preview since no content was extracted for it: {}",
+            preview.url
+        );
+    }
+
+    preview.bookmarked = true;
+
+    Ok(())
 }
 
 // -----------------------------------------------------------------------------
@@ -228,8 +301,8 @@ pub async fn fetch_rss_channel(client: &reqwest::Client, url: &str) -> Result<rs
     Ok(channel)
 }
 
-pub fn fetch_urls() -> Result<Vec<String>> {
-    let content = fs::read_to_string(config::URLS_FILEPATH.as_str())?;
+pub fn get_saved_urls() -> Result<Vec<String>> {
+    let content = fs::read_to_string(config::SAVED_URLS_FILEPATH.as_str())?;
 
     Ok(content
         .split('\n')
@@ -238,9 +311,23 @@ pub fn fetch_urls() -> Result<Vec<String>> {
         .collect())
 }
 
-// TODO: use this
-pub fn clear_urls() -> Result<()> {
-    fs::write(config::URLS_FILEPATH.as_str(), "")?;
+pub fn clear_saved_urls() -> Result<()> {
+    fs::write(config::SAVED_URLS_FILEPATH.as_str(), "")?;
+    Ok(())
+}
+
+pub fn get_bookmarked_urls() -> Result<Vec<String>> {
+    let saved_urls = std::fs::read_to_string(config::BOOKMARKED_URLS_FILEPATH.as_str())?;
+    let saved_urls = saved_urls
+        .split("\n")
+        .filter(|s| !s.is_empty())
+        .map(|s| s.to_owned())
+        .collect::<Vec<_>>();
+    Ok(saved_urls)
+}
+
+pub fn clear_bookmarked_urls() -> Result<()> {
+    std::fs::write(config::BOOKMARKED_URLS_FILEPATH.as_str(), "")?;
     Ok(())
 }
 

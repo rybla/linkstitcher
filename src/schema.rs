@@ -9,5 +9,6 @@ diesel::table! {
         published_date -> Nullable<Text>,
         tags -> Nullable<Text>,
         summary -> Nullable<Text>,
+        bookmarked -> Bool,
     }
 }

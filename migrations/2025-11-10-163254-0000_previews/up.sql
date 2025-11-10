@@ -1,3 +1,4 @@
+-- Your SQL goes here
 CREATE TABLE previews (
   url TEXT NOT NULL PRIMARY KEY,
   added_date DATE NOT NULL,
@@ -5,5 +6,6 @@ CREATE TABLE previews (
   title TEXT,
   published_date TEXT,
   tags TEXT,
-  summary TEXT
+  summary TEXT,
+  bookmarked BOOL NOT NULL DEFAULT FALSE
 )

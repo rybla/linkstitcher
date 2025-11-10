@@ -14,6 +14,7 @@ pub struct Preview {
     pub published_date: Option<String>,
     pub tags: Option<String>,
     pub summary: Option<String>,
+    pub bookmarked: bool,
 }
 
 impl Preview {
@@ -43,6 +44,14 @@ impl Preview {
         self.tags
             .as_ref()
             .map(|tags| tags.split(",").map(|s| s.trim()).collect())
+    }
+
+    pub fn to_bookmarked_url_with_tags_string(&self) -> String {
+        format!(
+            "{}\n{}",
+            self.url,
+            self.tags().unwrap_or_default().join(",")
+        )
     }
 }
 
@@ -85,6 +94,7 @@ impl Preview {
                 }
             },
             summary: item.description,
+            bookmarked: false,
         })
     }
 
@@ -97,6 +107,7 @@ impl Preview {
             published_date: None,
             tags: None,
             summary: None,
+            bookmarked: false,
         }
     }
 }

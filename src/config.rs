@@ -10,7 +10,9 @@ macro_rules! get_env_var {
 lazy_static::lazy_static! {
     pub static ref GITHUB_PERSONAL_ACCESS_TOKEN: String = get_env_var!(GITHUB_PERSONAL_ACCESS_TOKEN);
     pub static ref DATABASE_URL: String = get_env_var!(DATABASE_URL);
-    pub static ref URLS_FILEPATH: String = get_env_var!(URLS_FILEPATH);
+    pub static ref SAVED_URLS_FILEPATH: String = get_env_var!(SAVED_URLS_FILEPATH);
+    pub static ref BOOKMARKED_URLS_FILEPATH: String = get_env_var!(BOOKMARKED_URLS_FILEPATH);
+    pub static ref BOOKMARKED_URLS_WITH_TAGS_FILEPATH: String = get_env_var!(BOOKMARKED_URLS_WITH_TAGS_FILEPATH);
     pub static ref RSS_FEED_URLS_FILEPATH: String = get_env_var!(RSS_FEED_URLS_FILEPATH);
 }
 

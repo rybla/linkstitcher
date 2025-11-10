@@ -9,5 +9,27 @@
             <title>rybl/linkstitcher</title>
             <link>https://github.com/rybla/linkstitcher</link>
         </image>
+        <item>
+            <title>SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for
+  Large Language Models</title>
+            <link>https://arxiv.org/abs/2511.05459</link>
+            <description><![CDATA[  Evaluating large language models (LLMs) for software engineering has been
+limited by narrow task coverage, language bias, and insufficient alignment with
+real-world developer workflows. Existing benchmarks often focus on algorithmic
+problems or Python-centric bug fixing, leaving critical dimensions of software
+engineering underexplored. To address these gaps, we introduce SWE-Compass1, a
+comprehensive benchmark that unifies heterogeneous code-related evaluations
+into a structured and production-aligned framework. SWE-Compass spans 8 task
+types, 8 programming scenarios, and 10 programming languages, with 2000
+high-quality instances curated from authentic GitHub pull requests and refined
+through systematic filtering and validation. We benchmark ten state-of-the-art
+LLMs under two agentic frameworks, SWE-Agent and Claude Code, revealing a clear
+hierarchy of difficulty across task types, languages, and scenarios. Moreover,
+by aligning evaluation with real-world developer practices, SWE-Compass
+provides a rigorous and reproducible foundation for diagnosing and advancing
+agentic coding capabilities in large language models.
+]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
     </channel>
 </rss>
