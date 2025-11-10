@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>rybl/linkstitcher</title>
+        <link>https://github.com/rybla/linkstitcher</link>
+        <description>This is the linkstitcher RSS feed for https://github.com/rybla</description>
+        <image>
+            <url>https://www.rybl.net/favicon.ico</url>
+            <title>rybl/linkstitcher</title>
+            <link>https://github.com/rybla/linkstitcher</link>
+        </image>
+    </channel>
+</rss>
