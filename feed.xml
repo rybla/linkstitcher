@@ -10,24 +10,24 @@
             <link>https://github.com/rybla/linkstitcher</link>
         </image>
         <item>
-            <title>SWE-Compass: Towards Unified Evaluation of Agentic Coding Abilities for
-  Large Language Models</title>
-            <link>https://arxiv.org/abs/2511.05459v1</link>
-            <description><![CDATA[  Evaluating large language models (LLMs) for software engineering has been
-limited by narrow task coverage, language bias, and insufficient alignment with
-real-world developer workflows. Existing benchmarks often focus on algorithmic
-problems or Python-centric bug fixing, leaving critical dimensions of software
-engineering underexplored. To address these gaps, we introduce SWE-Compass1, a
-comprehensive benchmark that unifies heterogeneous code-related evaluations
-into a structured and production-aligned framework. SWE-Compass spans 8 task
-types, 8 programming scenarios, and 10 programming languages, with 2000
-high-quality instances curated from authentic GitHub pull requests and refined
-through systematic filtering and validation. We benchmark ten state-of-the-art
-LLMs under two agentic frameworks, SWE-Agent and Claude Code, revealing a clear
-hierarchy of difficulty across task types, languages, and scenarios. Moreover,
-by aligning evaluation with real-world developer practices, SWE-Compass
-provides a rigorous and reproducible foundation for diagnosing and advancing
-agentic coding capabilities in large language models.
+            <title>GEMMA-SQL: A Novel Text-to-SQL Model Based on Large Language Models</title>
+            <link>https://arxiv.org/abs/2511.04710</link>
+            <description><![CDATA[  Text-to-SQL systems enable users to interact with structured databases using
+natural language, eliminating the need for specialized programming knowledge.
+In this work, we introduce GEMMA-SQL, a lightweight and efficient text-to-SQL
+model built upon the open-source Gemma 2B architecture. Unlike many large
+language models (LLMs), GEMMA-SQL is fine-tuned in a resource-efficient,
+iterative manner and can be deployed on low-cost hardware. Leveraging the
+SPIDER benchmark for training and evaluation, GEMMA-SQL combines multiple
+prompting strategies, including few-shot learning, to enhance SQL query
+generation accuracy. The instruction-tuned variant, GEMMA-SQL Instruct,
+achieves 66.8% Test-Suite accuracy and 63.3% Exact Set Match accuracy,
+outperforming several state-of-the-art baselines such as IRNet, RYANSQL, and
+CodeXDavinci. The proposed approach demonstrates that effective prompt design
+and targeted instruction tuning can significantly boost performance while
+maintaining high scalability and adaptability. These results position GEMMA-SQL
+as a practical, open-source alternative for robust and accessible text-to-SQL
+systems.
 ]]></description>
             <pubDate>2025-11-10</pubDate>
         </item>
@@ -51,6 +51,652 @@ by aligning evaluation with real-world developer practices, SWE-Compass
 provides a rigorous and reproducible foundation for diagnosing and advancing
 agentic coding capabilities in large language models.
 ]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Main / USNI Sale 2025</title>
+            <link>https://www.navalgazing.net/USNI-Sale-2025</link>
+            <description><![CDATA[<p>As the end of the year draws close, the Naval Institute Press once again has put its books on sale.  It's a better sale than last year, with everything not on clearance getting 50% off if you use the code HOLIDAY at checkout, although they haven't brought back free shipping.  The vast majority of the stuff I use for Naval Gazing comes from them, so this is without a doubt the best time to build out your naval library.
+</p>
+<p>Looking first over the new releases, there's the <a class='urllink' href='https://www.usni.org/press/books?f%5B0%5D=subject%3A1991' rel='nofollow'>spring</a> and <a class='urllink' href='https://www.usni.org/press/books?f%5B0%5D=subject%3A1993' rel='nofollow'>fall</a> catalogs, as well as the <a class='urllink' href='https://www.usni.org/press/books?f%5B0%5D=subject%3A1997' rel='nofollow'>spring 2026</a> section.  Unfortunately, it is here that USNI's strange operational decisions and/or ongoing IT woes cause problems, as several of the most interesting new releases, including the vital <a class='urllink' href='https://www.usni.org/press/books/seaforth-world-naval-review-2026' rel='nofollow'>Seaforth World Naval Review 2026</a>, <a class='urllink' href='https://www.usni.org/press/books/french-aircraft-carriers-1910-2000' rel='nofollow'>French Aircraft Carriers 1910-2000</a>, <a class='urllink' href='https://www.usni.org/press/books/japanese-aircraft-carriers-1920-1945' rel='nofollow'>Japanese Aircraft Carriers 1920-1945</a> and Friedman's new <a class='urllink' href='https://www.usni.org/press/books/british-aircraft-carrier' rel='nofollow'>The British Aircraft Carrier in Two World Wars</a> are not in those catalogs.  Ones that are in the catalog and are worth checking out include <a class='urllink' href='https://www.usni.org/press/books/cold-war-anti-submarine-warfare' rel='nofollow'>Friedman's new book on Cold War ASW</a> (I already have a copy, and it's quite good), <a class='urllink' href='https://www.usni.org/press/books/battleship-new-jersey-0' rel='nofollow'>Paul Stillwell's book on <em>New Jersey</em></a>, <a class='urllink' href='https://www.usni.org/press/books/russian-cruisers-tsarist-era-1880-1918' rel='nofollow'>Stephen McLaughin's new book on Tsarist Cruisers</a> and <a class='urllink' href='https://www.usni.org/press/books/british-aircraft-carrier-0' rel='nofollow'>the second volume of Friedman's new work on British carriers</a>.
+<a id='break'></a>
+</p>
+<p>There's also a lot of good stuff from previous years available.  Starting as usual with Friedman, there's the <a class='urllink' href='https://www.usni.org/press/books?f%5B0%5D=subject%3A544' rel='nofollow'>Illustrated Design History</a> series, which form the basis for a lot of my work, as well as <a class='urllink' href='https://www.usni.org/press/books/british-cruisers-0' rel='nofollow'>British Cruisers of the 20th century</a>, <a class='urllink' href='https://www.usni.org/press/books/us-navy-attack-aircraft-1920-2020' rel='nofollow'>US Navy Attack Aircraft</a>, <a class='urllink' href='https://www.usni.org/press/books/fighting-great-war-sea' rel='nofollow'>Fighting the Great War at Sea</a>, the best technological and operational overview of the naval side of WWI I am aware of, and <a class='urllink' href='https://www.usni.org/press/books/fifty-year-war' rel='nofollow'>the Fifty Year War</a>, a truly excellent history of the Cold War.  The last two are on the sale rack, which means there's a decent chance they won't be available for long, so get them now.
+</p>
+<p>Nor is Friedman the only design-focused author whose work you can pick up cheaply.  There's Stephen McLaughlin's excellent <a class='urllink' href='https://www.usni.org/press/books/russian-and-soviet-battleships-0' rel='nofollow'>Russian and Soviet Battleships</a>, the only book that fully matches Friedman's design books, and D.K. Brown's <a class='urllink' href='https://www.usni.org/press/books/ironclad-0' rel='nofollow'>Before the Ironclad</a>, <a class='urllink' href='https://www.usni.org/press/books/atlantic-escorts-0' rel='nofollow'>Atlantic Escorts</a> and <a class='urllink' href='https://www.usni.org/press/books/rebuilding-royal-navy' rel='nofollow'>Rebuilding the Royal Navy</a>, all the work of a naval architect who brings a unique view of the subject.  Other works worth pointing out include <a class='urllink' href='https://www.usni.org/press/books/aircraft-royal-navy-1908' rel='nofollow'>Aircraft of the Royal Navy since 1908</a>, which gives details on everything the RN has operated, <a class='urllink' href='https://www.usni.org/press/books/two-navies-divided' rel='nofollow'>Two Navies Divided</a>, a good single-volume overview of the USN and RN in WWII, and the 14-volume set of Samuel Eliot Morison's <a class='urllink' href='https://www.usni.org/press/books/history-us-naval-operations-world-war-ii' rel='nofollow'>History of US Naval Operations in World War II</a>.  For those whose interests are more recent, there's <a class='urllink' href='https://www.usni.org/press/books/china-twenty-first-century-naval-power' rel='nofollow'>China As A 21st Century Naval Power</a>, a deep look at the PLAN's development, and past volumes of Seaforth World Naval Review, as there's substantial new content each year.  I will also mostly endorse <a class='urllink' href='https://www.usni.org/press/books?search=&amp;f%5B0%5D=subject%3A1966' rel='nofollow'>Drachinifel's reading list</a>, although there are a few on there I don't have or didn't particularly like.
+</p>
+<p>It's also worth checking out the <a class='urllink' href='https://www.usni.org/press/books?search=&amp;f%5B0%5D=subject%3A51' rel='nofollow'>"Clear the Decks" sale section</a>, which has a ton of great stuff, much for $10-20.  There isn't anything amazing this year (except Fifty-Year War), but competent options include <a class='urllink' href='https://www.usni.org/press/books/world-battleship' rel='nofollow'>The World of the Battleship</a>, <a class='urllink' href='https://www.usni.org/press/books/british-battleships-world-war-one-0' rel='nofollow'>British Battleships In World War One</a>, <a class='urllink' href='https://www.usni.org/press/books/strike-warfare-21st-century' rel='nofollow'>Strike Warfare in the 21st Century</a> and <a class='urllink' href='https://www.usni.org/press/books/battle-line' rel='nofollow'>Battle Line</a>, a history of the interwar USN.
+</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Main / Museum Review - Japan Coast Guard Museum and Daiba Park</title>
+            <link>https://www.navalgazing.net/Museum-Review-Japan-Coast-Guard-Museum</link>
+            <description><![CDATA[<p>Reader Albert Liu has recently been to Japan, and has kindly contributed reviews of two places he visited.
+</p>
+<hr />
+<h2>Japan Coast Guard Museum</h2>
+<div  style='text-align: center;' class='img imgcaption'> <span class='px'> <img width='600' src='/attach/JCGMuseumSpyShip.jpg?v=1762008134.jpg' alt='' /><br /><span class='caption'>A North Korean spy ship<a class='footnote' id='fnr1_1' href='#fn1_1'><sup>1</sup></a></span></span></div>
+<div class='property-Type'>Type: Coast Guard museum</div>
+<div class='property-Location'>Location: Yokohama, Japan</div>
+<div class='property-Rating'>Rating: 4/5, big catch in a small museum</div>
+<div class='property-Admission'>Admission: Free</div>
+<p><a class='urllink' href='https://jcgmuseum.jp/en/' rel='nofollow'>Website</a>
+</p>
+<p>While the museum is officially titled "Japan Coast Guard Museum Yokohama", it is the subtitle "North Korea Spy Ship Exhibit" that really gives away the museum's topic: the 2001 Battle of Amami-Ōshima (<a class='urllink' href='https://en.wikipedia.org/wiki/Battle_of_Amami-%C5%8Cshima' rel='nofollow'>English Wikipedia</a>, <a class='urllink' href='https://ja.wikipedia.org/wiki/%E4%B9%9D%E5%B7%9E%E5%8D%97%E8%A5%BF%E6%B5%B7%E5%9F%9F%E5%B7%A5%E4%BD%9C%E8%88%B9%E4%BA%8B%E4%BB%B6' rel='nofollow'>Japanese Wikipedia</a>) in which the spy ship was sunk. The entire museum consists of one counter-clockwise loop around the 30 metre-long spy ship "Changyu 1305". This is both the worst and the best thing about the museum: on one hand, the collection is not particularly large, but on the other hand, the collection that it *does* have is excellent and coherent. Most signs have English (and Korean) translations, which are serviceable overall, though a few signs are in Japanese only and occasionally some nuances seem lost in translation. Admission is free.
+</p>
+<h3>Sequence of events</h3>
+<div  style='text-align: center;' class='img'> <span class='px'> <img width='600' src='/attach/JCGMuseumSign.jpg?v=1762008776.jpg' alt='' /> </span></div>
+<p>Traveling down the starboard side, we first get an overview of the JCG's mission, other DPRK spy ship incidents, and a timeline of this spy ship incident and subsequent recovery of the vessel. The <a class='urllink' href='https://www.youtube.com/watch?v=W7OsSrnyoCg' rel='nofollow'>documentary on YouTube</a> has footage from the incident and more details overall, though the museum too has its share of exclusive details, and of course the actual artifacts. A summary:
+</p>
+<p>On 22 December 2001, aircraft and four ships of the JCG (PM-95 <em>Amami</em>, PS-03 <em>Inasa</em>, PS-04 <em>Kirishima</em>, PS-11 <em>Mizuki</em>) were sent to investigate a spy ship southwest of Kyūshū. They ordered the spy ship to stop, at which the spy ship attempted to flee. Since the order to stop was given within Japan's exclusive economic zone, the JCG asserted the right of hot pursuit past the Japan-China EEZ border. A nine-hour chase ensued, including a series of progressively intensifying warning shots, a fire aboard the spy ship, and multiple attempts to pincer and corral the spy ship. Finally, the spy ship opened fire on the JCG. After a brief firefight in which three were wounded aboard the <em>Amami</em>, the spy ship exploded (thought to be an intentional scuttling) and sank with all hands in 90 metres of water.
+</p>
+<p>The JCG conducted a search, and after reaching an agreement with China, recovered the wreck, eventually unloading the spy ship at Kagoshima on 6 October 2002. After being displayed to the public in Kagoshima and Tokyo, the spy ship was moved to a permanent home in Yokohama. Its preservation was aided by donations totaling 105 million yen. The museum was opened on 10 December 2004, just under three years after the incident.
+</p>
+<h3>Weapons and other artifacts</h3>
+<div  style='text-align: center;' class='img imgonly'> <span class='px'> <img width='600' src='/attach/JCGMuseumEngineRoom.jpg?v=1762008776.jpg' alt='' /></span></div>
+<p>Continuing towards the stern are various artifacts recovered with the spy ship. Naturally, the most eye-catching is the collection of weapons. A B-10 85 mm recoilless gun could be mounted on the bow, and a ZPU-2 twin-barreled 14.5 mm machine gun was kept hidden in a deckhouse and could be deployed to the afterdeck on a pair of rails. Along with these are various lighter weapons, including an Igla surface-to-air missile launcher, a PK light machine gun, a couple RPG-7s, and several AKS-74 rifles. (For comparison, the JCG ships were armed with Vulcan 20 mm rotary autocannons, downrated to ~500 RPM for surface use; not part of this museum.)
+</p>
+<p>Other items include fake nameplates used to disguise the spy ship, a self-destruct switch, a diesel engine nameplate (made in Russia), several electronic devices (made in Japan), and various victuals.
+</p>
+<h3>Daughter craft</h3>
+<div  style='text-align: center;' class='img'> <span class='px'> <img width='600' src='/attach/JCGMuseumUnderwaterScooterA.jpg?v=1762008663.jpg' alt='' />  </span></div>
+<p>Aft of the spy ship is a speedboat, 11.21 metres long, which was stored within the hull of the mothership and could be deployed via a pair of pneumatically-powered doors at the stern. There is also a pontoon raft, an underwater scooter resembling a rideable torpedo, and various pieces of diving gear. All-in-all, a real nesting doll of a craft; other readers have described this as something out of a James Bond movie.
+</p>
+<h3>Top view</h3>
+<div  style='text-align: center;' class='img imgonly'> <span class='px'> <img width='600' src='/attach/JCGMuseumShipUpper.jpg?v=1762008664.jpg' alt='' /></span></div>
+<p>The port side of the ship brings us onto a raised platform, allowing us a top view of the spy ship, including the wheelhouse and engines. After a small gift shop and some informational posters about the JCG, the museum concludes with a half-scale replica of the <em>Amani</em>'s battle-damaged bridge (according to the documentary, the original bridge is displayed in Hiroshima) as well as several pieces of equipment that had been hit by bullets.
+</p>
+<h3>Visiting Yokohama</h3>
+<p>As much I liked the museum, it's just not big enough to justify visiting Yokohama on its strength alone. Fortunately, there's plenty to see in Yokohama in addition to the spy ship, such as the sail training ship <em>Nippon Maru</em> and the foreign quarter of one of <a class='urllink' href='https://en.wikipedia.org/wiki/Treaty_of_Amity_and_Commerce_%28United_States%E2%80%93Japan%29' rel='nofollow'>the first treaty ports</a>. Furthermore, Yokohama is right on the path between Tokyo and Yokosuka, the latter being the home to the JMSDF headquaters and naval base, a USN naval base, and the <a class='wikilink' href='https://www.navalgazing.net/Museum-Review-Mikasa'><em>Mikasa</em></a>.
+</p>
+<h2>Daiba Park</h2>
+<div  style='text-align: center;' class='img'> <span class='px'> <img width='600' src='/attach/DaibaParkOutside.png?v=1762008965.png' alt='' />  </span></div>
+<div class='property-Type'>Type: Coastal fortification</div>
+<div class='property-Location'>Location: Odaiba, Tokyo, Japan</div>
+<div class='property-Rating'>Rating: 3/5 (few artifacts remain, but incomparable location)</div>
+<div class='property-Admission'>Admission: Free</div>
+<p><a class='urllink' href='https://en.wikipedia.org/wiki/Odaiba' rel='nofollow'>Wikipedia</a>
+</p>
+<p>With several hours to kill before my flight out of Japan, I decided to visit Odaiba, an artificial island in Tokyo Bay. In the backyard of several shopping malls, I noticed a curious fortification on the other side of a cove. This turned out to be Daiba ("Battery") Park, an almost-island connected by a land bridge to the rest of Odaiba. It's about a kilometer walk from the nearest rail station, though you can get closer by bus. Another option is to walk across the Rainbow Bridge Promenade.
+</p>
+<div  style='text-align: center;' class='img imgonly'> <span class='px'> <img width='600' src='/attach/DaibaPark2CannonMounts.jpg?v=1762008966.jpg' alt='' /></span></div>
+<p>Odaiba as a whole was originally constructed in the aftermath of <a class='urllink' href='https://en.wikipedia.org/wiki/Perry_Expedition' rel='nofollow'>Commodore Perry's 1853 expedition</a> in case hostilities commenced upon Perry's return. Six battery islands were completed, with a seventh battery unfinished, and four more planned but never started. No. 3 battery was designated a national historic site on 20 December 1926 and refurbished as Daiba Park, opening on 7 July 1928. The only other battery island remaining as a distinct entity today is No. 6, which is about half a kilometer (center-to-center) to the west of Daiba Park. Inaccessible to visitors, No. 6 now functions as a bird preserve. Meanwhile, the surrounding parts of Tokyo Bay have seen massive land reclamation with numerous well-populated artificial islands.
+</p>
+<p>Daiba Park is grassy and just this side of overgrown, and there are not very many discrete artifacts left. Two cannon mounts (sans the actual cannons) are all that remain of the battery proper. Inside the works there are some (fenced-off) entrances to the magazines, a stone stove, and various other low ruins. History aside, the island has great views of the inner part of Tokyo Bay. On a Monday afternoon I think I only saw two or three other people there, one of whom was a groundskeeper. It is pleasant -- though a bit uncanny -- being in such a quiet, unpopulated, antiquated scene in the middle of the planet's most populous metropolis and its countless feats of modern architecture and engineering. I wouldn't go out of my way just to see Daiba Park, but I'm glad I visited as part of the area as a whole. 
+</p>
+<hr />
+<div class='footnotes'>
+<div class='footnote' id='fn1_1'>
+<p><span class='footnote-number'>1</span> Photos courtesy of Albert Liu. <a href='#fnr1_1'>&#8657;</a>
+</p></div></div>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Main / Navy Day 2025</title>
+            <link>https://www.navalgazing.net/Navy-Day-2025</link>
+            <description><![CDATA[<p>Today is the day traditionally set aside for the celebration of the US Navy (although this hasn't been the case since the 1940s for <a class='wikilink' href='https://www.navalgazing.net/Revolt-of-the-Admirals-Part-1'>complicated reasons of service politics</a>) and the 8th anniversary of the blog.
+</p>
+<div  style='text-align: center;' class='img imgonly'> <span class='px'> <img height='440' src='/attach/NavyDayPosterFor2025.jpeg?v=1761321205.jpeg' alt='' /></span></div>
+<p>It's been another good year, and I continue to be astonished at how a thing that started with an offhand blog comment has continued to run for most of a decade.  Highlights for the year were the third Naval Gazing meetup in LA, and my appearance on <a class='urllink' href='https://www.complexsystemspodcast.com/episodes/defense-with-bean-of-naval-gazing/' rel='nofollow'>Patrick McKenzie's Complex Systems podcast</a>.  Beyond that, there was the normal business of Naval Gazing and the continued existence of the <a class='urllink' href='https://discord.gg/gsR3Gr8Rnd' rel='nofollow'>Discord</a>.  And I'm looking forward to next year, particularly the meetup we have scheduled in <a class='wikilink' href='https://www.navalgazing.net/Museum-Review-US-Air-Force-Museum'>Dayton</a> on May 14th to 17th.  Look for a signup in the next month or two.
+</p>
+<p>As always, I'm grateful to everyone else who has helped with the blog over the last year.  John Olsen, Alexander and John Schilling contributed guest posts, while Obormot has kept the blog running for me and Rebecca Friedman handled food for the meetup.  And everyone who commented and engaged with my stuff made what I do worth it.  And as always, Lord Nelson puts up with me as I work on this.
+</p>
+<p>Thanks to everyone for reading.
+</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Main / Memorial Continental Hall and the Washington Treaty</title>
+            <link>https://www.navalgazing.net/Memorial-Continental-Hall-and-the-Washington-Treaty</link>
+            <description><![CDATA[<p>I was in DC recently for the DSL meetup, which was just as much fun as usual.  There was only one problem: the government was shut down, which in turn meant that the Smithsonian was also closed.  But I didn't want to go to DC without going to a museum, and eventually I decided to lead an expedition to the Daughters of the American Revolution Museum, located in Memorial Continental Hall, not far from the White House.
+</p>
+<div  style='text-align: center;' class='img'> <span class='px'> <img width='600' src='/attach/Memorial_Continental_Hall_Modern.jpg?v=1761320478.jpg' alt='' /> </span></div>
+<p>Now, a museum dedicated to the decorative arts is not normally my cup of tea, and it isn't the sort of thing I typically review here because 31 rooms representing the American home throughout the 18th and 19th centuries isn't what you've come to Naval Gazing for.<a class='footnote' id='fnr2_1' href='#fn2_1'><sup>1</sup></a>  The building itself is in the typical Washington Neoclassical style, and it's quite pretty, with a big library full of genealogical information at its center.
+</p>
+<p>But that space hasn't always been a library, and it is the reason I'm writing here.  When the building first opened 120 years ago, it was a theater, and in 1921, when the Harding Administration called for <a class='wikilink' href='https://www.navalgazing.net/The-Washington-Treaty'>a conference on the limitation of naval armaments</a>, the DAR offered Memorial Continental Hall as the venue.<a class='footnote' id='fnr2_2' href='#fn2_2'><sup>2</sup></a>  The government gratefully accepted,<a class='footnote' id='fnr2_3' href='#fn2_3'><sup>3</sup></a> and the theater floor was decked over to make room for the giant table where the delegates would be seated.  The balcony above provided room for the public to view proceedings, and many who had been at the Versailles conference a few years before were very complementary about the facilities provided by the DAR.
+</p>
+<div  style='text-align: center;' class='img imgonly'> <span class='px'> <img width='600' src='/attach/MeWashingtonTreatySign.jpg?v=1761320477.jpg' alt='' /></span></div>
+<p>Today, it's relatively easy to get access to the library (admission to the building is free, although you do have to get a temp badge and go through minor security) and there's a plaque behind the desk commemorating the negotiations held there.  The staff were kind enough to let us back to inspect it.  It's not particularly inspiring, but it does confirm your status as the kind of mega-nerd who will make a pilgrimage to the home of a naval treaty.  Which I absolutely am, at least if the Smithsonians are closed.
+</p>
+<hr />
+<div class='footnotes'>
+<div class='footnote' id='fn2_1'>
+<p><span class='footnote-number'>1</span> For the record, half a dozen or so are presently closed for renovations.  The ones that were open were nice enough, but it would have been a lot better with a guide, or someone who could tie them together reasonably well. <a href='#fnr2_1'>&#8657;</a>
+</p></div><div class='footnote' id='fn2_2'>
+<p><span class='footnote-number'>2</span> These days, it's also a high-end wedding venue, and we saw a bridal party while we were visiting.  If anyone ever gets married there because of the Washington Treaty, I will feature you on Naval Gazing. <a href='#fnr2_2'>&#8657;</a>
+</p></div><div class='footnote' id='fn2_3'>
+<p><span class='footnote-number'>3</span> It's not entirely clear why they didn't have suitable facilities of their own, but this was before the major expansion of government facilities in the 20s and 30s that created so much of Washington today. <a href='#fnr2_3'>&#8657;</a>
+</p></div></div>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Main / Open Thread 185</title>
+            <link>https://www.navalgazing.net/Open-Thread-185</link>
+            <description><![CDATA[<p>It's time for our regular open thread.  Talk about whatever you want, so long as it isn't Culture War.
+</p>
+<p>Overhauls are <a class='wikilink' href='https://www.navalgazing.net/The-Washington-Treaty'>The Washington Treaty</a> and for 2024 Suez parts <a class='wikilink' href='https://www.navalgazing.net/Suez-Part-2'>two</a> and <a class='wikilink' href='https://www.navalgazing.net/Suez-Part-3'>three</a>, <a class='wikilink' href='https://www.navalgazing.net/Museum-Review-National-Guard-Museum'>my review of the National Guard Museum</a> and <a class='wikilink' href='https://www.navalgazing.net/Museum-Review-Air-Mobility-Command-Museum'>theredlamb's review of the AMC Museum</a>.
+</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Base 10 Is Not a Good Base</title>
+            <link>https://www.teamten.com/lawrence/writings/base-10-is-not-a-good-base.html</link>
+            <description><![CDATA[<p>I thought of another reason I don’t really like the metric system: Base 10 is
+not a good base. You want your base to either be a power of 2 so that you can
+keep dividing by two (like a gallon has 128 fluid ounces) or have a bunch of
+useful factors (like a foot has 12 inches, so you can easily get ⅓ or ¼; and a
+minute has 60 seconds). Base 10’s factors are not great; you rarely want to
+divide anything by 5.</p>
+<p>Some alien race has eight fingers, and when they visit here they understand
+<em>why</em> we use base 10, but it must be striking to them how bad of a base it is.
+Like you have 100 grams and you can divide it by 2 twice and after that you can
+only divide it by 5. Who needs to divide by 5? Especially in cooking.</p>
+<p>It’d be like if we found an alien species that used base 14 for everything. One
+unit, then 14, then 196?! If you have 196 grams, you can divide it by 2 twice
+and then you can only divide it by 7? Bad base! Use 12 or 8 or something.</p>
+<p>Metric’s entire foundation is a bad base.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Dimension vs. Rank</title>
+            <link>https://www.teamten.com/lawrence/writings/dimension-vs-rank.html</link>
+            <description><![CDATA[<p>I&rsquo;ve long been confused by the two definitions of the word <em>dimension</em>.
+Sometimes we talk about a 3-dimensional array:</p>
+<div class="codehilite"><pre><span></span><code><span class="kt">float</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="mi">5</span><span class="p">][</span><span class="mi">6</span><span class="p">][</span><span class="mi">7</span><span class="p">];</span>
+</code></pre></div>
+
+<p>and sometimes we talk about a 3-dimensional vector:</p>
+<div class="codehilite"><pre><span></span><code><span class="kt">float</span><span class="w"> </span><span class="n">v</span><span class="p">[</span><span class="mi">3</span><span class="p">];</span>
+</code></pre></div>
+
+<p>I finally figured out that the word is only correctly used in the second
+example above. In the first example, the term should be <em>rank</em>, as in,
+&ldquo;a rank-3 array&rdquo;.</p>
+<p>So <em>rank</em> is the <em>number of indices</em> that you need to get to a scalar. In
+the first example you need three indices to get a float:</p>
+<div class="codehilite"><pre><span></span><code><span class="n">x</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">][</span><span class="n">k</span><span class="p">];</span>
+</code></pre></div>
+
+<p>Each of these indices has a range of valid values, and this is the <em>dimension</em>
+of that index. Again with the first example, the dimension of the first index
+is 5, of the second is 6, and of the third is 7. This is why it&rsquo;s correct to
+call the second example &ldquo;a 3 dimensional vector&rdquo;. It has rank 1 and its only
+index can have three values (0, 1, and 2). Vectors are always rank 1 and
+matrices are always rank 2.</p>
+<p>Looks like this terminology has always been used in mathematics. I wonder why
+in programming we misappropriated <em>dimension</em> to mean <em>rank</em>.</p>
+<p class="cover-credit">(Cover image credit: Midjourney, &ldquo;photorealistic large infinite matrices in
+space hypercube 3d multidimensional&rdquo;)</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Roe v. Wade</title>
+            <link>https://www.teamten.com/lawrence/writings/roe-v-wade.html</link>
+            <description><![CDATA[<p>I’m not thrilled about the overruling of <em>Roe v. Wade</em>, but let’s try to look for upsides.</p>
+<p>(Background: In 1973 the U.S. Supreme Court ruled that abortion was a
+constitutionally-guaranteed fundamental right, due to the 14th Amendment’s Due
+Process clause’s “right to privacy”. In 2022 this was overruled, again by the
+U.S. Supreme Court, mostly on the grounds that abortion was not a historical
+right in the U.S. This returned the issue to statutory law, where states and
+other jurisdictions can pass abortion-restricting laws without limits.)</p>
+<p>When <em>Roe</em> passed,
+<a href="https://en.wikipedia.org/wiki/Abortion_in_the_United_States#Roe_v._Wade">46 states</a>
+either fully (30) or mostly (16) banned abortions. The Supreme Court wielded a
+huge amount of power in invalidating important
+laws in the supermajority of states. Giving that kind of power to an
+institution is asking for trouble, since that institution might some day be
+controlled by the opposition. A Supreme Court packed with Scalia types might
+ban abortions nationwide, perhaps quoting the same 14th Amendment: “nor shall
+any State deprive any person of life”. I suspect pro-choice citizens would
+suddenly decide that courts should not adjudicate abortion rights! It might be
+best if we all agreed that such issues shouldn’t be decided by the courts,
+since its members’ appointments are long-lived and mostly disconnected from
+voter preferences. The U.S. Supreme Court is especially prone to shaky and
+fickle interpretations of the Constitution. A small undemocratic fickle group
+is hardly the best source for a policy so important to nearly every American!</p>
+<p>Not only that, but these decisions shouldn’t be decided at the national level,
+as Biden (through executive orders) and Congress are currently trying to do.
+Again we can imagine a conservative president or Congress that bans abortions
+nationwide. As terrible as it is for women in abortion-banned states to have to
+travel to other states, it would be worse if they didn’t even have that option.
+The more local the decision, the less they’d have to travel. Every red state
+has large blue cities within a few hours’ drive. I think it’s unlikely we’d
+actually decide these things at the city or county level, but perhaps we should
+agree to aim for that and away from nationwide decisions and statutes.</p>
+<p>For the same reason, perhaps we shouldn’t try to pass a constitutional
+amendment to guarantee abortion rights. It might backfire and ban them!
+Whatever power you’re tempted to give to an institution, first imagine the
+opposition controlling that institution. This doesn’t argue against giving any
+institution power — only that you should be okay with the opposition also
+controlling that institution, and whatever repercussions that might have.
+Typically this works best when the institution has checks and balances, and has
+effective error correction mechanisms (such as recalls). As a gut check, if the
+idea of an amendment banning abortion terrifies you, then, as a matter of
+principle, perhaps don’t look to amendments as a solution to abortion rights.</p>
+<p>There may be a more subtle silver lining. It’s been a mystery for a while,
+that, when polled, a solid majority of American voters would prefer abortion to
+remain legal. (It’s
+<a href="https://en.wikipedia.org/wiki/Abortion_in_the_United_States#By_educational_level">between 54% and 70%</a>
+depending on education level.) How
+are red states even able to pass these laws? How are pro-life politicians even
+elected? Here’s one possible explanation. Imagine a voter who is (say) fiscally
+conservative and pro-choice. They can choose between a Democrat and a
+Republican candidate. They know the Republican is pro-life, but they also know
+that this is irrelevant, since <em>Roe v. Wade</em> guarantees that this candidate won’t
+be able to actually curtail abortion rights. This person can vote Republican
+and get both of their preferences.</p>
+<p>Without <em>Roe v. Wade</em>, though, this voter must choose between their fiscally
+conservative preference and their pro-choice preference. I don’t know how many
+such voters there are, but some of these voters will switch from voting
+Republican to voting Democrat. If the effect is large enough, it’ll put
+pressure on <em>some</em> Republican politicians to moderate their abortion stance.
+Again this effect will be greatest on a local level; another reason to push
+decisions that way.</p>
+<p>The opposite combination might exist too (a voter who is fiscally liberal but
+pro-life and currently votes Democrat, but switches to Republican), though
+presumably there are fewer of those, given the above polling statistics.</p>
+<p>So, overall I think the reversal is a loss for the pro-choice movement, but
+perhaps the Democratic Party will pick up some voters along the way. At the
+very least we’ll see how many of these pro-life voters and politicians are
+truly willing to curtail abortion rights, and how many were bluffing.</p>
+<p class="cover-credit">(Cover image credit: DALL-E, &ldquo;Painting of nine judges surrounding a sad
+pregnant woman.&rdquo;)</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Pronouncing Hex</title>
+            <link>https://www.teamten.com/lawrence/writings/pronouncing-hex.html</link>
+            <description><![CDATA[<p>In the show <em>Silicon Valley</em> T.J. Miller&rsquo;s character, Erlich Bachman,
+asks someone &ldquo;&hellip; what nine times F is. It&rsquo;s fleventy-five.&rdquo;</p>
+<p><iframe width="640" height="480" src="https://www.youtube.com/embed/_zTpwNR5Bf4?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>The answer is <code>0x87</code>. It sounds like it should
+be <code>0xF5</code>, so Tim Babb took this and made a
+<a href="https://www.bzarg.com/p/how-to-pronounce-hexadecimal/">whole scheme</a>
+for pronouncing hex numbers.
+Before that, <code>0xF5</code> would have been &ldquo;fimtek five&rdquo; in
+<a href="http://www.intuitor.com/hex/words.html">S.R. Rogers&rsquo; 2007 scheme</a>,
+&ldquo;fytonsu&rdquo; in
+<a href="https://www.futilitycloset.com/2020/02/28/the-tonal-system/">John W. Nystrom&rsquo;s 1859 scheme</a>,
+and &ldquo;frosty five&rdquo; in
+<a href="https://en.wikipedia.org/wiki/Hexadecimal#Verbal_and_digital_representations">Robert Magnusson&rsquo;s 1968 scheme</a>:</p>
+<p><img alt="Robert Magnusson hex scheme" src="hex.jpeg" /></p>
+<p>None of these took off, which is just fine, but I still want to
+know whether to pronounce <code>0x10</code> as &ldquo;ten&rdquo; or &ldquo;one zero&rdquo;.
+I can&rsquo;t tell if &ldquo;eleven&rdquo; means two written <code>1</code>s, or if
+it always means the abstract number that&rsquo;s represented in decimal as <code>11</code>.
+Most would probably say &ldquo;eleven hex&rdquo; for <code>0x11</code>, but then is <code>0b11</code> &ldquo;eleven binary&rdquo;?
+That seems completely wrong.</p>
+<p>Rogers used &ldquo;ten&rdquo;, &ldquo;eleven&rdquo;, and &ldquo;twelve&rdquo; to mean their decimal value,
+so he used those for <code>0xA</code>, <code>0xB</code>, and <code>0xC</code>. After that he made up other
+names, like &ldquo;draze&rdquo; for <code>0xD</code>. Maybe that&rsquo;s because &ldquo;eleven&rdquo; and &ldquo;twelve&rdquo;
+don&rsquo;t have a &ldquo;ten&rdquo; or &ldquo;teen&rdquo; in their name, so they can be decoupled
+from base ten. Except that the &ldquo;tw&rdquo; of &ldquo;twelve&rdquo;
+<a href="https://www.etymonline.com/word/twelve">comes from &ldquo;two&rdquo;</a>!</p>
+<p>I had a friend once argue that &ldquo;sixteen&rdquo; clearly means six plus ten, so <code>0x10</code>
+should be pronounced &ldquo;sixteen&rdquo; (or &ldquo;one zero hex&rdquo;) and <code>0x16</code> should not. But
+that depends on you defining &ldquo;ten&rdquo; to be decimal <code>10</code> and not <code>0x10</code>. It would
+be internally consistent to define <code>0x10</code> as &ldquo;ten&rdquo; and <code>0x46</code> &ldquo;forty six hex&rdquo;.
+You&rsquo;d just need to spell out the letters if they appear, like &ldquo;forty eff&rdquo;
+for <code>0x4F</code> and &ldquo;eff five&rdquo; for <code>0xF5</code>.</p>
+<p>In the end I think it&rsquo;s too awkward to think of &ldquo;ten&rdquo; as just decimal <code>10</code>. That
+means <code>0xA</code> is &ldquo;ten&rdquo; and <code>0x10</code> is, what, &ldquo;hex one zero&rdquo;? Then <code>0x4000</code> is
+&ldquo;hex four zero zero zero&rdquo;? I&rsquo;ll stick with what I&rsquo;ve seen most people do,
+which is to re-use the decimal labels and just say &ldquo;hex&rdquo; in front:
+&ldquo;hex four thousand&rdquo;. After all, bases are just ways of <em>writing</em> numbers,
+and speech can just tag along with that instead of pretending that spoken
+numbers are always magically in decimal.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Homeschooling</title>
+            <link>https://www.teamten.com/lawrence/writings/homeschooling.html</link>
+            <description><![CDATA[<p>When Milo was in kindergarten, I read Seth Godin&rsquo;s
+<a href="https://medium.com/@thisissethsblog/stop-stealing-dreams-4116c7dbff7b">Stop Stealing Dreams</a>,
+which argues that schools are no longer the appropriate way to educate
+children. The essay haunted me for years, as I sent Milo to public school,
+to sit in a chair all day and have uninteresting (to him) information
+pushed on him.</p>
+<p>Two months into Milo&rsquo;s 7th grade, Jen and I decided to pull him out for two
+years. Reasons included:</p>
+<ul>
+<li>His middle school was pretty bad.</li>
+<li>He was still young enough to enjoy spending time with us. We knew this wouldn&rsquo;t last.</li>
+<li>This was our last chance to truly spend quality time with him.</li>
+<li>We were in a unique situation to do this, since both of us worked at home.</li>
+</ul>
+<p>The experience was such a surprise that I think it&rsquo;s worth writing it up for
+those who are considering it.</p>
+<p>Initially we found a few homeschooling books and online classes (such as
+<a href="https://outschool.com/]">Outschool</a>) and made a token
+effort to help him through them. Of course as a 13-year-old boy, all he wanted
+to do was play video games, and he&rsquo;d race through whatever worksheets he&rsquo;d been
+assigned so he could get back to Minecraft.</p>
+<p>This got tiring, so I eventually told him that since his friends get out of school at
+3:30pm, before that he can&rsquo;t play games no matter what, and after that he
+doesn&rsquo;t have to do any schoolwork and can play all he wants, just like his friends.
+In addition, since the books and online classes we&rsquo;d given him didn&rsquo;t fill up all
+his hours before 3:30pm, he could spend the extra time doing anything at all
+as long as he was learning.</p>
+<p>I would walk into his room at 3:29pm and find him counting down the seconds
+to launching Minecraft. This happened week after week. He&rsquo;d fill the first half
+of his day with assigned work, or he&rsquo;d find some YouTube tutorial that interested
+him, but he stopped the minute he could.</p>
+<p>Then one day I walked in at 4pm and he was still following some online
+tutorial, I think for how to do something in Photoshop. I quietly walked back
+out. A week later I found him still doing learning-related work at 5pm. Then
+a few weeks later at 6pm. Within six months he was aggressively learning
+seven days per week, every hour of the day. He played a few hours of
+video games per week.</p>
+<p>The learning was entirely self-driven. He&rsquo;d wake up and think, &ldquo;Hey, I wonder
+how they pull green screens for visual effects,&rdquo; watch five YouTube tutorials
+on it, shoot some video against a green sheet, and spend the rest of the day
+pulling green screens in Photoshop and After Effects. The next day he&rsquo;d get
+inspired to make a weird gear mechanism, model it in Fusion 360, 3D print it,
+and iterate until it worked well. The day after that he&rsquo;d write a video
+game in Pico-8.</p>
+<p>Jen and I found this so great that we backed off on the material we asked him
+to do. We had read about &ldquo;unschooling&rdquo;,
+<a href="http://daviddfriedman.blogspot.com/2007/12/home-unschooling-theory.html">especially from David Friedman</a>,
+and while it&rsquo;d seemed crazy to us at the time, here we were effectively doing it.
+The second year, Jen spent an hour or so per day teaching him French (from her high school
+textbook!), and I spent 30 minute per week teaching him pre-algebra. (Yes, per week,
+it was an <a href="https://www.amazon.com/Everything-You-Need-Math-Notebook/dp/0761160965">excellent 50-chapter book</a> and each chapter was only a few pages.)</p>
+<p>During that time he slowly lost contact with his friends and made fewer
+attempts to meet them after school. This worried us somewhat, and for various reasons
+we put him back into public school for freshman year. Despite having spent nearly no
+time learning math for two years, and zero time learning any other academic
+subject, he found himself at the top of his grade in math and sailed through the
+year with straight As. This also surprised us&mdash;we had expected him to need remedial work.</p>
+<p>So, what happened? Why did it take six months for him to get into the self-learning
+groove? I now make a distinction between <em>education</em> and <em>learning</em>. With education
+someone else decides what they&rsquo;re going to teach you, and they <em>push</em> it onto you.
+With learning you get interested in a questions and <em>pull</em> the answer from books,
+people, videos, and other resources, and the information sticks.</p>
+<p>I don&rsquo;t think there&rsquo;s much overlap between education and learning. Rarely a student
+will be interested in what the teacher is teaching (by coincidence or
+because the teacher is good at generating interest), and when that happens, the
+information sticks. But most of the time the two are unrelated and the student
+remembers little.</p>
+<p>We&rsquo;re all told that education and learning are the same&mdash;if education is happening,
+then learning is happening. And students go through years of education. No wonder
+they think that learning is something to be avoided! They&rsquo;ve rarely actually
+experienced it. We all figure out that education (and, incorrectly, learning) is
+a game where the teacher tries to get you to remember something and you try
+to do as little work as possible while getting acceptable grades.</p>
+<p>When Milo started homeschooling, he was still in that mindset. He&rsquo;d do whatever
+minimal work he needed to check off his assignment so he could get back to
+what he knew he&rsquo;d enjoy: video games. It took months for him to detox and
+realize the education and learning are mostly unrelated, and that it&rsquo;s possible
+(and fun!) to be inspired to learn something.</p>
+<p>When Covid caused the schools to close, it took about two weeks to detox
+again&mdash;much faster than the first time.</p>
+<p>It&rsquo;s important to give the student near-complete control over what they&rsquo;re learning.
+We told him he could do anything as long as he was learning. (Not &ldquo;as long as it&rsquo;s
+educational&rdquo; &mdash; avoid education!) He could have cheated and said that Minecraft
+was learning (and in many ways I would have agreed!), but he took it more
+seriously and pursued interests that weren&rsquo;t about playing games. (He did
+end up spending quite a bit of time learning how to program them.)</p>
+<p>If you decide to homeschool, the most common question you&rsquo;ll get from friends
+is, &ldquo;What curriculum are you going to follow?&rdquo; As soon as you use the word
+&ldquo;curriculum&rdquo;, you&rsquo;ve already lost. You&rsquo;re doing education, not learning, because
+the student isn&rsquo;t pulling information they&rsquo;re excited about, they&rsquo;re having
+your curriculum pushed on them.</p>
+<p>When we&rsquo;ve described this process to friends, some have told us that it would
+never work for their children. Their children would never adapt to learning.
+They may be right, but they certainly won&rsquo;t know until they try. You can&rsquo;t
+guess, even knowing your own kid, what will happen when they&rsquo;re free (and
+encouraged) to learn. No one does &mdash; it&rsquo;s probably not happened since
+preschool. I suspect these same parents would never stand for a mostly hands-off
+approach anyway. They&rsquo;d probably succumb to picking and enforcing a curriculum,
+dooming the whole experiment to failure from the start. We already know
+education doesn&rsquo;t work, there&rsquo;s no point in trying it some more!</p>
+<p>Freshman year turned out mostly like we expected: No learning happened (except
+between classes when Milo programmed his TI-84 graphing calculator to make
+games), and Jen and I felt awful about it. Every week we offered to take him
+home again, and every week he told us that the social interactions at lunch
+made it all worthwhile. It was killing us, though, that the years of his life
+most amenable to learning were the years where the least learning was
+happening.</p>
+<p>School was still remote for Sophomore year because of Covid, and the teachers
+were hopelessly unable to get any teaching done over Zoom. Six weeks into it
+he asked to be pulled out. We gave him various choices, and he opted for
+an online high school. The high school doesn&rsquo;t ask much of him, and he spends
+much of his day playing and writing video games.</p>
+<p>So, are we &ldquo;unschooling&rdquo; him if we&rsquo;re sending him to an online high school?
+&ldquo;Schooling&rdquo; is forcing the child to go to a school, &ldquo;homeschooling&rdquo; is forcing
+them to be educated at home, but &ldquo;unschooling&rdquo; is <em>not</em> forcing them to not be
+educated. Unschooling means not forcing them at all &mdash; giving them the choice.
+If they want to write video games, they can. If they want to go to an online
+high school, they can. And if they want to return to their local public high
+school because their lunch group is fun, they can.</p>
+<p class="cover-credit">(Cover image credit: Midjourney, &ldquo;Impressionist painting of a teenager building
+a robot in their bedroom.&rdquo;)</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>I don’t care who sets the price</title>
+            <link>https://www.economicforces.xyz/p/i-dont-care-who-sets-the-price</link>
+            <description><![CDATA[Economic forces matter more than appearances]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Price Theory and Guilds</title>
+            <link>https://www.economicforces.xyz/p/price-theory-and-guilds</link>
+            <description><![CDATA[A lesson in Thompsonian Price Theory]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Contestability matters more than concentration</title>
+            <link>https://www.economicforces.xyz/p/contestability-matters-more-than</link>
+            <description><![CDATA[Antitrust implications of the 2025 Nobel]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>On Peter Howitt&apos;s Other Work</title>
+            <link>https://www.economicforces.xyz/p/on-peter-howitts-other-work</link>
+            <description><![CDATA[Yes, his work on growth is great and deserving of a Nobel. But that is not all!]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Albrecht and Beckworth on the 2025 Nobel Prize in Economics</title>
+            <link>https://www.economicforces.xyz/p/albrecht-and-beckworth-on-the-2025</link>
+            <description><![CDATA[A recording from David Beckworth's live video]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Modular: &quot;TTS 1 Max&quot; (powered by Modular Platform) Ranked #1 Speech Model on Artificial Analysis</title>
+            <link>https://www.modular.com/blog/tts-1-max-ranked-1-speech-model-on-artificial-analysis</link>
+            <description><![CDATA["TTS 1 Max" (powered by Modular Platform) Ranked #1 Speech Model on Artificial Analysis]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Modular: PyTorch and LLVM in 2025 — Keeping up With AI Innovation</title>
+            <link>https://www.modular.com/blog/pytorch-and-llvm-in-2025-keeping-up-with-ai-innovation</link>
+            <description><![CDATA[PyTorch and LLVM in 2025 — Keeping up With AI Innovation]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Modular: Achieving State-of-the-Art Performance on AMD MI355 — in Just 14 Days</title>
+            <link>https://www.modular.com/blog/achieving-state-of-the-art-performance-on-amd-mi355----in-just-14-days</link>
+            <description><![CDATA[Achieving State-of-the-Art Performance on AMD MI355 — in Just 14 Days]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Modular: Modular Raises $250M to scale AI&apos;s Unified Compute Layer</title>
+            <link>https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer</link>
+            <description><![CDATA[Modular Raises $250M to scale AI's Unified Compute Layer]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Modular: Modular 25.6: Unifying the latest GPUs from NVIDIA, AMD, and Apple</title>
+            <link>https://www.modular.com/blog/modular-25-6-unifying-the-latest-gpus-from-nvidia-amd-and-apple</link>
+            <description><![CDATA[Modular 25.6: Unifying the latest GPUs from NVIDIA, AMD, and Apple]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Pourquoi le COVID-19 est là pour de bon, et pourquoi vous ne devriez pas vous en inquiéter</title>
+            <link>https://necpluribusimpar.net/pourquoi-le-covid-19-est-la-pour-de-bon-et-pourquoi-vous-ne-devriez-pas-vous-en-inquieter/</link>
+            <description><![CDATA[<p>[Cet article est une traduction d&#8217;un billet de blog que j&#8217;ai publié en anglais sur le site de CSPI le 17 août. La traduction a été réalisée conjointement par Nouph et Fix Pire et je n&#8217;ai fait que retoucher le&#8230;</p>
+<p>The post <a href="https://necpluribusimpar.net/pourquoi-le-covid-19-est-la-pour-de-bon-et-pourquoi-vous-ne-devriez-pas-vous-en-inquieter/">Pourquoi le COVID-19 est là pour de bon, et pourquoi vous ne devriez pas vous en inquiéter</a> appeared first on <a href="https://necpluribusimpar.net">Nec Pluribus Impar</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Misère de l’épidémiologie et variant anglais du SARS-CoV-2</title>
+            <link>https://necpluribusimpar.net/misere-de-lepidemiologie-et-variant-anglais-du-sars-cov-2/</link>
+            <description><![CDATA[<p>[Cet article est une traduction du billet de blog que j&#8217;ai écrit en anglais pour CSPI et qui a été publié le 9 avril. Une traduction a été réalisée par @IanSolliec, @WintermeW et @Fixpir, ainsi qu&#8217;une autre par @lfeeatc, qui a&#8230;</p>
+<p>The post <a href="https://necpluribusimpar.net/misere-de-lepidemiologie-et-variant-anglais-du-sars-cov-2/">Misère de l&#8217;épidémiologie et variant anglais du SARS-CoV-2</a> appeared first on <a href="https://necpluribusimpar.net">Nec Pluribus Impar</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Moving to CSPI</title>
+            <link>https://necpluribusimpar.net/moving-to-cspi/</link>
+            <description><![CDATA[<p>As you probably know if you follow me on Twitter, I have recently become a research fellow at the Center for the Study of Partisanship and Ideology (CSPI), where I will now be blogging from now on. Here is how&#8230;</p>
+<p>The post <a href="https://necpluribusimpar.net/moving-to-cspi/">Moving to CSPI</a> appeared first on <a href="https://necpluribusimpar.net">Nec Pluribus Impar</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Pourquoi un nouveau confinement serait une erreur</title>
+            <link>https://necpluribusimpar.net/pourquoi-un-nouveau-confinement-serait-une-erreur/</link>
+            <description><![CDATA[<p>Il est désormais clair que le gouvernement a décidé de nous confiner pour la troisième fois en moins d&#8217;un an. Je pense non seulement que c&#8217;est une erreur terrible, mais je crois même qu&#8217;il faudrait dès à présent assouplir certaines&#8230;</p>
+<p>The post <a href="https://necpluribusimpar.net/pourquoi-un-nouveau-confinement-serait-une-erreur/">Pourquoi un nouveau confinement serait une erreur</a> appeared first on <a href="https://necpluribusimpar.net">Nec Pluribus Impar</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Reply to Andrew Gelman and Flaxman et al. on the effectiveness of non-pharmaceutical interventions</title>
+            <link>https://necpluribusimpar.net/reply-to-andrew-gelman-and-flaxman-et-al-on-the-effectiveness-of-non-pharmaceutical-interventions/</link>
+            <description><![CDATA[<p>It was recently brought to my attention by several people that Andrew Gelman, a statistician at Columbia whose blog is a must-read for anyone interested in applied statistics, had discussed my critique of Flaxman et al.&#8217;s paper on the effectiveness&#8230;</p>
+<p>The post <a href="https://necpluribusimpar.net/reply-to-andrew-gelman-and-flaxman-et-al-on-the-effectiveness-of-non-pharmaceutical-interventions/">Reply to Andrew Gelman and Flaxman et al. on the effectiveness of non-pharmaceutical interventions</a> appeared first on <a href="https://necpluribusimpar.net">Nec Pluribus Impar</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost</title>
+            <link>https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/</link>
+            <description><![CDATA[<p>A collaboration between Signify and Microsoft Research shows how PIKE-RAG improves enterprise knowledge systems, delivering a 12% increase in accuracy and faster, more reliable answers.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/">When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Magentic Marketplace: an open-source simulation environment for studying agentic markets</title>
+            <link>https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/</link>
+            <description><![CDATA[<p>AI agents are poised to transform digital marketplaces. To explore what can happen when AI agents interact and transact at scale, we built Magentic Marketplace, an open-source simulation environment for studying agentic market designs.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/">Magentic Marketplace: an open-source simulation environment for studying agentic markets</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>RedCodeAgent: Automatic red-teaming agent against diverse code agents</title>
+            <link>https://www.microsoft.com/en-us/research/blog/redcodeagent-automatic-red-teaming-agent-against-diverse-code-agents/</link>
+            <description><![CDATA[<p>Code agents help streamline software development workflows, but may also introduce critical security risks. Learn how RedCodeAgent automates and improves “red-teaming” attack simulations to help uncover real-world threats that other methods overlook.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/redcodeagent-automatic-red-teaming-agent-against-diverse-code-agents/">RedCodeAgent: Automatic red-teaming agent against diverse code agents</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Tell me when: Building agents that can wait, monitor, and act</title>
+            <link>https://www.microsoft.com/en-us/research/blog/tell-me-when-building-agents-that-can-wait-monitor-and-act/</link>
+            <description><![CDATA[<p>SentinelStep enables AI agents to handle monitoring tasks that run for hours or days, like watching for emails or tracking prices. It works by managing when agents should check and their context, avoiding wasted resources and missed updates.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/blog/tell-me-when-building-agents-that-can-wait-monitor-and-act/">Tell me when: Building agents that can wait, monitor, and act</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Ideas: More AI-resilient biosecurity with the Paraphrase Project</title>
+            <link>https://www.microsoft.com/en-us/research/podcast/ideas-more-ai-resilient-biosecurity-with-the-paraphrase-project/</link>
+            <description><![CDATA[<p>Microsoft’s Eric Horvitz and guests Bruce Wittmann, Tessa Alexanian, and James Diggans discuss the Paraphrase Project—a red-teaming effort that exposed and secured a biosecurity vulnerability in AI-driven protein design. The work offers a model for addressing AI’s dual-use risks.</p>
+<p>The post <a href="https://www.microsoft.com/en-us/research/podcast/ideas-more-ai-resilient-biosecurity-with-the-paraphrase-project/">Ideas: More AI-resilient biosecurity with the Paraphrase Project</a> appeared first on <a href="https://www.microsoft.com/en-us/research">Microsoft Research</a>.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Three Types of Intelligence Explosion</title>
+            <link>https://www.forethought.org/research/three-types-of-intelligence-explosion</link>
+            <description><![CDATA[Once AI systems can design and build even more capable AI systems, we could see an *intelligence explosion*, where AI capabilities rapidly increase to well past human performance.  
+
+The classic intelligence explosion scenario involves a feedback loop where AI improves AI software. But AI could also improve other inputs to AI development. This paper analyses three feedback loops in AI development: software, chip technology, and chip production. These could drive three types of intelligence explosion: a software intelligence explosion driven by software improvements alone; an AI-technology intelligence explosion driven by both software and chip technology improvements; and a full-stack intelligence explosion incorporating all three feedback loops. 
+
+Even if a software intelligence explosion never materializes or plateaus quickly, AI-technology and full-stack intelligence explosions remain possible. And, while these would start more gradually, they could accelerate to very fast rates of development. Our analysis suggests that each feedback loop by itself could drive accelerating AI progress, with effective compute potentially increasing by 20-30 orders of magnitude before hitting physical limits—enabling truly dramatic improvements in AI capabilities. The type of intelligence explosion also has implications for the distribution of power: a software intelligence explosion would by default concentrate power within one country or company, while a full-stack intelligence explosion would be spread across many countries and industries.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Supplement: The Basic Case for Better Futures</title>
+            <link>https://www.forethought.org/research/supplement-the-basic-case-for-better-futures</link>
+            <description><![CDATA[How do we compare working on reducing catastrophe with improving the quality of the future? We introduce a simple model (EV ≈ S*F) and use the 'scale, neglectedness, tractability' framework to argue that improving *Flourishing* is of comparable priority to increasing the chance of *Surviving*.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>How to Make the Future Better</title>
+            <link>https://www.forethought.org/research/how-to-make-the-future-better</link>
+            <description><![CDATA[I suggest a number of concrete actions we can take now to make the future go better.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Persistent Path-Dependence</title>
+            <link>https://www.forethought.org/research/persistent-path-dependence</link>
+            <description><![CDATA[Over sufficiently long time horizons, will the effects of actions to improve the quality of the future just ‘wash out’? Against this view, I argue a number of plausible near-term events will have persistent and predictable path-dependent effects on the value of the future.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Convergence and Compromise</title>
+            <link>https://www.forethought.org/research/convergence-and-compromise</link>
+            <description><![CDATA[Even if the target is narrow, will there be forces which nonetheless hone in on near-best futures? We argue society is unlikely to converge on them by default. Trade and compromise make eutopias seem more achievable, but still we should expect ‘default’ outcomes to fall far short.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Reading List 11/8/2025</title>
+            <link>https://www.construction-physics.com/p/reading-list-1182025</link>
+            <description><![CDATA[Gathering robot training data, &#8220;love letters&#8221; sent to home sellers, the Napier Deltic diesel engine, jumps in electricity demand from electric teakettles, and more.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Strap Rail</title>
+            <link>https://www.construction-physics.com/p/strap-rail</link>
+            <description><![CDATA[The early history of the United States runs along with the first years of the railroad.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Reading List 11/01/2025</title>
+            <link>https://www.construction-physics.com/p/reading-list-11012025</link>
+            <description><![CDATA[A new semiconductor lithography startup, how to make batteries more like bombs, AI and real estate listings, a monastery being built in Wyoming, and more.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>How the UK Lost Its Shipbuilding Industry</title>
+            <link>https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding</link>
+            <description><![CDATA[From roughly the end of the US Civil War until the late 1950s, the United Kingdom was one of the biggest shipbuilders in the world.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Reading List 10/25/25</title>
+            <link>https://www.construction-physics.com/p/reading-list-102525</link>
+            <description><![CDATA[Jet engine-powered data centers, Brightline train deaths, cracks in a super thin skyscraper, a Chinese particle accelerator, and more.]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Boosting revenue with vendor financing</title>
+            <link>https://marketunpack.com/boosting-revenue-with-vendor-financing/</link>
+            <description><![CDATA[<p>AI companies made headlines recently because of circular vendor financing.  Basically, Nvidia invests in OpenAI which buys services from Oracle which buys chips from Nvidia.  Surprisingly, this setup lets you boost ecosystem revenue by over 100% of money spent.  Let&apos;s look at how the accounting works.</p><h2 id="whats-going-on">What&apos;</h2>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>J.P. Morgan&apos;s OpenAI loan is strange</title>
+            <link>https://marketunpack.com/j-p-morgans-openai-loan-is-strange/</link>
+            <description><![CDATA[<p>In October, <a href="https://openai.com/index/new-credit-facility-enhances-financial-flexibility/" rel="noreferrer">OpenAI secured a 4 billion dollar revolving credit facility from J.P. Morgan and several other banks</a>.  I was surprised when I heard this because OpenAI is a young company with no earnings.  Shouldn&apos;t all their capital come from investors?  Let&apos;s run some numbers.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Bad headlines</title>
+            <link>https://marketunpack.com/bad-headlines/</link>
+            <description><![CDATA[<p>A pet peeve of mine is formulaic financial news, the kind that just reads a few points off a price chart and calls it a day. Lots of newspapers are guilty of doing this, but none come close to Les Echos. Let&apos;s marvel at their terrible headlines together.</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>Gifts to reduce the US debt</title>
+            <link>https://marketunpack.com/gifts-to-reduce-the-us-debt/</link>
+            <description><![CDATA[<p>It turns out you can donate money to the Treasury to pay off the US national debt. Some people actually do this.</p><h2 id="venmoing-the-treasury">Venmo&apos;ing the Treasury</h2><p>While looking for data on the US national debt, I stumbled upon this website and did a double-take&#x2014;you can voluntarily give</p>]]></description>
+            <pubDate>2025-11-10</pubDate>
+        </item>
+        <item>
+            <title>On Japan&apos;s national debt</title>
+            <link>https://marketunpack.com/on-japans-national-debt/</link>
+            <description><![CDATA[<p>National debts, sovereign bonds, and yields have been in the news a lot this year. This made me realize I don&apos;t have a feel for what the numbers mean or what mechanisms affect the headline stats. So, let&apos;s look into the national debts of several countries,</p>]]></description>
             <pubDate>2025-11-10</pubDate>
         </item>
     </channel>
