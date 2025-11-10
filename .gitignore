@@ -1,5 +1,5 @@
 /target
 *.db
-*.env
+.env*
 
 .DS_Store

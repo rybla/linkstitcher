@@ -71,7 +71,7 @@ pub async fn main() -> Result<()> {
         write_rss_channel(channel)?;
     }
 
-    if false {
+    if true {
         clear_saved_urls()?;
     }
 

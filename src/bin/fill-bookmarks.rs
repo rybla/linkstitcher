@@ -19,7 +19,7 @@ pub async fn main() -> Result<()> {
         insert_or_update_preview(&mut env.conn, &preview)?;
     }
 
-    if false {
+    if true {
         clear_bookmarked_urls()?;
     }
 
