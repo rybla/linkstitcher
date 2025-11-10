@@ -5,6 +5,5 @@ CREATE TABLE previews (
   title TEXT,
   published_date TEXT,
   tags TEXT,
-  summary TEXT,
-  content TEXT
+  summary TEXT
 )

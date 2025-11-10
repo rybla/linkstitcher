@@ -31,7 +31,7 @@ pub async fn main() -> Result<()> {
 
     let client = reqwest::Client::new();
 
-    let mut env = ProcessEnv {
+    let mut env = Env {
         conn: &mut conn,
         readability: &readability,
         octocrab: &octocrab,
@@ -74,7 +74,7 @@ pub async fn main() -> Result<()> {
     for new_preview in new_previews {
         let mut new_preview = new_preview;
         let url = new_preview.url.clone();
-        if let Err(e) = process_preview(&mut env, &mut new_preview).await {
+        if let Err(e) = fill_initial_preview(&mut env, &mut new_preview).await {
             log::warn!["failed to process preview \"{url}\": {e}"];
         }
         set_preview(env.conn, new_preview.clone())?;

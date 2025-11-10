@@ -13,7 +13,7 @@ use readability_js::Readability;
 use scraper::Html;
 use std::{
     fs::{self, File},
-    io::BufWriter,
+    io::{BufWriter, Write},
 };
 
 pub fn establish_connection() -> SqliteConnection {
@@ -63,19 +63,21 @@ pub fn get_recent_previews(
         .load(conn)?)
 }
 
-pub struct ProcessEnv<'a> {
+pub struct Env<'a> {
     pub client: &'a reqwest::Client,
     pub conn: &'a mut SqliteConnection,
     pub readability: &'a Readability,
     pub octocrab: &'a Octocrab,
 }
 
-pub async fn process_preview(env: &mut ProcessEnv<'_>, preview: &mut Preview) -> Result<()> {
+pub async fn fill_initial_preview(env: &mut Env<'_>, preview: &mut Preview) -> Result<()> {
     if exists_preview(env.conn, &preview.url)? {
         return Ok(());
     }
 
     log::info!["creating new preview for {}", &preview.url];
+
+    let mut content: Option<String> = None;
 
     if let Some(arxiv_id) = utility::arxiv::get_id_from_url(&preview.url) {
         if let Ok(article) = utility::arxiv::fetch_by_id(arxiv_id).await {
@@ -87,7 +89,6 @@ pub async fn process_preview(env: &mut ProcessEnv<'_>, preview: &mut Preview) ->
             }
             preview.tags = Some(article.category_names.join(", "));
             preview.summary = Some(article.summary.clone());
-            // preview.content = Some(...) // TODO: extract from PDF
         } else {
             log::error!["failed to fetch ArXiv article: {}", preview.url];
         }
@@ -98,17 +99,15 @@ pub async fn process_preview(env: &mut ProcessEnv<'_>, preview: &mut Preview) ->
             for text in html.root_element().text() {
                 content.push_str(&format!(" {text}"));
             }
-            preview.summary = Some(content.clone());
-            preview.content = Some(content.clone());
+            preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
         } else {
             log::error!["failed to fetch X post: {}", preview.url];
         }
     } else if preview.url.contains("github.com") {
         if let Ok(info) = utility::github::fetch_repo_info(env.octocrab, &preview.url).await {
-            // preview.summary = ... // TODO: use gemini to summary
-            if preview.content.is_none() {
-                preview.content = info.readme;
-            }
+            preview.summary = info
+                .readme
+                .map(|s| s.chars().take(config::MAX_CHARS_SUMMARY).collect());
         } else {
             log::error!["failed to fetch GitHub repo info: {}", preview.url];
         }
@@ -117,60 +116,69 @@ pub async fn process_preview(env: &mut ProcessEnv<'_>, preview: &mut Preview) ->
         let response = env.client.get(&preview.url).send().await?;
         let headers = response.headers();
 
-        if preview.content.is_none() {
-            let content_type = match headers.get("content-type") {
-                None => {
-                    return Result::Err(anyhow!(
-                        "I failed to get the content type, since the response does not have a header for content-type: {response:?}"
-                    ));
-                }
-                Some(content_type) => {
-                    let bytes = content_type.as_bytes();
-                    let str = String::from_utf8_lossy(bytes);
-                    str.to_string()
-                }
-            };
+        let content_type = match headers.get("content-type") {
+            None => {
+                return Result::Err(anyhow!(
+                    "I failed to get the content type, since the response does not have a header for content-type: {response:?}"
+                ));
+            }
+            Some(content_type) => {
+                let bytes = content_type.as_bytes();
+                let str = String::from_utf8_lossy(bytes);
+                str.to_string()
+            }
+        };
 
-            // extract content
-            #[allow(clippy::single_match)]
-            match content_type.as_str() {
-                "text/pdf" => {
-                    log::warn!["handle PDF"]
-                }
-                "text/html" => {
-                    let html = response.text().await?;
-                    match env.readability.parse_with_url(&html, &preview.url) {
-                        Err(e) => {
-                            log::warn!["failed to use Readability to parse with url: {e}"];
-                            preview.title = Some(preview.url.clone());
+        // extract content
+        #[allow(clippy::single_match)]
+        match content_type.as_str() {
+            "text/pdf" => {
+                let mut file = tempfile::Builder::new().suffix(".pdf").tempfile()?;
+                let bytes = response.bytes().await?;
+                file.write_all(&bytes)?;
+                let text = pdf_extract::extract_text(file.path().to_str().ok_or(anyhow!["TODO"])?)?;
+
+                content = Some(text);
+            }
+            "text/html" => {
+                let html = response.text().await?;
+                match env.readability.parse_with_url(&html, &preview.url) {
+                    Err(e) => {
+                        log::warn!["failed to use Readability to parse with url: {e}"];
+                        preview.title = Some(preview.url.clone());
+                    }
+                    Ok(article) => {
+                        // let content = &article.text_content;
+                        // let byline = &article.byline;
+                        // let published_date = &article.published_time;
+                        // let title = &article.title;
+
+                        preview.title = Some(article.title.clone());
+                        if let Some(pub_date) = article.published_time {
+                            preview.published_date = Some(pub_date);
                         }
-                        Ok(article) => {
-                            // let content = &article.text_content;
-                            // let byline = &article.byline;
-                            // let published_date = &article.published_time;
-                            // let title = &article.title;
 
-                            preview.title = Some(article.title.clone());
-                            if let Some(pub_date) = article.published_time {
-                                preview.published_date = Some(pub_date);
-                            }
-
-                            if preview.content.is_none() {
-                                preview.content = Some(article.content.clone());
-                            }
-
-                            // TODO: use gemini CLI to get summary of content
-                            // preview.summary = ...
-                        }
+                        content = Some(article.content.clone());
                     }
                 }
-                // TODO: handle other types of content
-                _ => {}
             }
+            // TODO: handle other types of content
+            _ => {}
+        }
+
+        if preview.summary.is_none()
+            && let Some(content) = &content
+        {
+            preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
         }
     }
 
     Ok(())
+}
+
+pub async fn fill_detailed_preview(env: &mut Env<'_>, preview: &mut Preview) -> Result<()> {
+    fill_initial_preview(env, preview).await?;
+    todo!()
 }
 
 // -----------------------------------------------------------------------------

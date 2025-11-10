@@ -18,3 +18,4 @@ pub const REPOSITORY_URL: &str = "https://github.com/rybla/linkstitcher";
 pub const FEED_FILEPATH: &str = "site/feed.xml";
 pub const RECENCY_CUTOFF: chrono::Days = chrono::Days::new(7);
 pub const MAX_RSS_FEED_ITEMS: usize = 5;
+pub const MAX_CHARS_SUMMARY: usize = 600;

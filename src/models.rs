@@ -14,7 +14,6 @@ pub struct Preview {
     pub published_date: Option<String>,
     pub tags: Option<String>,
     pub summary: Option<String>,
-    pub content: Option<String>,
 }
 
 impl Preview {
@@ -86,7 +85,6 @@ impl Preview {
                 }
             },
             summary: item.description,
-            content: item.content,
         })
     }
 
@@ -99,7 +97,6 @@ impl Preview {
             published_date: None,
             tags: None,
             summary: None,
-            content: None,
         }
     }
 }
