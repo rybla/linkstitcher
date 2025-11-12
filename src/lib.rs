@@ -224,6 +224,12 @@ pub async fn fill_initial_preview(env: &mut Env, preview: &mut Preview) -> Resul
         preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
     }
 
+    if let Some(summary) = preview.summary.clone()
+        && let Some(source) = preview.source.clone()
+    {
+        preview.summary = Some(format!("source: {source}\n\n{summary}"));
+    }
+
     Ok(content)
 }
 
