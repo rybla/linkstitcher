@@ -32,7 +32,14 @@ async fn main() -> Result<()> {
     }
 
     // write local RSS channel
-    utility::rss::write_rss_channel(utility::rss::create_rss_channel(previews))?;
+    utility::rss::write_rss_channel(
+        &[config::FEEDS_DIRPATH, "saveds.feed.xml"].join("/"),
+        utility::rss::create_rss_channel(
+            "linkstitcher/saveds",
+            "The linkstitcher feed for saved URLs.",
+            previews,
+        ),
+    )?;
 
     Ok(())
 }

@@ -14,7 +14,7 @@ load_env_var!(GITHUB_PERSONAL_ACCESS_TOKEN);
 load_env_var!(BOOKMARKED_URLS_FILEPATH);
 load_env_var!(SAVED_URLS_FILEPATH);
 pub const REPOSITORY_URL: &str = "https://github.com/rybla/linkstitcher";
-pub const FEED_FILEPATH: &str = "site/feed.xml";
+pub const FEEDS_DIRPATH: &str = "site/";
 pub const RECENCY_CUTOFF: chrono::Days = chrono::Days::new(2);
 pub const MAX_RSS_FEED_ITEMS: usize = 5;
 pub const MAX_CHARS_SUMMARY: usize = 600;

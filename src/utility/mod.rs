@@ -7,7 +7,7 @@ pub mod x;
 
 pub fn indent(s: &str) -> String {
     s.split("\n")
-        .map(|s| format!("    {}", s))
+        .map(|s| format!("    {s}"))
         .collect::<Vec<_>>()
         .join("\n")
 }
