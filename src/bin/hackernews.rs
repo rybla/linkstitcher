@@ -2,6 +2,10 @@ use anyhow::Result;
 use futures::future::join_all;
 use linkstitcher::{Env, config, embellish_preview, rss_channel, utility};
 
+const FEED_FILENAME: &str = "hackernews.feed.xml";
+const FEED_TITLE: &str = "linkstitcher/hackernews";
+const FEED_DESCRIPTION: &str = "The linkstitcher feed for Hacker News";
+
 lazy_static::lazy_static! {
     static ref KEYWORDS: Vec<String> = [
         "programming languages",
@@ -95,12 +99,8 @@ async fn main() -> Result<()> {
 
     // write local RSS channel
     utility::rss::write_rss_channel(
-        &[config::FEEDS_DIRPATH, "hackernews.feed.xml"].join("/"),
-        utility::rss::create_rss_channel(
-            "linkstitcher/hackernews",
-            "The linkstitcher feed for Hacker News",
-            previews,
-        ),
+        &[config::FEEDS_DIRPATH, FEED_FILENAME].join("/"),
+        utility::rss::create_rss_channel(FEED_TITLE, FEED_DESCRIPTION, previews),
     )?;
 
     Ok(())

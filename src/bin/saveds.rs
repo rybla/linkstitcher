@@ -2,6 +2,10 @@ use anyhow::Result;
 use linkstitcher::{Env, config, embellish_preview, models::Preview, utility};
 use std::fs;
 
+const FEED_FILENAME: &str = "saveds.feed.xml";
+const FEED_TITLE: &str = "linkstitcher/saveds";
+const FEED_DESCRIPTION: &str = "The linkstitcher feed for saved URLs.";
+
 #[tokio::main]
 async fn main() -> Result<()> {
     log::trace!("saveds::main");
@@ -33,12 +37,8 @@ async fn main() -> Result<()> {
 
     // write local RSS channel
     utility::rss::write_rss_channel(
-        &[config::FEEDS_DIRPATH, "saveds.feed.xml"].join("/"),
-        utility::rss::create_rss_channel(
-            "linkstitcher/saveds",
-            "The linkstitcher feed for saved URLs.",
-            previews,
-        ),
+        &[config::FEEDS_DIRPATH, FEED_FILENAME].join("/"),
+        utility::rss::create_rss_channel(FEED_TITLE, FEED_DESCRIPTION, previews),
     )?;
 
     Ok(())
