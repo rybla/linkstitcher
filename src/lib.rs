@@ -1,5 +1,6 @@
 use crate::models::Preview;
 use anyhow::{Result, anyhow};
+use diesel::prelude::*;
 use std::io::Write;
 
 pub mod config;
@@ -37,6 +38,7 @@ impl Env {
     }
 }
 
+/// Embellishes a preview with basic content, inexpensively.
 pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<Option<String>> {
     log::info!["embellish_preview({})", &preview.url];
 
@@ -136,17 +138,64 @@ pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<O
         }
     }
 
+    // if still no summary, use truncated content as summary
     if preview.summary.is_none()
         && let Some(content) = &content
     {
         preview.summary = Some(content.chars().take(config::MAX_CHARS_SUMMARY).collect());
     }
 
-    if let Some(summary) = preview.summary.clone()
+    // if still no summary, use title as summary
+    if preview.summary.is_none()
+        && let Some(title) = &preview.title
+    {
+        preview.summary = Some(format!("Title: {title}"));
+    }
+
+    // prepend source to summary
+    if let Some(summary) = &preview.summary
         && let Some(source) = preview.source.clone()
     {
-        preview.summary = Some(format!("source: {source}\n\n{summary}"));
+        preview.summary = Some(format!("Source: {source}\n\n{summary}"));
     }
 
     Ok(content)
+}
+
+/// Requires input preview to already be embellished.
+pub async fn bookmark_preview(_env: &mut Env, preview: &mut Preview) -> Result<()> {
+    log::info!["bookmark_preview({})", &preview.url];
+
+    // generate tags
+    if preview.tags.is_none()
+        && let Some(title) = &preview.title
+        && let Some(summary) = &preview.summary
+    {
+        let response = utility::ai::gemini_cli(&format!(
+            "Consider the following content:\n\nTitle: {title}\n\nText:\n\n{summary}...\n\nWrite a comma-separated list of categorizational tags for the above content. Respond ONLY with the comma-separated list"
+        ))?;
+        preview.tags = Some(response);
+    }
+
+    preview.bookmarked = true;
+
+    Ok(())
+}
+
+pub fn get_recent_saved_previews(
+    conn: &mut diesel::SqliteConnection,
+    days: chrono::Days,
+) -> Result<Vec<Preview>> {
+    use schema::previews::dsl;
+
+    let then = chrono::Utc::now()
+        .date_naive()
+        .checked_sub_days(days)
+        .unwrap();
+
+    Ok(dsl::previews
+        .filter(dsl::added_date.gt(then))
+        .filter(dsl::saved.eq(true))
+        .select(Preview::as_select())
+        .load(conn)?)
 }

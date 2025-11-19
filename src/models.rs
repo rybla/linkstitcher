@@ -10,6 +10,8 @@ pub struct Preview {
     // required
     pub url: String,
     pub added_date: NaiveDate,
+    pub saved: bool,
+    pub embellished: bool,
     pub bookmarked: bool,
     // optional
     pub source: Option<String>,
@@ -54,6 +56,8 @@ impl Preview {
             },
             summary: item.description,
             bookmarked: false,
+            embellished: false,
+            saved: false,
         })
     }
 
@@ -67,6 +71,8 @@ impl Preview {
             tags: None,
             summary: None,
             bookmarked: false,
+            embellished: false,
+            saved: false,
         }
     }
 }

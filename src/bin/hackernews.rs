@@ -1,10 +1,14 @@
 use anyhow::Result;
+use chrono::Days;
+use diesel::prelude::*;
+use dotenvy::dotenv;
 use futures::future::join_all;
-use linkstitcher::{Env, config, embellish_preview, rss_channel, utility};
+use linkstitcher::{Env, config, embellish_preview, models::Preview, rss_channel, utility};
 
 const FEED_FILENAME: &str = "hackernews.feed.xml";
 const FEED_TITLE: &str = "linkstitcher/hackernews";
 const FEED_DESCRIPTION: &str = "The linkstitcher feed for Hacker News";
+const RECENCY_CUTOFF_DAYS: Days = Days::new(7);
 
 lazy_static::lazy_static! {
     static ref KEYWORDS: Vec<String> = [
@@ -56,20 +60,40 @@ lazy_static::lazy_static! {
         "github"
         ].into_iter().map(|s| s.to_owned()).collect();
 }
+const SOURCE: &str = "Hackernews: Customized";
 
 #[tokio::main]
 async fn main() -> Result<()> {
+    env_logger::init();
+    dotenv()?;
+
     log::trace!("hackernews::main");
+
     let mut env = Env::new()?;
 
     // fetch previews from remote RSS channel
     let channel_url = "https://hnrss.org/best";
     let channel = utility::rss::fetch_rss_channel(&env.client, channel_url).await?;
-    let mut previews = rss_channel::into_previews(channel)?;
+    let mut previews = {
+        let raw_previews = rss_channel::into_previews(channel)?;
+        let mut previews = vec![];
+        for preview in raw_previews {
+            let mut preview = preview;
+            if utility::db::is_url_known(&mut env.db_conn, &preview.url)? {
+                continue;
+            }
+
+            preview.source = Some(SOURCE.to_owned());
+            previews.push(preview);
+        }
+        previews
+    };
 
     // embellish previews
     for preview in previews.iter_mut() {
-        embellish_preview(&mut env, preview).await?;
+        if let Err(e) = embellish_preview(&mut env, preview).await {
+            log::warn!("{e}");
+        }
     }
 
     // filter previews
@@ -94,14 +118,30 @@ async fn main() -> Result<()> {
 
     // insert previews into database
     for preview in &previews {
-        utility::db::insert_preview(&mut env.db_conn, preview)?;
+        if let Err(e) = utility::db::insert_preview(&mut env.db_conn, preview) {
+            log::warn!("{e}");
+        }
     }
 
     // write local RSS channel
-    utility::rss::write_rss_channel(
-        &[config::FEEDS_DIRPATH, FEED_FILENAME].join("/"),
-        utility::rss::create_rss_channel(FEED_TITLE, FEED_DESCRIPTION, previews),
-    )?;
+    {
+        use linkstitcher::schema::previews::dsl;
+
+        let then = chrono::Utc::now()
+            .date_naive()
+            .checked_sub_days(RECENCY_CUTOFF_DAYS)
+            .unwrap();
+
+        let previews = dsl::previews
+            .filter(dsl::added_date.gt(then))
+            .filter(dsl::source.eq(SOURCE))
+            .select(Preview::as_select())
+            .load(&mut env.db_conn)?;
+        utility::rss::write_rss_channel(
+            &[config::FEEDS_DIRPATH, FEED_FILENAME].join("/"),
+            utility::rss::create_rss_channel(FEED_TITLE, FEED_DESCRIPTION, previews),
+        )?;
+    }
 
     Ok(())
 }

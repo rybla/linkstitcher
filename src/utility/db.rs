@@ -36,6 +36,7 @@ pub fn update_preview(db_conn: &mut SqliteConnection, preview: &Preview) -> Resu
             dsl::published_date.eq(&preview.published_date),
             dsl::tags.eq(&preview.tags),
             dsl::summary.eq(&preview.summary),
+            dsl::embellished.eq(&preview.embellished),
             dsl::bookmarked.eq(&preview.bookmarked),
         ))
         .execute(db_conn)?;

@@ -1,14 +1,23 @@
 use anyhow::Result;
-use linkstitcher::{Env, config, embellish_preview, models::Preview, utility};
+use chrono::Days;
+use dotenvy::dotenv;
+use linkstitcher::{
+    Env, config, embellish_preview, get_recent_saved_previews, models::Preview, utility,
+};
 use std::fs;
 
 const FEED_FILENAME: &str = "saveds.feed.xml";
 const FEED_TITLE: &str = "linkstitcher/saveds";
 const FEED_DESCRIPTION: &str = "The linkstitcher feed for saved URLs.";
+const RECENCY_CUTOFF_DAYS: Days = Days::new(7);
 
 #[tokio::main]
 async fn main() -> Result<()> {
+    env_logger::init();
+    dotenv()?;
+
     log::trace!("saveds::main");
+
     let mut env = Env::new()?;
 
     // fetch previews
@@ -18,9 +27,11 @@ async fn main() -> Result<()> {
         .split("\n")
         .filter(|s| !s.is_empty())
         .collect::<Vec<_>>();
+
     for url in saved_urls {
         if !utility::db::is_url_known(&mut env.db_conn, url)? {
-            let preview = Preview::from_url(url.to_owned());
+            let mut preview = Preview::from_url(url.to_owned());
+            preview.saved = true;
             previews.push(preview);
         }
     }
@@ -36,10 +47,16 @@ async fn main() -> Result<()> {
     }
 
     // write local RSS channel
-    utility::rss::write_rss_channel(
-        &[config::FEEDS_DIRPATH, FEED_FILENAME].join("/"),
-        utility::rss::create_rss_channel(FEED_TITLE, FEED_DESCRIPTION, previews),
-    )?;
+    {
+        let previews = get_recent_saved_previews(&mut env.db_conn, RECENCY_CUTOFF_DAYS)?;
+        utility::rss::write_rss_channel(
+            &[config::FEEDS_DIRPATH, FEED_FILENAME].join("/"),
+            utility::rss::create_rss_channel(FEED_TITLE, FEED_DESCRIPTION, previews),
+        )?;
+    }
+
+    // clear urls
+    fs::write(config::SAVED_URLS_FILEPATH.as_str(), String::new())?;
 
     Ok(())
 }

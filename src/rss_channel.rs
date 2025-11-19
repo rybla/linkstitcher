@@ -5,7 +5,7 @@ use crate::{
 use anyhow::Result;
 
 pub fn into_previews(channel: rss::Channel) -> Result<Vec<Preview>> {
-    let title = channel.title().to_owned();
+    let title = channel.title().trim().to_owned();
     channel
         .items
         .into_iter()
@@ -49,9 +49,9 @@ impl SmartFilter {
 
         if !self.topics.is_empty() {
             let response = utility::ai::gemini_cli(&format!(
-                "Your task is to decide if the following passage is related to any of the following topics: {}. The passage is as follows.\n\n{}\n\n",
+                "Consider the following passage:\n\n{}\n\nYour task is to decide if the above passage is related to any of the following topics: {}. Respond with yes or no.",
                 self.topics.join(", "),
-                indent(summary)
+                indent(summary),
             ))?;
             if !(response.contains("yes") || response.contains("Yes")) {
                 return Ok(false);
