@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>linkstitcher/saveds</title>
+        <link>https://github.com/rybla/linkstitcher</link>
+        <description>The linkstitcher feed for saved URLs.</description>
+        <image>
+            <url>https://www.rybl.net/favicon.ico</url>
+            <title>rybl/linkstitcher</title>
+            <link>https://github.com/rybla/linkstitcher</link>
+        </image>
+        <item>
+            <link>https://www.anthropic.com/research/building-ai-cyber-defenders</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://hindsight.events/content/posts/composing-event-migrations-with-default-implementations.html</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://www.mlabs.city/blog/patterns-and-paradoxes</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://blog.csongor.co.uk/gadts-in-rust/</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://cdn.oppi.li/typst-unlit.pdf</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://www.datahaskell.org/blog/2025/11/11/welcome-to-datahaskell.html</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://sakana.ai/series-b/</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <title>Operator</title>
+            <link>https://fun-and-awe.io/operator</link>
+            <description><![CDATA[<DIV class="page" id="readability-page-1"><a data-w-id="c1d8b539-8acf-d927-d93e-3118d8f6a00a" href="/"></a><section><DIV data-w-id="80f2e276-d98f-accd-d5ea-5e619f240338"><p>OPERATOR is our first application for Apple Vision Pro that turns the process of music production into a spatial modular experience. The composition is made by creating a virtual sculpture, and the sound in the experience is tightly connected to the form and arrangement.</p><p>Easy to use and playful, it features a sequencer, a set of ready-made electronic samples, and simple tools. With intuitive interactions, the applicat]]></description>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <title>California&apos;s City on a Hill</title>
+            <link>https://arenamag.com/articles/californias-city-on-a-hill</link>
+            <description><![CDATA[<DIV class="page" id="readability-page-1"><div data-framer-name="Content" data-framer-appear-id="o83ph1" data-framer-component-type="RichTextContainer"><p>In 1959, the Army Corps of Engineers released a report, <em>Future Development of the San Francisco Bay Area 1960-2020</em>. The report, a hundred-or-so bound pages, was “designed to show, on a decade-to-decade basis, how the San Francisco Bay Area could grow.” The <em>Future Development</em> report predicted that, by 2020, the San Francisco Bay Area would have a population of 14.4 million—almost double the current population of 7.7 million.]]></description>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://www.noahpinion.blog/p/housing-is-at-the-heart-of-americas</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <title>Specifications: The missing link to making the development of LLM systems an engineering discipline</title>
+            <link>https://arxiv.org/abs/2412.05299</link>
+            <description><![CDATA[source: ArXiv
+
+Despite the significant strides made by generative AI in just a few short years, its future progress is constrained by the challenge of building modular and robust systems. This capability has been a cornerstone of past technological revolutions, which relied on combining components to create increasingly sophisticated and reliable systems. Cars, airplanes, computers, and software consist of components-such as engines, wheels, CPUs, and libraries-that can be assembled, debugged, and replaced. A key tool for building such reliable and modular systems is specification: the precise description of the expected behavior, inputs, and outputs of each component. However, the generality of LLMs and the inherent ambiguity of natural language make defining specifications for LLM-based components (e.g., agents) both a challenging and urgent problem. In this paper, we discuss the progress the field has made so far-through advances like structured outputs, process supervision, and test-time compute-and outline several future directions for research to enable the development of modular and reliable LLM-based systems through improved specifications.]]></description>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <link>https://www.grumpy-economist.com/p/price-control-apologia</link>
+            <pubDate>2025-11-19</pubDate>
+        </item>
+    </channel>
+</rss>
