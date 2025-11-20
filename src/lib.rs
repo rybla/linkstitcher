@@ -70,7 +70,7 @@ pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<O
         } else {
             log::error!["failed to fetch X post: {}", preview.url];
         }
-    } else if preview.url.contains("github.com") {
+    } else if preview.url.starts_with("https://github.com") {
         if let Ok(info) = utility::github::fetch_repo_info(&env.octocrab, &preview.url).await {
             content = info.readme.clone();
             preview.summary = info
@@ -111,7 +111,7 @@ pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<O
                 let text = pdf_extract::extract_text(file_path)?;
                 content = Some(text);
             }
-            "text/html" => {
+            content_type if content_type.starts_with("text/html") => {
                 let html = response.text().await?;
                 match env.readability.parse_with_url(&html, &preview.url) {
                     Err(e) => {
@@ -124,17 +124,21 @@ pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<O
                         // let published_date = &article.published_time;
                         // let title = &article.title;
 
+                        println!("article = {article:#?}");
+
                         preview.title = Some(article.title.clone());
                         if let Some(pub_date) = article.published_time {
                             preview.published_date = Some(pub_date);
                         }
 
-                        content = Some(article.content.clone());
+                        content = Some(article.text_content.clone());
                     }
                 }
             }
             // TODO: handle other types of content
-            _ => {}
+            _ => {
+                log::warn!("unrecognized content type: {content_type}");
+            }
         }
     }
 
