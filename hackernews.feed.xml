@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
         <title>linkstitcher/hackernews</title>
@@ -12,8 +12,7 @@
         <item>
             <title>Cloudflare outage on November 18, 2025</title>
             <link>https://blog.cloudflare.com/18-november-2025-outage/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Related: <i>Cloudflare Global Network experiencing issues</i> - <a href="https://news.ycombinator.com/item?id=45963780">https://news.ycombinator.com/item?id=45963780</a> - Nov 2025 (1580 comments)</p>
 <hr>
@@ -25,8 +24,7 @@
         <item>
             <title>Blender 5.0</title>
             <link>https://www.blender.org/download/releases/5-0/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.blender.org/download/releases/5-0/">https://www.blender.org/download/releases/5-0/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45972519">https://news.ycombinator.com/item?id=45972519</a></p>
@@ -37,8 +35,7 @@
         <item>
             <title>GitHub: Git operation failures</title>
             <link>https://www.githubstatus.com/incidents/5q7nmlxz30sk</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.githubstatus.com/incidents/5q7nmlxz30sk">https://www.githubstatus.com/incidents/5q7nmlxz30sk</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45971726">https://news.ycombinator.com/item?id=45971726</a></p>
@@ -48,10 +45,8 @@
         </item>
         <item>
             <title>I am stepping down as the CEO of Mastodon</title>
-            <link
-      >https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/">https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45969909">https://news.ycombinator.com/item?id=45969909</a></p>
@@ -61,10 +56,8 @@
         </item>
         <item>
             <title>Pebble, Rebble, and a path forward</title>
-            <link
-      >https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/">https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45969250">https://news.ycombinator.com/item?id=45969250</a></p>
@@ -73,12 +66,9 @@
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >Gemini 3 for developers: New reasoning, agentic capabilities</title>
-            <link
-      >https://blog.google/technology/developers/gemini-3-developers/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <title>Gemini 3 for developers: New reasoning, agentic capabilities</title>
+            <link>https://blog.google/technology/developers/gemini-3-developers/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://blog.google/technology/developers/gemini-3-developers/">https://blog.google/technology/developers/gemini-3-developers/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45968043">https://news.ycombinator.com/item?id=45968043</a></p>
@@ -89,8 +79,7 @@
         <item>
             <title>Gemini 3</title>
             <link>https://blog.google/products/gemini/gemini-3/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://blog.google/products/gemini/gemini-3/">https://blog.google/products/gemini/gemini-3/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45967999">https://news.ycombinator.com/item?id=45967999</a></p>
@@ -101,8 +90,7 @@
         <item>
             <title>https://antigravity.google/</title>
             <link>https://antigravity.google/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p><a href="https://antigravity.google/blog/introducing-google-antigravity" rel="nofollow">https://antigravity.google/blog/introducing-google-antigravi...</a><p><a href="https://www.youtube.com/watch?v=nTOVIGsqCuY" rel="nofollow">https://www.youtube.com/watch?v=nTOVIGsqCuY</a></p>
 <hr>
@@ -114,8 +102,7 @@
         <item>
             <title>Nearly all UK drivers say headlights are too bright</title>
             <link>https://www.bbc.com/news/articles/c1j8ewy1p86o</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.bbc.com/news/articles/c1j8ewy1p86o">https://www.bbc.com/news/articles/c1j8ewy1p86o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45966251">https://news.ycombinator.com/item?id=45966251</a></p>
@@ -124,12 +111,9 @@
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >Do not put your site behind Cloudflare if you don&apos;t need to</title>
-            <link
-      >https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <title>Do not put your site behind Cloudflare if you don&apos;t need to</title>
+            <link>https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Related: <i>Cloudflare Global Network experiencing issues</i> - <a href="https://news.ycombinator.com/item?id=45963780">https://news.ycombinator.com/item?id=45963780</a></p>
 <hr>
@@ -141,8 +125,7 @@
         <item>
             <title>Cloudflare Global Network experiencing issues</title>
             <link>https://www.cloudflarestatus.com/incidents/8gmgl950y3h7</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">https://www.cloudflarestatus.com/incidents/8gmgl950y3h7</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45963949">https://news.ycombinator.com/item?id=45963949</a></p>
@@ -153,8 +136,7 @@
         <item>
             <title>Gemini 3 Pro Model Card</title>
             <link>https://pixeldrain.com/u/hwgaNKeH</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://pixeldrain.com/u/hwgaNKeH">https://pixeldrain.com/u/hwgaNKeH</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45963836">https://news.ycombinator.com/item?id=45963836</a></p>
@@ -165,8 +147,7 @@
         <item>
             <title>How Quake.exe got its TCP/IP stack</title>
             <link>https://fabiensanglard.net/quake_chunnel/index.html</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://fabiensanglard.net/quake_chunnel/index.html">https://fabiensanglard.net/quake_chunnel/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45962654">https://news.ycombinator.com/item?id=45962654</a></p>
@@ -176,10 +157,8 @@
         </item>
         <item>
             <title>Core Devices keeps stealing our work</title>
-            <link
-      >https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html">https://rebble.io/2025/11/17/core-devices-keeps-stealing-our-work.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45960893">https://news.ycombinator.com/item?id=45960893</a></p>
@@ -189,10 +168,8 @@
         </item>
         <item>
             <title>Rebecca Heineman has died</title>
-            <link
-      >https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/">https://www.pcgamer.com/gaming-industry/legendary-game-designer-programmer-space-invaders-champion-and-lgbtq-trailblazer-rebecca-heineman-has-died/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45960368">https://news.ycombinator.com/item?id=45960368</a></p>
@@ -201,23 +178,18 @@
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >I caught Google Gemini using my data and then covering it up</title>
+            <title>I caught Google Gemini using my data and then covering it up</title>
             <link>https://unbuffered.stream/gemini-personal-context/</link>
-            <description
-      ><![CDATA[<p>Article URL: <a href="https://unbuffered.stream/gemini-personal-context/">https://unbuffered.stream/gemini-personal-context/</a></p>
+            <description><![CDATA[<p>Article URL: <a href="https://unbuffered.stream/gemini-personal-context/">https://unbuffered.stream/gemini-personal-context/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45960293">https://news.ycombinator.com/item?id=45960293</a></p>
 <p>Points: 298</p>
 <p># Comments: 77</p>]]></description>
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >Windows 11 adds AI agent that runs in background with access to personal folders</title>
-            <link
-      >https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <title>Windows 11 adds AI agent that runs in background with access to personal folders</title>
+            <link>https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/">https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45959795">https://news.ycombinator.com/item?id=45959795</a></p>
@@ -227,10 +199,8 @@
         </item>
         <item>
             <title>Compiling Ruby to machine language</title>
-            <link
-      >https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language">https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45957629">https://news.ycombinator.com/item?id=45957629</a></p>
@@ -240,10 +210,8 @@
         </item>
         <item>
             <title>An official atlas of North Korea</title>
-            <link
-      >https://www.cartographerstale.com/p/an-official-atlas-of-north-korea</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://www.cartographerstale.com/p/an-official-atlas-of-north-korea</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.cartographerstale.com/p/an-official-atlas-of-north-korea">https://www.cartographerstale.com/p/an-official-atlas-of-north-korea</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45956176">https://news.ycombinator.com/item?id=45956176</a></p>
@@ -252,12 +220,9 @@
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >Azure hit by 15 Tbps DDoS attack using 500k IP addresses</title>
-            <link
-      >https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <title>Azure hit by 15 Tbps DDoS attack using 500k IP addresses</title>
+            <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p><a href="https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422" rel="nofollow">https://techcommunity.microsoft.com/blog/azureinfrastructure...</a></p>
 <hr>
@@ -267,12 +232,9 @@
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >Israeli-founded app preloaded on Samsung phones is attracting controversy</title>
-            <link
-      >https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <title>Israeli-founded app preloaded on Samsung phones is attracting controversy</title>
+            <link>https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/">https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45955424">https://news.ycombinator.com/item?id=45955424</a></p>
@@ -283,8 +245,7 @@
         <item>
             <title>https://geminiprotocol.net/</title>
             <link>https://geminiprotocol.net/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://geminiprotocol.net/">https://geminiprotocol.net/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45954640">https://news.ycombinator.com/item?id=45954640</a></p>
@@ -294,10 +255,8 @@
         </item>
         <item>
             <title>Google is killing the open web, part 2</title>
-            <link
-      >https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/">https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45954560">https://news.ycombinator.com/item?id=45954560</a></p>
@@ -306,12 +265,9 @@
             <pubDate>2025-11-19</pubDate>
         </item>
         <item>
-            <title
-      >WeatherNext 2: Our most advanced weather forecasting model</title>
-            <link
-      >https://blog.google/technology/google-deepmind/weathernext-2/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <title>WeatherNext 2: Our most advanced weather forecasting model</title>
+            <link>https://blog.google/technology/google-deepmind/weathernext-2/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://blog.google/technology/google-deepmind/weathernext-2/">https://blog.google/technology/google-deepmind/weathernext-2/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45954210">https://news.ycombinator.com/item?id=45954210</a></p>
@@ -322,8 +278,7 @@
         <item>
             <title>Replicate is joining Cloudflare</title>
             <link>https://replicate.com/blog/replicate-cloudflare</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://replicate.com/blog/replicate-cloudflare">https://replicate.com/blog/replicate-cloudflare</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45953702">https://news.ycombinator.com/item?id=45953702</a></p>
@@ -334,8 +289,7 @@
         <item>
             <title>FreeMDU: Open-source Miele appliance diagnostic tools</title>
             <link>https://github.com/medusalix/FreeMDU</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <description><![CDATA[source: Hackernews: Customized
 
 # FreeMDU ![Build Status](https://img.shields.io/github/actions/workflow/status/medusalix/FreeMDU/ci.yml)
 
@@ -350,10 +304,8 @@ Most Miele devices manufactured after 1996 include an optical infrared-based dia
         </item>
         <item>
             <title>Giving C a superpower: custom header file (safe_c.h)</title>
-            <link
-      >https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/">https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45952428">https://news.ycombinator.com/item?id=45952428</a></p>
@@ -363,16 +315,228 @@ Most Miele devices manufactured after 1996 include an optical infrared-based dia
         </item>
         <item>
             <title>Building a Simple Search Engine That Works</title>
-            <link
-      >https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works</link>
-            <description
-      ><![CDATA[source: Hackernews: Customized
+            <link>https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works</link>
+            <description><![CDATA[source: Hackernews: Customized
 
 <p>Article URL: <a href="https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works">https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=45950720">https://news.ycombinator.com/item?id=45950720</a></p>
 <p>Points: 266</p>
 <p># Comments: 78</p>]]></description>
             <pubDate>2025-11-19</pubDate>
+        </item>
+        <item>
+            <title>The patent office is about to make bad patents untouchable</title>
+            <link>https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable">https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45985890">https://news.ycombinator.com/item?id=45985890</a></p>
+<p>Points: 514</p>
+<p># Comments: 72</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Gaming on Linux has never been more approachable</title>
+            <link>https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos">https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45985506">https://news.ycombinator.com/item?id=45985506</a></p>
+<p>Points: 457</p>
+<p># Comments: 341</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Researchers discover security vulnerability in WhatsApp</title>
+            <link>https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp">https://www.univie.ac.at/en/news/detail/forscherinnen-entdecken-grosse-sicherheitsluecke-in-whatsapp</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45985036">https://news.ycombinator.com/item?id=45985036</a></p>
+<p>Points: 261</p>
+<p># Comments: 97</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Loose wire leads to blackout, contact with Francis Scott Key bridge</title>
+            <link>https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx">https://www.ntsb.gov:443/news/press-releases/Pages/NR20251118.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45984659">https://news.ycombinator.com/item?id=45984659</a></p>
+<p>Points: 364</p>
+<p># Comments: 153</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Cognitive and mental health correlates of short-form video use</title>
+            <link>https://psycnet.apa.org/fulltext/2026-89350-001.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://psycnet.apa.org/fulltext/2026-89350-001.html">https://psycnet.apa.org/fulltext/2026-89350-001.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45984353">https://news.ycombinator.com/item?id=45984353</a></p>
+<p>Points: 270</p>
+<p># Comments: 179</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>The Death of Arduino?</title>
+            <link>https://www.linkedin.com/posts/adafruit_opensource-privacy-techpolicy-activity-7396903362237054976-r14H</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://archive.ph/05KK2" rel="nofollow">https://archive.ph/05KK2</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45984143">https://news.ycombinator.com/item?id=45984143</a></p>
+<p>Points: 416</p>
+<p># Comments: 213</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>AI is a front for consolidation of resources and power</title>
+            <link>https://www.chrbutler.com/what-ai-is-really-for</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.chrbutler.com/what-ai-is-really-for">https://www.chrbutler.com/what-ai-is-really-for</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45983700">https://news.ycombinator.com/item?id=45983700</a></p>
+<p>Points: 418</p>
+<p># Comments: 325</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Building more with GPT-5.1-Codex-Max</title>
+            <link>https://openai.com/index/gpt-5-1-codex-max/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://openai.com/index/gpt-5-1-codex-max/">https://openai.com/index/gpt-5-1-codex-max/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45982649">https://news.ycombinator.com/item?id=45982649</a></p>
+<p>Points: 434</p>
+<p># Comments: 260</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Meta Segment Anything Model 3</title>
+            <link>https://ai.meta.com/sam3/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://ai.meta.com/sam3/">https://ai.meta.com/sam3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45982073">https://news.ycombinator.com/item?id=45982073</a></p>
+<p>Points: 540</p>
+<p># Comments: 107</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Europe is scaling back GDPR and relaxing AI laws</title>
+            <link>https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes">https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45980117">https://news.ycombinator.com/item?id=45980117</a></p>
+<p>Points: 808</p>
+<p># Comments: 905</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>How to stay sane in a world that rewards insanity</title>
+            <link>https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity">https://www.joanwestenberg.com/p/how-to-stay-sane-in-a-world-that-rewards-insanity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45980106">https://news.ycombinator.com/item?id=45980106</a></p>
+<p>Points: 251</p>
+<p># Comments: 196</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Your smartphone, their rules: App stores enable corporate-government censorship</title>
+            <link>https://www.aclu.org/news/free-speech/app-store-oligopoly</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.aclu.org/news/free-speech/app-store-oligopoly">https://www.aclu.org/news/free-speech/app-store-oligopoly</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45979297">https://news.ycombinator.com/item?id=45979297</a></p>
+<p>Points: 449</p>
+<p># Comments: 234</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Larry Summers resigns from OpenAI board</title>
+            <link>https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html" rel="nofollow">https://www.nytimes.com/2025/11/19/technology/larry-summers-...</a>, <a href="https://archive.ph/ASfq6" rel="nofollow">https://archive.ph/ASfq6</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45979190">https://news.ycombinator.com/item?id=45979190</a></p>
+<p>Points: 321</p>
+<p># Comments: 352</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>403 Forbidden</title>
+            <link>https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/">https://blog.thunderbird.net/2025/11/thunderbird-adds-native-microsoft-exchange-email-support/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45978423">https://news.ycombinator.com/item?id=45978423</a></p>
+<p>Points: 427</p>
+<p># Comments: 125</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>The $1,000 AWS mistake - Geocodio</title>
+            <link>https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/">https://www.geocod.io/code-and-coordinates/2025-11-18-the-1000-aws-mistake/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45977744">https://news.ycombinator.com/item?id=45977744</a></p>
+<p>Points: 313</p>
+<p># Comments: 248</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>I just want working RCS messaging</title>
+            <link>https://wt.gd/i-just-want-my-rcs-messaging-to-work</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://wt.gd/i-just-want-my-rcs-messaging-to-work">https://wt.gd/i-just-want-my-rcs-messaging-to-work</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45974869">https://news.ycombinator.com/item?id=45974869</a></p>
+<p>Points: 303</p>
+<p># Comments: 301</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>The request could not be satisfied</title>
+            <link>https://downdetectorsdowndetector.com</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>After down detector went down with the rest of the internet during the Cloudflare outage today I decided to build a robust, independent tool which checks if down detector is down. Enjoy!!</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45974012">https://news.ycombinator.com/item?id=45974012</a></p>
+<p>Points: 550</p>
+<p># Comments: 161</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Rebecca Heineman – from homelessness to porting Doom (2022)</title>
+            <link>https://corecursive.com/doomed-to-fail-with-burger-becky/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Related: <i>Rebecca Heineman has died</i> - <a href="https://news.ycombinator.com/item?id=45960368">https://news.ycombinator.com/item?id=45960368</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45973573">https://news.ycombinator.com/item?id=45973573</a></p>
+<p>Points: 241</p>
+<p># Comments: 41</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Oracle is underwater on its $300B OpenAI deal</title>
+            <link>https://www.ft.com/content/064bbca0-1cb2-45ab-85f4-25fdfc318d89</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://archive.ph/Qdf2n" rel="nofollow">https://archive.ph/Qdf2n</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=45971601">https://news.ycombinator.com/item?id=45971601</a></p>
+<p>Points: 248</p>
+<p># Comments: 181</p>]]></description>
+            <pubDate>2025-11-20</pubDate>
         </item>
     </channel>
 </rss>

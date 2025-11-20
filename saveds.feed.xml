@@ -69,5 +69,86 @@ Despite the significant strides made by generative AI in just a few short years,
             <link>https://www.grumpy-economist.com/p/price-control-apologia</link>
             <pubDate>2025-11-19</pubDate>
         </item>
+        <item>
+            <link>https://sakana.ai/evolutionary-model-merge/</link>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://sakana.ai/ab-mcts/</link>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://sakana.ai/dgm/</link>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <title>Skillful joint probabilistic weather forecasting from marginals</title>
+            <link>https://arxiv.org/abs/2506.10772</link>
+            <description><![CDATA[Source: ArXiv
+
+Machine learning (ML)-based weather models have rapidly risen to prominence due to their greater accuracy and speed than traditional forecasts based on numerical weather prediction (NWP), recently outperforming traditional ensembles in global probabilistic weather forecasting. This paper presents FGN, a simple, scalable and flexible modeling approach which significantly outperforms the current state-of-the-art models. FGN generates ensembles via learned model-perturbations with an ensemble of appropriately constrained models. It is trained directly to minimize the continuous rank probability score (CRPS) of per-location forecasts. It produces state-of-the-art ensemble forecasts as measured by a range of deterministic and probabilistic metrics, makes skillful ensemble tropical cyclone track predictions, and captures joint spatial structure despite being trained only on marginals.]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://muratkasimov.art/Ya/Operators/kyokl/</link>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://github.com/alexfmpe/semantic-satiation/blob/main/src/Posts/002-cheaper.md</link>
+            <description><![CDATA[Posts
+- [Everything you never wanted to know about Applicative laws and more](src/Posts/001-applicative-laws.md)
+- [Cheaper: producing a program with less developer time](src/Posts/002-cheaper.md)
+]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://github.com/LaurentRDC/tree-sitter-haskell-literate</link>
+            <description><![CDATA[# tree-sitter-haskell-literate
+
+Tree-sitter grammar for Literate Haskell.
+
+## Supported notations
+
+This grammar supports three separate Literate Haskell notations, shown below highlighted in the [Helix editor](https://github.com/helix-editor/helix).
+
+First is the so-called Bird-style:
+
+![Bird-style](/images/fib-bird.png)
+
+Second is LaTeX-style:
+
+![LaTeX-style](/images/fib-latex.png)
+
+Third is Markdown-style:
+
+![Markdown-style](/images/fib-markdown.png)
+
+For Markdown-style, you will need to use something like [`markdown-unlit`](https://github.com/sol/markdown-unlit) to get compilation support.
+]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://github.com/mattlianje/layoutz</link>
+            <description><![CDATA[<p align="center">
+  <img src="https://raw.githubusercontent.com/mattlianje/layoutz/refs/heads/master/pix/layoutz-demo.png" width="700">
+</p>
+
+# <img src="https://raw.githubusercontent.com/mattlianje/layoutz/refs/heads/master/pix/layoutz.png" width="60"> layoutz
+**Simple, beautiful CLI output 🪶**
+
+Build declarative and composable sections, trees, tables, dashboards, and interactive Elm-style TUI's.
+Easily create new primitives (no component-library limitations).
+
+Part of [d4](https://github.com/mattlianje/d4) • Also in: [JavaScript](https://github.com/mattlianje/layoutz/tree/master/layoutz-ts)]]></description>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://xlii.space/eng/small-functions/</link>
+            <pubDate>2025-11-20</pubDate>
+        </item>
+        <item>
+            <link>https://doisinkidney.com/pdfs/hyperfunctions.pdf</link>
+            <pubDate>2025-11-20</pubDate>
+        </item>
     </channel>
 </rss>
