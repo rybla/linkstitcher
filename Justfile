@@ -13,3 +13,5 @@ deploy:
   (git add site ; git commit -m"deploy: update") || echo "deploy: no updates"
   git subtree split --prefix=site -b gh-pages
   git push -f origin gh-pages
+
+all: fetch deploy
