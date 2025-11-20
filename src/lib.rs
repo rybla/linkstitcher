@@ -124,8 +124,6 @@ pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<O
                         // let published_date = &article.published_time;
                         // let title = &article.title;
 
-                        println!("article = {article:#?}");
-
                         preview.title = Some(article.title.clone());
                         if let Some(pub_date) = article.published_time {
                             preview.published_date = Some(pub_date);
