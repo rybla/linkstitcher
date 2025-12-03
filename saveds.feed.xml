@@ -10,145 +10,157 @@
             <link>https://github.com/rybla/linkstitcher</link>
         </image>
         <item>
-            <link>https://www.anthropic.com/research/building-ai-cyber-defenders</link>
-            <pubDate>2025-11-19</pubDate>
+            <title>expMath: Exponentiating Mathematics | DARPA</title>
+            <link>https://www.darpa.mil/research/programs/expmath-exponential-mathematics</link>
+            <description><![CDATA[Mathematics is the source of significant technological advances. However, progress in math is slow for two primary reasons.Decomposing problems into useful lemmas is a laborious and manual process. To advance the field of mathematics, mathematicians use their knowledge and experience to explore candidate lemmas, which, when composed together, prove theorems. Ideally, these lemmas are generalizable beyond the specifics of the current problem so they can be easily understood and ported to new contexts.Proving candidate lemmas is slow, effortful, and iterative. Putative proofs may have gaps, such]]></description>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://hindsight.events/content/posts/composing-event-migrations-with-default-implementations.html</link>
-            <pubDate>2025-11-19</pubDate>
+            <title>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680782</title>
+            <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680782</link>
+            <description><![CDATA[Title: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5680782]]></description>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://www.mlabs.city/blog/patterns-and-paradoxes</link>
-            <pubDate>2025-11-19</pubDate>
+            <title>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770722</title>
+            <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770722</link>
+            <description><![CDATA[Title: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770722]]></description>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://blog.csongor.co.uk/gadts-in-rust/</link>
-            <pubDate>2025-11-19</pubDate>
+            <title>Vercel Security Checkpoint</title>
+            <link>https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled</link>
+            <description><![CDATA[ Vercel Security Checkpoint | iad1::1764662504-bLceYRfwLBPpdedZX3v7zt1JKEKqdRny ]]></description>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://cdn.oppi.li/typst-unlit.pdf</link>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <link>https://www.datahaskell.org/blog/2025/11/11/welcome-to-datahaskell.html</link>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <link>https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/</link>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <link>https://sakana.ai/series-b/</link>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <title>Operator</title>
-            <link>https://fun-and-awe.io/operator</link>
-            <description><![CDATA[<DIV class="page" id="readability-page-1"><a data-w-id="c1d8b539-8acf-d927-d93e-3118d8f6a00a" href="/"></a><section><DIV data-w-id="80f2e276-d98f-accd-d5ea-5e619f240338"><p>OPERATOR is our first application for Apple Vision Pro that turns the process of music production into a spatial modular experience. The composition is made by creating a virtual sculpture, and the sound in the experience is tightly connected to the form and arrangement.</p><p>Easy to use and playful, it features a sequencer, a set of ready-made electronic samples, and simple tools. With intuitive interactions, the applicat]]></description>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <title>California&apos;s City on a Hill</title>
-            <link>https://arenamag.com/articles/californias-city-on-a-hill</link>
-            <description><![CDATA[<DIV class="page" id="readability-page-1"><div data-framer-name="Content" data-framer-appear-id="o83ph1" data-framer-component-type="RichTextContainer"><p>In 1959, the Army Corps of Engineers released a report, <em>Future Development of the San Francisco Bay Area 1960-2020</em>. The report, a hundred-or-so bound pages, was “designed to show, on a decade-to-decade basis, how the San Francisco Bay Area could grow.” The <em>Future Development</em> report predicted that, by 2020, the San Francisco Bay Area would have a population of 14.4 million—almost double the current population of 7.7 million.]]></description>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <link>https://www.noahpinion.blog/p/housing-is-at-the-heart-of-americas</link>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <title>Specifications: The missing link to making the development of LLM systems an engineering discipline</title>
-            <link>https://arxiv.org/abs/2412.05299</link>
-            <description><![CDATA[source: ArXiv
-
-Despite the significant strides made by generative AI in just a few short years, its future progress is constrained by the challenge of building modular and robust systems. This capability has been a cornerstone of past technological revolutions, which relied on combining components to create increasingly sophisticated and reliable systems. Cars, airplanes, computers, and software consist of components-such as engines, wheels, CPUs, and libraries-that can be assembled, debugged, and replaced. A key tool for building such reliable and modular systems is specification: the precise description of the expected behavior, inputs, and outputs of each component. However, the generality of LLMs and the inherent ambiguity of natural language make defining specifications for LLM-based components (e.g., agents) both a challenging and urgent problem. In this paper, we discuss the progress the field has made so far-through advances like structured outputs, process supervision, and test-time compute-and outline several future directions for research to enable the development of modular and reliable LLM-based systems through improved specifications.]]></description>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <link>https://www.grumpy-economist.com/p/price-control-apologia</link>
-            <pubDate>2025-11-19</pubDate>
-        </item>
-        <item>
-            <link>https://sakana.ai/evolutionary-model-merge/</link>
-            <pubDate>2025-11-20</pubDate>
-        </item>
-        <item>
-            <link>https://sakana.ai/ab-mcts/</link>
-            <pubDate>2025-11-20</pubDate>
-        </item>
-        <item>
-            <link>https://sakana.ai/dgm/</link>
-            <pubDate>2025-11-20</pubDate>
-        </item>
-        <item>
-            <title>Skillful joint probabilistic weather forecasting from marginals</title>
-            <link>https://arxiv.org/abs/2506.10772</link>
+            <title>Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification</title>
+            <link>https://arxiv.org/abs/2506.04592#:~:text=limiting%20their%20effectiveness,proving%20with%20%2430%2C809%24%20formal%20statements</link>
             <description><![CDATA[Source: ArXiv
 
-Machine learning (ML)-based weather models have rapidly risen to prominence due to their greater accuracy and speed than traditional forecasts based on numerical weather prediction (NWP), recently outperforming traditional ensembles in global probabilistic weather forecasting. This paper presents FGN, a simple, scalable and flexible modeling approach which significantly outperforms the current state-of-the-art models. FGN generates ensembles via learned model-perturbations with an ensemble of appropriately constrained models. It is trained directly to minimize the continuous rank probability score (CRPS) of per-location forecasts. It produces state-of-the-art ensemble forecasts as measured by a range of deterministic and probabilistic metrics, makes skillful ensemble tropical cyclone track predictions, and captures joint spatial structure despite being trained only on marginals.]]></description>
-            <pubDate>2025-11-20</pubDate>
+Chain-of-Thought (CoT) prompting has become the de facto method to elicit reasoning capabilities from large language models (LLMs). However, to mitigate hallucinations in CoT that are notoriously difficult to detect, current methods such as process reward models (PRMs) or self-consistency operate as opaque boxes and do not provide checkable evidence for their judgments, possibly limiting their effectiveness. To address this issue, we draw inspiration from the idea that "the gold standard for supporting a mathematical claim is to provide a proof". We propose a retrospective, step-aware formal verification framework $Safe$. Rather than assigning arbitrary scores, we strive to articulate mathematical claims in formal mathematical language Lean 4 at each reasoning step and provide formal proofs to identify hallucinations. We evaluate our framework $Safe$ across multiple language models and various mathematical datasets, demonstrating a significant performance improvement while offering interpretable and verifiable evidence. We also propose $FormalStep$ as a benchmark for step correctness theorem proving with $30,809$ formal statements. To the best of our knowledge, our work represents the first endeavor to utilize formal mathematical language Lean 4 for verifying natural language content generated by LLMs, aligning with the reason why formal mathematical languages were created in the first place: to provide a robust foundation for hallucination-prone human-written proofs.]]></description>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://muratkasimov.art/Ya/Operators/kyokl/</link>
-            <pubDate>2025-11-20</pubDate>
+            <title>My AI Skeptic Friends Are All Nuts</title>
+            <link>https://fly.io/blog/youre-all-nuts/</link>
+            <description><![CDATA[
+            
+                
+                
+                  Image by
+                  
+
+  
+    
+  
+
+
+                    
+                      Annie Ruygt
+                    
+                
+            
+          A heartfelt provocation about AI-assisted programming.
+Tech execs are mandating LLM adoption. That’s bad strategy. But I get where they’re coming from.
+
+Some of the smartest people I know share a bone-deep belief that AI is a fad —  the next iteration of NFT mania. I’ve been reluctant to push back on them, because, well, they’re smarter than me. But their arguments are unse]]></description>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://github.com/alexfmpe/semantic-satiation/blob/main/src/Posts/002-cheaper.md</link>
-            <description><![CDATA[Posts
-- [Everything you never wanted to know about Applicative laws and more](src/Posts/001-applicative-laws.md)
-- [Cheaper: producing a program with less developer time](src/Posts/002-cheaper.md)
+            <title>https://www.aei.org/op-eds/rapid-fertility-decline-is-an-existential-crisis/</title>
+            <link>https://www.aei.org/op-eds/rapid-fertility-decline-is-an-existential-crisis/</link>
+            <description><![CDATA[Title: https://www.aei.org/op-eds/rapid-fertility-decline-is-an-existential-crisis/]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>Token embeddings violate the manifold hypothesis</title>
+            <link>https://arxiv.org/abs/2504.01002</link>
+            <description><![CDATA[Source: ArXiv
+
+A full understanding of the behavior of a large language model (LLM) requires our grasp of its input token space. If this space differs from our assumptions, our comprehension of and conclusions about the LLM will likely be flawed. We elucidate the structure of the token embeddings both empirically and theoretically. We present a novel statistical test assuming that the neighborhood around each token has a relatively flat and smooth structure as the null hypothesis. Failing to reject the null is uninformative, but rejecting it at a specific token $ψ$ implies an irregularity in the token subspace in a $ψ$-neighborhood, $B(ψ)$. The structure assumed in the null is a generalization of a manifold with boundary called a \emph{smooth fiber bundle} (which can be split into two spatial regimes -- small and large radius), so we denote our new hypothesis test as the ``fiber bundle hypothesis.'' By running our test over several open-source LLMs, each with unique token embeddings, we find that the null is frequently rejected, and so the evidence suggests that the token subspace is not a fiber bundle and hence also not a manifold. As a consequence of our findings, when an LLM is presented with two semantically equivalent prompts, if one prompt contains a token implicated by our test, the response to that prompt will likely exhibit less stability than the other.]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>Type Theory with Explicit Universe Polymorphism</title>
+            <link>https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2022.13</link>
+            <description><![CDATA[
+
+                                
+
+        Abstract
+
+                    The aim of this paper is to refine and extend proposals by Sozeau and Tabareau and by Voevodsky for universe polymorphism in type theory. In those systems judgments can depend on explicit constraints between universe levels. We here present a system where we also have products indexed by universe levels and by constraints. Our theory has judgments for internal universe levels, built up from level variables by a successor operation and a binary supremum operation, and also judgments for equality of universe levels.
+      ]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <link>https://www.cl.cam.ac.uk/~jdy22/papers/normalization-by-evaluation-with-free-extensions.pdf</link>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>Lazy Linearity for a Core Functional Language</title>
+            <link>https://arxiv.org/abs/2511.10361</link>
+            <description><![CDATA[Source: ArXiv
+
+Traditionally, in linearly typed languages, consuming a linear resource is synonymous with its syntactic occurrence in the program. However, under the lens of non-strict evaluation, linearity can be further understood semantically, where a syntactic occurrence of a resource does not necessarily entail using that resource when the program is executed. While this distinction has been largely unexplored, it turns out to be inescapable in Haskell's optimising compiler, which heavily rewrites the source program in ways that break syntactic linearity but preserve the program's semantics. We introduce Linear Core, a novel system which accepts the lazy semantics of linearity statically and is suitable for lazy languages such as the Core intermediate language of the Glasgow Haskell Compiler. We prove that Linear Core is sound, guaranteeing linear resource usage, and that multiple optimising transformations preserve linearity in Linear Core while failing to do so in Core. We have implemented Linear Core as a compiler plugin to validate the system against linearity-heavy libraries, including linear-base.]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>The Bloomer&apos;s Paradox</title>
+            <link>https://www.astralcodexten.com/p/the-bloomers-paradox?utm_campaign=post&amp;utm_medium=email&amp;triedRedirect=true</link>
+            <description><![CDATA[In Jason Pargin’s I’m Starting To Worry About This Black Box Of Doom, a manic pixie dream girl cajoles a shut-in incel loser to drive her and her mysterious box cross-country. The further they drive, the more evidence starts to build that she is a terrorist and her box is a nuke. As our protagonist becomes increasingly desperate to turn around and return to his comfortable world of social media feeds and psych meds, she pleads with him to come out of his shell, learn to trust people offline, and have a sense of adventure. The book’s dramatic tension comes from our simultaneously rooting for hi]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>The Case That A.I. Is Thinking</title>
+            <link>https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking</link>
+            <description><![CDATA[ChatGPT does not have an inner life. Yet it seems to know what it’s talking about.November 3, 2025How convincing does the illusion of understanding have to be before you stop calling it an illusion?Animations by Zach LiebermanDario Amodei, the C.E.O. of the artificial-intelligence company Anthropic, has been predicting that an A.I. “smarter than a Nobel Prize winner” in such fields as biology, math, engineering, and writing might come online by 2027. He envisions millions of copies of a model whirring away, each conducting its own research: a “country of geniuses in a datacenter.” In June, Sam]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>Writing For The AIs</title>
+            <link>https://www.astralcodexten.com/p/writing-for-the-ais</link>
+            <description><![CDATA[American Scholar has an article about people who “write for AI”, including Tyler Cowen and Gwern. It’s good that this is getting more attention, because in theory it seems like one of the most influential things a writer could do. In practice, it leaves me feeling mostly muddled and occasionally creeped out.“Writing for AI” means different things to different people, but seems to center around:Helping AIs learn what you know.Presenting arguments for your beliefs, in the hopes that AIs come to believe them.Helping the AIs model you in enough detail to recreate / simulate you later.Going through]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <title>Remote Amazon tribe finally connects to  internet — only to wind up hooked on porn, social media</title>
+            <link>https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/</link>
+            <description><![CDATA[
+							
+
+
+A reclusive tribe in the Amazon finally got hooked up to the internet, thanks to Elon Musk — only to be torn apart by social media and pornography addiction, elders complain.
+
+
+
+Brazil’s 2,000-member Marubo tribe has been left bitterly divided by the arrival of the Tesla founder’s Starlink service nine months ago, which connected the remote rainforest community along the Ituí River to the web for the first time. 
+
+
+
+“When it arrived, everyone was happy,” Tsainama Marubo, 73, told The New York Times. 
+
+
+
+“But now, things have gotten worse. Young people have gotten lazy because of the]]></description>
+            <pubDate>2025-12-02</pubDate>
+        </item>
+        <item>
+            <link>https://x.com/lawrpaulson/status/1993300548758692332?s=12</link>
+            <description><![CDATA[ Just out: Functional Data Structures, edited by Tobias Nipkow  pic.twitter.com/2Li133BDqd — Lawrence Paulson (@LawrPaulson)  November 25, 2025 
+ 
+
 ]]></description>
-            <pubDate>2025-11-20</pubDate>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://github.com/LaurentRDC/tree-sitter-haskell-literate</link>
-            <description><![CDATA[# tree-sitter-haskell-literate
-
-Tree-sitter grammar for Literate Haskell.
-
-## Supported notations
-
-This grammar supports three separate Literate Haskell notations, shown below highlighted in the [Helix editor](https://github.com/helix-editor/helix).
-
-First is the so-called Bird-style:
-
-![Bird-style](/images/fib-bird.png)
-
-Second is LaTeX-style:
-
-![LaTeX-style](/images/fib-latex.png)
-
-Third is Markdown-style:
-
-![Markdown-style](/images/fib-markdown.png)
-
-For Markdown-style, you will need to use something like [`markdown-unlit`](https://github.com/sol/markdown-unlit) to get compilation support.
-]]></description>
-            <pubDate>2025-11-20</pubDate>
+            <link>https://verse-lab.org/papers/veil-dafny26.pdf</link>
+            <pubDate>2025-12-02</pubDate>
         </item>
         <item>
-            <link>https://github.com/mattlianje/layoutz</link>
-            <description><![CDATA[<p align="center">
-  <img src="https://raw.githubusercontent.com/mattlianje/layoutz/refs/heads/master/pix/layoutz-demo.png" width="700">
-</p>
-
-# <img src="https://raw.githubusercontent.com/mattlianje/layoutz/refs/heads/master/pix/layoutz.png" width="60"> layoutz
-**Simple, beautiful CLI output 🪶**
-
-Build declarative and composable sections, trees, tables, dashboards, and interactive Elm-style TUI's.
-Easily create new primitives (no component-library limitations).
-
-Part of [d4](https://github.com/mattlianje/d4) • Also in: [JavaScript](https://github.com/mattlianje/layoutz/tree/master/layoutz-ts)]]></description>
-            <pubDate>2025-11-20</pubDate>
-        </item>
-        <item>
-            <link>https://xlii.space/eng/small-functions/</link>
-            <pubDate>2025-11-20</pubDate>
-        </item>
-        <item>
-            <link>https://doisinkidney.com/pdfs/hyperfunctions.pdf</link>
-            <pubDate>2025-11-20</pubDate>
+            <link>https://verse-lab.org/papers/velvet-dafny26.pdf</link>
+            <pubDate>2025-12-02</pubDate>
         </item>
     </channel>
 </rss>
