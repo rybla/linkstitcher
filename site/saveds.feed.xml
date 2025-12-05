@@ -162,5 +162,95 @@ Brazil’s 2,000-member Marubo tribe has been left bitterly divided by the arriv
             <link>https://verse-lab.org/papers/velvet-dafny26.pdf</link>
             <pubDate>2025-12-02</pubDate>
         </item>
+        <item>
+            <title>Teaching an LLM a Niche Diagraming Language</title>
+            <link>https://www.huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language</link>
+            <description><![CDATA[Text-to-diagram seems to be an area that has been solved perfectly by LLMs, but only with popular languages like Mermaid or PlantUML. There are many other less popular diagramming languages like D2, Structurizr, or Pintora. I want to see how far I can go teaching an LLM one of these languages, and Pintora◹ seems like a nice option to pick because I know there will not be a lot of LLMs trained with this language. At least, not the small ones.
+Project goalSo, I set out the goal for this training project. It will be an LLM that has the ability to work with Pintora diagrams, for the following task]]></description>
+            <pubDate>2025-12-05</pubDate>
+        </item>
+        <item>
+            <title></title>
+            <link>https://muratkasimov.art/Ya/Tutorials/Command-line-task-manager-7/</link>
+            <description><![CDATA[   /Я language (β)/Tutorials/Command line task manager 7/   Full source code ⋅ Previous chapter ⋅ Next chapter Let's introduce task statuses - they either completed or waiting for completion:   type Status = Unit `S` Unit   In addition we add pattern synonyms to avoid confusion:   pattern TODO e = This e     pattern DONE e = That e   Statuses should be included in a task type declaration:   type Task = Status `P` String   Printing expression is bloating, it's good time to split it on lines and blocks:   > line = is @( Cursor `P` Task )     >> `yio'yio'yoi` TODO `hu` "TODO" `la` DONE `hu` "DONE]]></description>
+            <pubDate>2025-12-05</pubDate>
+        </item>
+        <item>
+            <title>Effect is Kleisli, etymologically</title>
+            <link>https://luthenwald.github.io/blogs/effect-kleisli.html</link>
+            <description><![CDATA[
+      
+      
+      It's pretty intriguing that the Effect type in this blog is exactly the traditional Kleisli type in haskell. We'll further show that Monad is the constraint we need to form the valid Effect category. If you are wondering about the meaning of effects in the haskell world, I believe this blog will help gain some understanding.
+      
+import           Data.Kind ( Type )
+
+import           Prelude   hiding ( Just, Maybe, Monad, Nothing, id, return, (<=<), (=<<), (>=>), (>>=) )
+
+
+      The Effect Type
+      When I was perplexitying about effects in haskell, the result was disapp]]></description>
+            <pubDate>2025-12-05</pubDate>
+        </item>
+        <item>
+            <title>Google Summer of Code 2025 Wrap-up | The Haskell Programming Language&apos;s blog</title>
+            <link>https://blog.haskell.org/gsoc-2025/</link>
+            <description><![CDATA[
+    
+      Google Summer of Code 2025 Wrap-up
+
+      
+          Aaron Allen  November 24, 2025  [Haskell.org] #Summer of Code  #Announcement  #GSoC 
+
+    
+
+
+The Haskell.org committee is pleased to present the results of Haskell's
+participation in the Google Summer of Code 2025. This marks our 14th time
+taking part in GSoC!
+
+
+
+Of the four projects alloted to our organization, three were successfully
+completed:
+
+Implement Signature Help for Haskell Language Server
+Qualified Imports and Alias Resolution in Liquid Haskell
+Documenting and Improving CMM
+
+
+Congratulations to all the contributors and]]></description>
+            <pubDate>2025-12-05</pubDate>
+        </item>
+        <item>
+            <title>https://www.stackbuilders.com/insights/hasktorch-libtorch-haskell-bindings-for-deep-learning-using-ffi/</title>
+            <link>https://www.stackbuilders.com/insights/hasktorch-libtorch-haskell-bindings-for-deep-learning-using-ffi/</link>
+            <description><![CDATA[Title: https://www.stackbuilders.com/insights/hasktorch-libtorch-haskell-bindings-for-deep-learning-using-ffi/]]></description>
+            <pubDate>2025-12-05</pubDate>
+        </item>
+        <item>
+            <title>What if you don&apos;t need MCP at all?</title>
+            <link>https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/</link>
+            <description><![CDATA[
+
+
+
+2025-11-02
+
+
+
+One chonky MCP server
+
+
+
+
+
+
+My Browser DevTools Use CasesProblems with Common Browser DevTools for Your AgentEmbracing Bash (and Code)The Start ToolThe Navigate ToolThe Evaluate JavaScript ToolThe Screenshot ToolThe BenefitsAdding the Pick ToolAdding the Cookies ToolA Contrived ExampleMaking This Reusable Across AgentsIn Conclusion
+
+
+After months of agentic coding frenzy, Twitter is still ablaze with discussions about MCP servers. I previously did some very light benchmarking to see if Bash tools or MCP servers are better suited for a specific task. The TL;DR: both can be eff]]></description>
+            <pubDate>2025-12-05</pubDate>
+        </item>
     </channel>
 </rss>
