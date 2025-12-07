@@ -252,5 +252,28 @@ My Browser DevTools Use CasesProblems with Common Browser DevTools for Your Agen
 After months of agentic coding frenzy, Twitter is still ablaze with discussions about MCP servers. I previously did some very light benchmarking to see if Bash tools or MCP servers are better suited for a specific task. The TL;DR: both can be eff]]></description>
             <pubDate>2025-12-05</pubDate>
         </item>
+        <item>
+            <title>Metascience in Dangerous Times</title>
+            <link>https://www.macroscience.org/p/metascience-in-dangerous-times</link>
+            <description><![CDATA[Ship in a Storm on a Rocky Coast, by Jan Porcellis (painted around 1618). Source: Wikimedia. As Macroscience relaunches, a fundamental question has been on my mind. Namely, how must metascience adapt to understand the shape of science in the coming years?Since we went on hiatus late last year, the Trump administration has fundamentally reconfigured the government’s involvement in American science and research. The norms that govern the degree to which political authorities intervene in the life of the academy have been reshaped. From cuts to research funding to the reworking of overhead rules,]]></description>
+            <pubDate>2025-12-07</pubDate>
+        </item>
+        <item>
+            <link>https://github.com/zed-industries/awesome-gpui</link>
+            <description><![CDATA[# awesome-gpui
+
+A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, designed to support a wide variety of applications.
+
+- [website](https://www.gpui.rs)
+- [crates.io](https://crates.io/crates/gpui)
+
+## Apps
+
+- [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
+- [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
+- [Fast Forward]]]></description>
+            <pubDate>2025-12-07</pubDate>
+        </item>
     </channel>
 </rss>
