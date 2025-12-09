@@ -1292,5 +1292,247 @@ In democracies, major policy decisions typically require some form of majority o
 <p># Comments: 24</p>]]></description>
             <pubDate>2025-12-08</pubDate>
         </item>
+        <item>
+            <title>Horses</title>
+            <link>https://andyljones.com/posts/horses.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://andyljones.com/posts/horses.html">https://andyljones.com/posts/horses.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46199723">https://news.ycombinator.com/item?id=46199723</a></p>
+<p>Points: 308</p>
+<p># Comments: 222</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>The Universal Weight Subspace Hypothesis</title>
+            <link>https://arxiv.org/abs/2512.05117</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates that neural networks systematically converge to shared spectral subspaces regardless of initialization, task, or domain. Through mode-wise spectral analysis of over 1100 models - including 500 Mistral-7B LoRAs, 500 Vision Transformers, and 50 LLaMA-8B models - we identify universal subspaces capturing majority variance in just a few principal directions. By applying spectral decomposition techniques to the weight matrices of various architectures trained on a wide range of tasks and datasets, we identify sparse, joint subspaces that are consistently exploited, within shared architectures across diverse tasks and datasets. Our findings offer new insights into the intrinsic organization of information within deep networks and raise important questions about the possibility of discovering these universal subspaces without the need for extensive data and computational resources. Furthermore, this inherent structure has significant implications for model reusability, multi-task learning, model merging, and the development of training and inference-efficient algorithms, potentially reducing the carbon footprint of large-scale neural models.]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Icons in Menus Everywhere — Send Help</title>
+            <link>https://blog.jim-nielsen.com/2025/icons-in-menus/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://blog.jim-nielsen.com/2025/icons-in-menus/">https://blog.jim-nielsen.com/2025/icons-in-menus/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46196688">https://news.ycombinator.com/item?id=46196688</a></p>
+<p>Points: 395</p>
+<p># Comments: 154</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Has the cost of building software just dropped 90%?</title>
+            <link>https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/">https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46196228">https://news.ycombinator.com/item?id=46196228</a></p>
+<p>Points: 244</p>
+<p># Comments: 383</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Jepsen: NATS 2.12.1</title>
+            <link>https://jepsen.io/analyses/nats-2.12.1</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://jepsen.io/analyses/nats-2.12.1">https://jepsen.io/analyses/nats-2.12.1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46196105">https://news.ycombinator.com/item?id=46196105</a></p>
+<p>Points: 337</p>
+<p># Comments: 118</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Deep Dive into NVIDIA&apos;s Virtuous Cycle</title>
+            <link>https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle">https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46196076">https://news.ycombinator.com/item?id=46196076</a></p>
+<p>Points: 292</p>
+<p># Comments: 163</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Microsoft has a problem: nobody wants to buy or use its shoddy AI products &amp;mdash; as Google&apos;s AI growth begins to&amp;hellip;</title>
+            <link>https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai">https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46194615">https://news.ycombinator.com/item?id=46194615</a></p>
+<p>Points: 392</p>
+<p># Comments: 330</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Hunting For North Korean Fiber Optic Cables</title>
+            <link>https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/">https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46194384">https://news.ycombinator.com/item?id=46194384</a></p>
+<p>Points: 246</p>
+<p># Comments: 76</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Let&apos;s put Tailscale on a jailbroken Kindle</title>
+            <link>https://tailscale.com/blog/tailscale-jailbroken-kindle</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://tailscale.com/blog/tailscale-jailbroken-kindle">https://tailscale.com/blog/tailscale-jailbroken-kindle</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46194337">https://news.ycombinator.com/item?id=46194337</a></p>
+<p>Points: 263</p>
+<p># Comments: 64</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>AMD GPU Debugger · Abdelhadi | عبدالهادي</title>
+            <link>https://thegeeko.me/blog/amd-gpu-debugging/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://thegeeko.me/blog/amd-gpu-debugging/">https://thegeeko.me/blog/amd-gpu-debugging/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46193931">https://news.ycombinator.com/item?id=46193931</a></p>
+<p>Points: 231</p>
+<p># Comments: 39</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Uber Ads launches intelligence insights tool for marketers</title>
+            <link>https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12">https://www.businessinsider.com/uber-ads-launches-intelligence-insights-trips-takeout-data-marketers-2025-12</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46192962">https://news.ycombinator.com/item?id=46192962</a></p>
+<p>Points: 249</p>
+<p># Comments: 211</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Updated: Japan issues mega-quake alert after M7.5 tremor</title>
+            <link>https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20251208232600&lang=en" rel="nofollow">https://www.data.jma.go.jp/multi/quake/quake_detail.html?eve...</a><p><a href="https://www3.nhk.or.jp/nhkworld/en/news/weather-disaster/tsunami/" rel="nofollow">https://www3.nhk.or.jp/nhkworld/en/news/weather-disaster/tsu...</a><p><a href="https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000rtdt&extent=-5.61599,111.26953&extent=70.40735,173.14453" rel="nofollow">https://earthquake.usgs.gov/earthquakes/map/?currentFeatureI...</a><p><a href="https://www.tsunami.gov/?p=PHEB/2025/12/08/25342050/2/WEPA40" rel="nofollow">https://www.tsunami.gov/?p=PHEB/2025/12/08/25342050/2/WEPA40</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46192846">https://news.ycombinator.com/item?id=46192846</a></p>
+<p>Points: 291</p>
+<p># Comments: 140</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Paramount Skydance launches hostile bid for WBD &apos;to finish what we started,&apos; CEO Ellison tells CNBC</title>
+            <link>https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Previously: <i>Netflix to Acquire Warner Bros</i> - <a href="https://news.ycombinator.com/item?id=46160315">https://news.ycombinator.com/item?id=46160315</a> (1333 comments)</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46192459">https://news.ycombinator.com/item?id=46192459</a></p>
+<p>Points: 293</p>
+<p># Comments: 293</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Microsoft 365 Pricing Increase in July 2026</title>
+            <link>https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/">https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46192186">https://news.ycombinator.com/item?id=46192186</a></p>
+<p>Points: 330</p>
+<p># Comments: 370</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>IBM to Acquire Confluent</title>
+            <link>https://www.confluent.io/blog/ibm-to-acquire-confluent/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.confluent.io/blog/ibm-to-acquire-confluent/">https://www.confluent.io/blog/ibm-to-acquire-confluent/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46192130">https://news.ycombinator.com/item?id=46192130</a></p>
+<p>Points: 379</p>
+<p># Comments: 302</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title></title>
+            <link>https://12days.cmdchallenge.com</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://12days.cmdchallenge.com">https://12days.cmdchallenge.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46190577">https://news.ycombinator.com/item?id=46190577</a></p>
+<p>Points: 233</p>
+<p># Comments: 78</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>The f*** off contact page - Nic Chan</title>
+            <link>https://www.nicchan.me/blog/the-f-off-contact-page/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.nicchan.me/blog/the-f-off-contact-page/">https://www.nicchan.me/blog/the-f-off-contact-page/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46189994">https://news.ycombinator.com/item?id=46189994</a></p>
+<p>Points: 458</p>
+<p># Comments: 185</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>GitHub Actions Has a Package Manager, and It Might Be the Worst</title>
+            <link>https://nesbitt.io/2025/12/06/github-actions-package-manager.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://nesbitt.io/2025/12/06/github-actions-package-manager.html">https://nesbitt.io/2025/12/06/github-actions-package-manager.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46189692">https://news.ycombinator.com/item?id=46189692</a></p>
+<p>Points: 395</p>
+<p># Comments: 233</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Damn Small Linux, DSL 2024 Information</title>
+            <link>https://www.damnsmalllinux.org/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.damnsmalllinux.org/">https://www.damnsmalllinux.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46187387">https://news.ycombinator.com/item?id=46187387</a></p>
+<p>Points: 227</p>
+<p># Comments: 62</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>Bag of words, have mercy on us</title>
+            <link>https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us">https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46185957">https://news.ycombinator.com/item?id=46185957</a></p>
+<p>Points: 313</p>
+<p># Comments: 339</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title>How I block all online ads</title>
+            <link>https://troubled.engineer/posts/no-ads/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://troubled.engineer/posts/no-ads/">https://troubled.engineer/posts/no-ads/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46185816">https://news.ycombinator.com/item?id=46185816</a></p>
+<p>Points: 319</p>
+<p># Comments: 275</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
+        <item>
+            <title></title>
+            <link>https://twitter.com/kenchangh/status/1994854381267947640</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://archive.is/jEJAj" rel="nofollow">https://archive.is/jEJAj</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46181371">https://news.ycombinator.com/item?id=46181371</a></p>
+<p>Points: 651</p>
+<p># Comments: 922</p>]]></description>
+            <pubDate>2025-12-09</pubDate>
+        </item>
     </channel>
 </rss>
