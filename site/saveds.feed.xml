@@ -122,5 +122,18 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 - [Fast Forward]]]></description>
             <pubDate>2025-12-07</pubDate>
         </item>
+        <item>
+            <title>Solo Founders</title>
+            <link>https://solofounders.com/report</link>
+            <description><![CDATA[A REPORT FROM THE FRONTTHE STATE OF SOLO FOUNDINGToday, solo founding is considered odd. Soon it will be the default. This report features exclusive Carta data alongside commentary from solo founders who have raised over $250M and the investors who backed them.By submitting your information, you agree to the processing of your personal data by Carta as described in Carta's Privacy Policy and Terms of Service.For the first time in history, solo founders start over one-third of new companies.This milestone represents a 53% increase from 2019, when solo-founded companies accounted for less than o]]></description>
+            <pubDate>2025-12-10</pubDate>
+        </item>
+        <item>
+            <title>CSS Wrapped 2025</title>
+            <link>https://chrome.dev/css-wrapped-2025/</link>
+            <description><![CDATA[    # Invoker Commands Show a <dialog> modally (and more) without JavaScript!  Try the demo Chrome for Developers MDN    To open a <dialog> modally by clicking a <button> you typically need an onclick handler that calls the showModal method on that <dialog>. <button onclick="document.querySelector('#my-dialog').showModal();">Show Dialog</button>
+<dialog id="my-dialog">…</dialog> With invoker commands–available from Chrome 135–buttons can now perform actions on other elements declaratively, without the need for any JavaScript. <button commandfor="my-dialog" command="show-modal">Show Dialog</but]]></description>
+            <pubDate>2025-12-10</pubDate>
+        </item>
     </channel>
 </rss>
