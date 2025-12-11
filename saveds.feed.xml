@@ -135,5 +135,15 @@ A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, de
 <dialog id="my-dialog">…</dialog> With invoker commands–available from Chrome 135–buttons can now perform actions on other elements declaratively, without the need for any JavaScript. <button commandfor="my-dialog" command="show-modal">Show Dialog</but]]></description>
             <pubDate>2025-12-10</pubDate>
         </item>
+        <item>
+            <title>Automerge</title>
+            <link>https://automerge.org/</link>
+            <description><![CDATA[
+    The team behind Automerge.
+    For more than a decade, Automerge has been an independent open source project built by a serious, dedicated team of engineers and computer scientists. That team includes production engineers who cofounded Heroku, and computer scientists like renowned Cambridge professor Martin Kleppmann. We plan for the long-term, and think about where the project will be in a decade, not how to get through the next funding round.
+    
+    We are driven to build high performance, reliable software you can bet your project on. We develop rigorous academic proofs of our design]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
     </channel>
 </rss>

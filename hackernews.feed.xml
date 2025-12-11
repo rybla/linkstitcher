@@ -10,226 +10,6 @@
             <link>https://github.com/rybla/linkstitcher</link>
         </image>
         <item>
-            <title>Everyone in Seattle Hates AI — Jonathon Ready</title>
-            <link>https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html">https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46138952">https://news.ycombinator.com/item?id=46138952</a></p>
-<p>Points: 749</p>
-<p># Comments: 751</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Ghostty Is Now Non-Profit</title>
-            <link>https://mitchellh.com/writing/ghostty-non-profit</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://mitchellh.com/writing/ghostty-non-profit">https://mitchellh.com/writing/ghostty-non-profit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46138238">https://news.ycombinator.com/item?id=46138238</a></p>
-<p>Points: 1013</p>
-<p># Comments: 207</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Micron Announces Exit from Crucial Consumer Business | Micron Technology</title>
-            <link>https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business">https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46137783">https://news.ycombinator.com/item?id=46137783</a></p>
-<p>Points: 506</p>
-<p># Comments: 248</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>How I Reverse Engineered a Billion-Dollar Legal AI Tool and Found 100k+ Confidential Files</title>
-            <link>https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k">https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46137514">https://news.ycombinator.com/item?id=46137514</a></p>
-<p>Points: 625</p>
-<p># Comments: 195</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>https://conwaylife.com/forums/viewtopic.php?&amp;p=222136#p222136</title>
-            <link>https://conwaylife.com/forums/viewtopic.php?&amp;p=222136#p222136</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136">https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46137253">https://news.ycombinator.com/item?id=46137253</a></p>
-<p>Points: 415</p>
-<p># Comments: 142</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Steam Deck lead reveals Valve is funding ARM compatibility of Windows games “to expand PC gaming” and release “ultraportables” in the future</title>
-            <link>https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/">https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46136901">https://news.ycombinator.com/item?id=46136901</a></p>
-<p>Points: 293</p>
-<p># Comments: 13</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>RCE Vulnerability in React and Next.js</title>
-            <link>https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<div align="center">
-  <a href="https://nextjs.org">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png">
-      <img alt="Next.js logo" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" height="128">
-    </picture>
-  </a>
-  <h1>Next.js</h1>
-
-<a href="https://vercel.com"><img alt="Vercel logo" src="https://img.shields.io/badge/MADE%20BY%20Vercel-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000"></a>
-<a href="https://www.npmjs.com/package/next"]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>MinIO is now in maintenance-mode</title>
-            <link>https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-# Maintenance Mode
-
-**This project is currently under maintenance and is not accepting new changes.**
-
-- The codebase is in a maintenance-only state
-- No new features, enhancements, or pull requests will be accepted
-- Critical security fixes may be evaluated on a case-by-case basis
-- Existing issues and pull requests will not be actively reviewed
-- Community support continues on a best-effort basis through [Slack](https://slack.min.io)
-
-For enterprise support and actively maintained versions, please see [MinIO AIStor](https://www.min.io/product/aistor).
-
----
-
-# MinIO Quickstart Guide
-
-[![Slack]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>&quot;Captain Gains&quot; on Capitol Hill</title>
-            <link>https://www.nber.org/papers/w34524</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.nber.org/papers/w34524">https://www.nber.org/papers/w34524</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46134443">https://news.ycombinator.com/item?id=46134443</a></p>
-<p>Points: 795</p>
-<p># Comments: 523</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Helldivers 2 devs slash install size from 154GB to 23GB, thanks to the help of PC port veterans &amp;mdash; ditching HDD optimization, 85% size reduction accomplished by de-duplicating game data</title>
-            <link>https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives">https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46134178">https://news.ycombinator.com/item?id=46134178</a></p>
-<p>Points: 397</p>
-<p># Comments: 261</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>You can&apos;t fool the optimiser — Matt Godbolt’s blog</title>
-            <link>https://xania.org/202512/03-more-adding-integers</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://xania.org/202512/03-more-adding-integers">https://xania.org/202512/03-more-adding-integers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46133622">https://news.ycombinator.com/item?id=46133622</a></p>
-<p>Points: 248</p>
-<p># Comments: 153</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>The &quot;Mad Men&quot; in 4K on HBO Max Debacle</title>
-            <link>http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html">http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46133422">https://news.ycombinator.com/item?id=46133422</a></p>
-<p>Points: 375</p>
-<p># Comments: 159</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Anthropic taps IPO lawyers as it races OpenAI to go public</title>
-            <link>https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p><a href="https://archive.md/HqXUD" rel="nofollow">https://archive.md/HqXUD</a></p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46132531">https://news.ycombinator.com/item?id=46132531</a></p>
-<p>Points: 331</p>
-<p># Comments: 262</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Zig quits GitHub, says Microsoft&apos;s AI obsession has ruined the service</title>
-            <link>https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/">https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46131406">https://news.ycombinator.com/item?id=46131406</a></p>
-<p>Points: 982</p>
-<p># Comments: 573</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Accepting US car standards would risk European lives, warn cities and civil society</title>
-            <link>https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/">https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46131330">https://news.ycombinator.com/item?id=46131330</a></p>
-<p>Points: 828</p>
-<p># Comments: 701</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13</title>
-            <link>https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13">https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46130335">https://news.ycombinator.com/item?id=46130335</a></p>
-<p>Points: 279</p>
-<p># Comments: 52</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Japanese devs face font licensing dilemma as leading provider increases annual plan price from $380 to $20,000+</title>
-            <link>https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000">https://www.gamesindustry.biz/japanese-devs-face-font-licensing-dilemma-as-leading-provider-increases-annual-plan-price-from-380-to-20000</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46130187">https://news.ycombinator.com/item?id=46130187</a></p>
-<p>Points: 324</p>
-<p># Comments: 191</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
-            <title>Steam Machine today, Steam Phones tomorrow</title>
-            <link>https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p><a href="https://archive.is/AKhTr" rel="nofollow">https://archive.is/AKhTr</a></p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46126446">https://news.ycombinator.com/item?id=46126446</a></p>
-<p>Points: 665</p>
-<p># Comments: 563</p>]]></description>
-            <pubDate>2025-12-04</pubDate>
-        </item>
-        <item>
             <title>https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</title>
             <link>https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80</link>
             <description><![CDATA[Source: Hackernews: Customized
@@ -742,6 +522,8 @@ In democracies, major policy decisions typically require some form of majority o
             <link>https://thorsell.io/2025/12/07/estimates.html</link>
             <description><![CDATA[Source: Hackernews: Customized
 
+Source: Hackernews: Customized
+
 <p>Article URL: <a href="https://thorsell.io/2025/12/07/estimates.html">https://thorsell.io/2025/12/07/estimates.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46184229">https://news.ycombinator.com/item?id=46184229</a></p>
 <p>Points: 190</p>
@@ -808,6 +590,8 @@ In democracies, major policy decisions typically require some form of majority o
             <title>GPTZero uncovers 50+ Hallucinations in ICLR 2026</title>
             <link>https://gptzero.me/news/iclr-2026/</link>
             <description><![CDATA[Source: Hackernews: Customized
+
+Source: Hackernews: Customized
 
 <p>Article URL: <a href="https://gptzero.me/news/iclr-2026/">https://gptzero.me/news/iclr-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=46181466">https://news.ycombinator.com/item?id=46181466</a></p>
@@ -1335,6 +1119,248 @@ Source: Hackernews: Customized
 <p>Points: 245</p>
 <p># Comments: 121</p>]]></description>
             <pubDate>2025-12-10</pubDate>
+        </item>
+        <item>
+            <title>Getting a Gemini API key is an exercise in frustration — Ankur Sethi&apos;s Internet Website</title>
+            <link>https://ankursethi.com/blog/gemini-api-key-frustration/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://ankursethi.com/blog/gemini-api-key-frustration/">https://ankursethi.com/blog/gemini-api-key-frustration/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46223311">https://news.ycombinator.com/item?id=46223311</a></p>
+<p>Points: 432</p>
+<p># Comments: 175</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Building a High-End AI Desktop</title>
+            <link>https://dnhkng.github.io/posts/hopper/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://dnhkng.github.io/posts/hopper/">https://dnhkng.github.io/posts/hopper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46222237">https://news.ycombinator.com/item?id=46222237</a></p>
+<p>Points: 262</p>
+<p># Comments: 67</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Super Mario 64 for the PS1</title>
+            <link>https://github.com/malucard/sm64-psx</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+# Super Mario 64 (DualShock Version)
+
+- This is a fork of [the full decompilation of Super Mario 64 (J), (U), (E), and (SH)](https://github.com/n64decomp/sm64).
+- It is heavily modified and can no longer target Nintendo 64, only PSX and PC (for debugging).
+- There are still many limitations.
+- For now, it can only build from the US version.
+
+This repo does not include all assets necessary for compiling the game.
+An original copy of the game is required to extract the assets.
+
+## Features
+
+- Cool "DUAL SHOCK™ Compatible" graphic mimicking the original "振動パック対応" (Rumble Pak Compatible) graphic
+-]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Is It a Bubble?</title>
+            <link>https://www.oaktreecapital.com/insights/memo/is-it-a-bubble</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.oaktreecapital.com/insights/memo/is-it-a-bubble">https://www.oaktreecapital.com/insights/memo/is-it-a-bubble</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46220640">https://news.ycombinator.com/item?id=46220640</a></p>
+<p>Points: 202</p>
+<p># Comments: 303</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>https://karpathy.bearblog.dev/auto-grade-hn/</title>
+            <link>https://karpathy.bearblog.dev/auto-grade-hn/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Related from yesterday: <i>Show HN: Gemini Pro 3 imagines the HN front page 10 years from now</i> - <a href="https://news.ycombinator.com/item?id=46205632">https://news.ycombinator.com/item?id=46205632</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46220540">https://news.ycombinator.com/item?id=46220540</a></p>
+<p>Points: 408</p>
+<p># Comments: 186</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux</title>
+            <link>https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html">https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46220488">https://news.ycombinator.com/item?id=46220488</a></p>
+<p>Points: 631</p>
+<p># Comments: 344</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>China’s DeepSeek Uses Banned Nvidia Chips for AI Model, Report Says</title>
+            <link>https://finance.yahoo.com/news/china-deepseek-uses-banned-nvidia-131207746.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>(Original is <a href="https://www.theinformation.com/articles/deepseek-using-banned-nvidia-chips-race-build-next-model" rel="nofollow">https://www.theinformation.com/articles/deepseek-using-banne...</a> but hardwalled)</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46219853">https://news.ycombinator.com/item?id=46219853</a></p>
+<p>Points: 301</p>
+<p># Comments: 283</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>https://qwen.ai/blog?id=qwen3-omni-flash-20251201</title>
+            <link>https://qwen.ai/blog?id=qwen3-omni-flash-20251201</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://qwen.ai/blog?id=qwen3-omni-flash-20251201">https://qwen.ai/blog?id=qwen3-omni-flash-20251201</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46219538">https://news.ycombinator.com/item?id=46219538</a></p>
+<p>Points: 245</p>
+<p># Comments: 89</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>https://neal.fun/size-of-life/</title>
+            <link>https://neal.fun/size-of-life/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://neal.fun/size-of-life/">https://neal.fun/size-of-life/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46219346">https://news.ycombinator.com/item?id=46219346</a></p>
+<p>Points: 1734</p>
+<p># Comments: 202</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>https://e360.yale.edu/digest/new-york-congestion-pricing-pollution</title>
+            <link>https://e360.yale.edu/digest/new-york-congestion-pricing-pollution</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://e360.yale.edu/digest/new-york-congestion-pricing-pollution">https://e360.yale.edu/digest/new-york-congestion-pricing-pollution</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46218725">https://news.ycombinator.com/item?id=46218725</a></p>
+<p>Points: 421</p>
+<p># Comments: 433</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Revealed: Israel Used Palantir Technologies In Pager Terrorist Attack In Lebanon.</title>
+            <link>https://the307.substack.com/p/revealed-israel-used-palantir-technologies</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://the307.substack.com/p/revealed-israel-used-palantir-technologies">https://the307.substack.com/p/revealed-israel-used-palantir-technologies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46218640">https://news.ycombinator.com/item?id=46218640</a></p>
+<p>Points: 442</p>
+<p># Comments: 414</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Revisiting &quot;Let&apos;s Build a Compiler&quot;</title>
+            <link>https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/">https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46214693">https://news.ycombinator.com/item?id=46214693</a></p>
+<p>Points: 260</p>
+<p># Comments: 43</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>reuters.com</title>
+            <link>https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://archive.md/x0Sxc" rel="nofollow">https://archive.md/x0Sxc</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46212438">https://news.ycombinator.com/item?id=46212438</a></p>
+<p>Points: 232</p>
+<p># Comments: 370</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Django: what’s new in 6.0 - Adam Johnson</title>
+            <link>https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/">https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46210240">https://news.ycombinator.com/item?id=46210240</a></p>
+<p>Points: 364</p>
+<p># Comments: 124</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>So You Want To Speak At Software Conferences? : dylanbeattie.net</title>
+            <link>https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html">https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46208773">https://news.ycombinator.com/item?id=46208773</a></p>
+<p>Points: 233</p>
+<p># Comments: 125</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>reuters.com</title>
+            <link>https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://archive.md/i0VxX" rel="nofollow">https://archive.md/i0VxX</a><p><a href="https://www.bbc.com/news/live/cwy54q80gy9t" rel="nofollow">https://www.bbc.com/news/live/cwy54q80gy9t</a><p><a href="https://www.nytimes.com/2025/12/09/world/asia/australia-social-media-ban-under-16.html" rel="nofollow">https://www.nytimes.com/2025/12/09/world/asia/australia-soci...</a> (<a href="https://archive.ph/Ba2JR" rel="nofollow">https://archive.ph/Ba2JR</a>)</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46208348">https://news.ycombinator.com/item?id=46208348</a></p>
+<p>Points: 684</p>
+<p># Comments: 1084</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Donating the Model Context Protocol and establishing the Agentic AI Foundation</title>
+            <link>https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation">https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46207425">https://news.ycombinator.com/item?id=46207425</a></p>
+<p>Points: 284</p>
+<p># Comments: 130</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor</title>
+            <link>https://github.com/KaijuEngine/kaiju</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+# Kaiju Engine
+Kaiju is a 2D/3D game engine written in Go (Golang) backed by Vulkan. The goal of the engine is to use a modern, easy, systems level programming language, with a focus on simplicity, to create a new kind of game engine.
+
+- 📄 2D / 🧊 3D Game Engine
+- 🪟 Windows
+- 🐧 Linux
+- 🤖 Android (NEW, support now functional)
+- 🍎 Mac (support is [currently WIP](https://github.com/KaijuEngine/kaiju/pull/489))
+- 🤖👉⌨️ Local AI (LLM) interop
+- ⚠️🚧🏗️👷‍♂️ Work in progress, under heavy development
+- 🚚 Faster builds than other game engines
+- 🔥 Better performance than other game engines (9x faster than U]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it</title>
+            <link>https://laurenleek.substack.com/p/how-google-maps-quietly-allocates</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://laurenleek.substack.com/p/how-google-maps-quietly-allocates">https://laurenleek.substack.com/p/how-google-maps-quietly-allocates</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46203343">https://news.ycombinator.com/item?id=46203343</a></p>
+<p>Points: 202</p>
+<p># Comments: 99</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
+        </item>
+        <item>
+            <title>December 2025 - News archive</title>
+            <link>https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z">https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46202921">https://news.ycombinator.com/item?id=46202921</a></p>
+<p>Points: 266</p>
+<p># Comments: 196</p>]]></description>
+            <pubDate>2025-12-11</pubDate>
         </item>
     </channel>
 </rss>
