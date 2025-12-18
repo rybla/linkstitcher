@@ -52,6 +52,13 @@ pub fn get_preview(db_conn: &mut SqliteConnection, url: String) -> Result<Option
         .first(db_conn)
         .optional()?)
 }
+
+pub fn get_all_previews(db_conn: &mut SqliteConnection) -> Result<Vec<Preview>> {
+    use crate::schema::previews::dsl::previews;
+
+    Ok(previews.select(Preview::as_select()).load(db_conn)?)
+}
+
 pub fn is_url_known(db_conn: &mut SqliteConnection, url: &str) -> Result<bool> {
     use crate::schema::previews::dsl::previews;
 
