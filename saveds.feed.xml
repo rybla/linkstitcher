@@ -10,60 +10,51 @@
             <link>https://github.com/rybla/linkstitcher</link>
         </image>
         <item>
-            <title>Metascience in Dangerous Times</title>
-            <link>https://www.macroscience.org/p/metascience-in-dangerous-times</link>
-            <description><![CDATA[Ship in a Storm on a Rocky Coast, by Jan Porcellis (painted around 1618). Source: Wikimedia. As Macroscience relaunches, a fundamental question has been on my mind. Namely, how must metascience adapt to understand the shape of science in the coming years?Since we went on hiatus late last year, the Trump administration has fundamentally reconfigured the government’s involvement in American science and research. The norms that govern the degree to which political authorities intervene in the life of the academy have been reshaped. From cuts to research funding to the reworking of overhead rules,]]></description>
-            <pubDate>2025-12-07</pubDate>
-        </item>
-        <item>
-            <link>https://github.com/zed-industries/awesome-gpui</link>
-            <description><![CDATA[# awesome-gpui
-
-A hybrid immediate and retained mode, GPU accelerated, UI framework for Rust, designed to support a wide variety of applications.
-
-- [website](https://www.gpui.rs)
-- [crates.io](https://crates.io/crates/gpui)
-
-## Apps
-
-- [zed](https://github.com/zed-industries/zed): A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [bmo](https://github.com/rubbieKelvin/bmo): Pomorodo timer written with rust & gpui.
-- [coop](https://github.com/lumehq/coop): A simple, fast, and reliable nostr client for secure messaging across all platforms.
-- [Fast Forward]]]></description>
-            <pubDate>2025-12-07</pubDate>
-        </item>
-        <item>
-            <title>Solo Founders</title>
-            <link>https://solofounders.com/report</link>
-            <description><![CDATA[A REPORT FROM THE FRONTTHE STATE OF SOLO FOUNDINGToday, solo founding is considered odd. Soon it will be the default. This report features exclusive Carta data alongside commentary from solo founders who have raised over $250M and the investors who backed them.By submitting your information, you agree to the processing of your personal data by Carta as described in Carta's Privacy Policy and Terms of Service.For the first time in history, solo founders start over one-third of new companies.This milestone represents a 53% increase from 2019, when solo-founded companies accounted for less than o]]></description>
-            <pubDate>2025-12-10</pubDate>
-        </item>
-        <item>
-            <title>CSS Wrapped 2025</title>
-            <link>https://chrome.dev/css-wrapped-2025/</link>
-            <description><![CDATA[    # Invoker Commands Show a <dialog> modally (and more) without JavaScript!  Try the demo Chrome for Developers MDN    To open a <dialog> modally by clicking a <button> you typically need an onclick handler that calls the showModal method on that <dialog>. <button onclick="document.querySelector('#my-dialog').showModal();">Show Dialog</button>
-<dialog id="my-dialog">…</dialog> With invoker commands–available from Chrome 135–buttons can now perform actions on other elements declaratively, without the need for any JavaScript. <button commandfor="my-dialog" command="show-modal">Show Dialog</but]]></description>
-            <pubDate>2025-12-10</pubDate>
-        </item>
-        <item>
-            <title>Automerge</title>
-            <link>https://automerge.org/</link>
+            <title>GPT-5.2 Review: Incredibly Impressive, But Too Slow</title>
+            <link>https://shumer.dev/gpt52review</link>
             <description><![CDATA[
-    The team behind Automerge.
-    For more than a decade, Automerge has been an independent open source project built by a serious, dedicated team of engineers and computer scientists. That team includes production engineers who cofounded Heroku, and computer scientists like renowned Cambridge professor Martin Kleppmann. We plan for the long-term, and think about where the project will be in a decade, not how to get through the next funding round.
-    
-    We are driven to build high performance, reliable software you can bet your project on. We develop rigorous academic proofs of our design]]></description>
-            <pubDate>2025-12-11</pubDate>
+      I've had access to GPT-5.2 since November 25th, and after two weeks of putting it through its paces across coding, research, creative writing, and everyday tasks, I have a lot of thoughts. This review covers both the standard GPT-5.2 Thinking model as well as GPT-5.2 Pro; though I've also written a deeper Pro-specific review, because that model deserves its own dedicated post.
+
+      The short version: GPT-5.2 is a meaningful step forward, particularly in how well it follows complex instructions and how willing it is to actually attempt difficult tasks. Pro mode improves on GPT-5.1 Pro ]]></description>
+            <pubDate>2025-12-17</pubDate>
         </item>
         <item>
-            <title>wen.works</title>
-            <link>https://wen.works/2016/03/20/one-lambda-calculus-many-times/</link>
-            <description><![CDATA[     One λ-calculus, many times… 
-Written by
- 
-on
-       Previously, I mentioned that one of the most common posts on Agda blogs is implementing the simply-typed λ-calculus. Gergő Érdi even goes as far as to call it the FizzBuzz of dependently-typed programming, and rightfully so: If you do a quick search, you’ll find dozens of examples.In Dependently-Typed Programming with Agda, Ulf Norell implements a type checker the simply-typed λ-calculus; Francesco Mazzoli more or less follows Ulf, but extends his λ-calculus with a primitive operator for addition; and, Gergő Érdi extends Ulf’s approach w]]></description>
-            <pubDate>2025-12-12</pubDate>
+            <title>Giving people money helped less than I thought it would</title>
+            <link>https://open.substack.com/pub/theargument/p/giving-people-money-helped-less-than?r=2il09&amp;utm_medium=ios</link>
+            <description><![CDATA[U.S. singer Eartha Kitt is seen at the end of the Poor People March, on June 19, 1968, in Washington, D.C. (Photo by ARNOLD SACHS/AFP via Getty Images)Just give people money. It's the simple, brute-force solution to so many problems. In low-income countries, charities are sometimes measured against whether their interventions are better than simply giving people cash. Even in high-income countries like the U.S., when disaster strikes, often the best thing you can do is get money into the hands of affected people immediately. They know whether they should use it to buy gas, rent an Airbnb or fl]]></description>
+            <pubDate>2025-12-17</pubDate>
+        </item>
+        <item>
+            <title>Why AGI Will Not Happen — Tim Dettmers</title>
+            <link>https://timdettmers.com/2025/12/10/why-agi-will-not-happen/</link>
+            <description><![CDATA[If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective that is often missing in the current discourse: the physical reality of computation. I have been thinking about this topic for a while now, and what prompted me to finally write this down was a combination of things: a Twitter thread, conversations with friends, and a growing ]]></description>
+            <pubDate>2025-12-17</pubDate>
+        </item>
+        <item>
+            <link>https://www.arxiv.org/pdf/2512.09762</link>
+            <pubDate>2025-12-22</pubDate>
+        </item>
+        <item>
+            <title>Malleable software: Restoring user agency in a world of locked-down apps</title>
+            <link>https://www.inkandswitch.com/essay/malleable-software/</link>
+            <description><![CDATA[
+
+Motivation
+We want to adapt our environments
+Environments matter. To do our best work and live our best lives, we need spaces that let us each express our unique potential.
+A guitar maker sets up their workshop with their saws, hammers, chisels and files arranged just so. They can also build new tools as needed to achieve the best result—a wooden block as a support, or a pair of pliers sanded down into the right shape.
+
+
+
+Over the years, a home cook gradually assembles a combination of knives, cutting boards, and pots and pans, finding the ones that work best for them. They can install hooks]]></description>
+            <pubDate>2025-12-22</pubDate>
+        </item>
+        <item>
+            <title>How Journalists Can Turn Speeches, Blog Posts, Books &amp; News Articles Into Illustrative Infographics Using Nano Banana Pro – The GDELT Project</title>
+            <link>https://blog.gdeltproject.org/how-journalists-can-turn-speeches-blog-posts-books-news-articles-into-illustrative-infographics-using-nano-banana-pro/</link>
+            <description><![CDATA[
+                                        Much of the conversation about AI and journalism centers on the potential conflicts between the two fields, while the reality is that there is much AI can offer the field of journalism to help journalists cover a world that is moving ever faster and in a distribution landscape that prioritizes visuals ever more. Given all of our success this week transforming a vast range of material into beautiful and easy-to-understand infographics using Nano Banana Pro, we got to thinking how journalists might be able to use these same approaches. Obviously our work]]></description>
+            <pubDate>2025-12-22</pubDate>
         </item>
     </channel>
 </rss>
