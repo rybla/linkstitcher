@@ -556,5 +556,240 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 <p># Comments: 244</p>]]></description>
             <pubDate>2025-12-23</pubDate>
         </item>
+        <item>
+            <title>Travel in Style. UniFi style. UniFi Travel Router.</title>
+            <link>https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router">https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46371135">https://news.ycombinator.com/item?id=46371135</a></p>
+<p>Points: 267</p>
+<p># Comments: 235</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>X-ray: a Python library for finding bad redactions in PDF documents</title>
+            <link>https://github.com/freelawproject/x-ray</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+![Image of REDACTED STAMP](https://raw.githubusercontent.com/freelawproject/x-ray/main/redacted.png)
+
+x-ray is a Python library for finding bad redactions in PDF documents.
+
+## Why?
+
+At Free Law Project, we collect millions of PDFs. An ongoing problem
+is that people fail to properly redact things. Instead of doing it the right
+way, they just draw a black rectangle or a black highlight on top of black
+text and call it a day. Well, when that happens you just select the text under
+the rectangle, and you can read it again. Not great.
+
+After witnessing this problem for years, we decided it would be]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Some Epstein file redactions are being undone with hacks</title>
+            <link>https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Related: <a href="https://xcancel.com/vmfunc/status/2003292986650853825" rel="nofollow">https://xcancel.com/vmfunc/status/2003292986650853825</a><p><a href="https://old.reddit.com/r/law/comments/1ptlms6/some_epstein_files_can_be_unredacted/" rel="nofollow">https://old.reddit.com/r/law/comments/1ptlms6/some_epstein_f...</a><p><a href="https://krassencast.com/p/breaking-we-just-unredacted-the-epstein" rel="nofollow">https://krassencast.com/p/breaking-we-just-unredacted-the-ep...</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46368946">https://news.ycombinator.com/item?id=46368946</a></p>
+<p>Points: 515</p>
+<p># Comments: 387</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>We Mass-Deployed 15-Year-Old Screen Sharing Technology and It&apos;s Actually Better</title>
+            <link>https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen">https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46367475">https://news.ycombinator.com/item?id=46367475</a></p>
+<p>Points: 427</p>
+<p># Comments: 261</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Fabrice Bellard Releases MicroQuickJS</title>
+            <link>https://github.com/bellard/mquickjs/blob/main/README.md</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+MicroQuickJS
+============
+
+## Introduction
+
+MicroQuickJS (aka. MQuickJS) is a JavaScript engine targetted at
+embedded systems. It compiles and runs JavaScript programs using as little
+as 10 kB of RAM. The whole engine requires about 100 kB of ROM (ARM
+Thumb-2 code) including the C library. The speed is comparable to
+QuickJS.
+
+MQuickJS only supports a [subset](#javascript-subset-reference) of JavaScript close to ES5. It
+implements a **stricter mode** where some error prone or inefficient
+JavaScript constructs are forbidden.
+
+Although MQuickJS shares much code with QuickJS, it internals are
+diff]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Meta Is Using The Linux Scheduler Designed For Valve&apos;s Steam Deck On Its Servers</title>
+            <link>https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server">https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46366998">https://news.ycombinator.com/item?id=46366998</a></p>
+<p>Points: 628</p>
+<p># Comments: 345</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Ryanair fined €256m over ‘abusive strategy’ to limit ticket sales by online travel agencies</title>
+            <link>https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota">https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46364272">https://news.ycombinator.com/item?id=46364272</a></p>
+<p>Points: 245</p>
+<p># Comments: 260</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Ask HN: What are the best engineering blogs with real-world depth?</title>
+            <link>https://news.ycombinator.com/item?id=46363921</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>I’m looking for examples of high-quality engineering blog posts—especially from tech company blogs, that go beyond surface-level explanations.<p>Specifically interested in posts that:
+1. Explain technical concepts clearly and concisely
+2. Show real implementation details, trade-offs, and failures
+3. Are well-structured and readable
+4. Tie engineering decisions back to business or product outcomes<p>Any standout blogs, posts, or platforms you regularly learn from?</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363921">https://news.ycombinator.com/item?id=46363921</a></p>
+<p>Points: 394</p>
+<p># Comments: 122</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Instant database clones with PostgreSQL 18</title>
+            <link>https://boringsql.com/posts/instant-database-clones/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://boringsql.com/posts/instant-database-clones/">https://boringsql.com/posts/instant-database-clones/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363360">https://news.ycombinator.com/item?id=46363360</a></p>
+<p>Points: 399</p>
+<p># Comments: 154</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>A look back at 2025</title>
+            <link>https://www.datocms.com/blog/a-look-back-at-2025</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.datocms.com/blog/a-look-back-at-2025">https://www.datocms.com/blog/a-look-back-at-2025</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363319">https://news.ycombinator.com/item?id=46363319</a></p>
+<p>Points: 307</p>
+<p># Comments: 118</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA</title>
+            <link>https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/">https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46362927">https://news.ycombinator.com/item?id=46362927</a></p>
+<p>Points: 293</p>
+<p># Comments: 259</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Show HN: CineCLI – Browse and torrent movies directly from your terminal</title>
+            <link>https://github.com/eyeblech/cinecli</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+![PyPI](https://img.shields.io/pypi/v/cinecli)
+![Python](https://img.shields.io/pypi/pyversions/cinecli)
+![Nix Flake](https://img.shields.io/badge/Nix-Flake-5277C3?logo=nixos&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Downloads](https://img.shields.io/pypi/dm/cinecli)
+
+
+![Stars](https://img.shields.io/github/stars/eyeblech/cinecli?style=flat-square)
+
+
+---
+
+## 📡 YTS API Status
+
+
+<p align="center">
+  <img
+    src="https://img.shields.io/github/actions/workflow/status/eyeblech/cinecli/api-health.yml?label=YTS%20API&style=for-the-badge"
+    alt="YTS API Status"
+ ]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Snitch – A friendlier ss/netstat</title>
+            <link>https://github.com/karol-broda/snitch</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+# snitch
+
+a friendlier `ss` / `netstat` for humans. inspect network connections with a clean tui or styled tables.
+
+![snitch demo](demo/demo.gif)
+
+## install
+
+### go
+
+```bash
+go install github.com/karol-broda/snitch@latest
+```
+
+### nixos / nix
+
+```bash
+# try it
+nix run github:karol-broda/snitch
+
+# install to profile
+nix profile install github:karol-broda/snitch
+
+# or add to flake inputs
+{
+  inputs.snitch.url = "github:karol-broda/snitch";
+}
+# then use: inputs.snitch.packages.${system}.default
+```
+
+### arch linux (aur)
+
+```bash
+# with yay
+yay -S snitch-bin
+
+# with paru
+paru -S snitch-bin
+```
+
+#]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
+        <item>
+            <title>Lua: version history</title>
+            <link>https://lua.org/versions.html#5.5</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://lua.org/versions.html#5.5">https://lua.org/versions.html#5.5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46354674">https://news.ycombinator.com/item?id=46354674</a></p>
+<p>Points: 300</p>
+<p># Comments: 102</p>]]></description>
+            <pubDate>2025-12-24</pubDate>
+        </item>
     </channel>
 </rss>
