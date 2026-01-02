@@ -92,7 +92,7 @@ async fn main() -> Result<()> {
     // embellish previews
     for preview in previews.iter_mut() {
         if let Err(e) = embellish_preview(&mut env, preview).await {
-            log::warn!("{e}");
+            log::error!("Error during embellish_preview: {e}");
         }
     }
 

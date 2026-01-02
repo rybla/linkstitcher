@@ -26,7 +26,9 @@ async fn main() -> Result<()> {
             preview
         } else {
             let mut preview = preview;
-            embellish_preview(&mut env, &mut preview).await?;
+            if let Err(e) = embellish_preview(&mut env, &mut preview).await {
+                log::error!("Error during embellish_preview: {e}");
+            }
             preview
         };
         bookmark_preview(&mut env, &mut preview).await?;

@@ -38,7 +38,9 @@ async fn main() -> Result<()> {
 
     // embellish previews
     for preview in previews.iter_mut() {
-        embellish_preview(&mut env, preview).await?;
+        if let Err(e) = embellish_preview(&mut env, preview).await {
+            log::error!("Error during embellish_preview: {e}");
+        }
     }
 
     // insert previews into database

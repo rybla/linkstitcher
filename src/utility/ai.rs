@@ -8,6 +8,7 @@ struct GeminiCliError {
 }
 
 pub fn gemini_cli(prompt: &str) -> Result<String> {
+    log::trace!["gemini_cli: {prompt}"];
     let escaped_prompt = prompt
         .chars()
         .flat_map(|c| c.escape_default())

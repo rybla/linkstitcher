@@ -40,7 +40,7 @@ impl Env {
 
 /// Embellishes a preview with basic content, inexpensively.
 pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<Option<String>> {
-    log::info!["embellish_preview({})", &preview.url];
+    log::info!["embellish_preview: {}", &preview.url];
 
     let mut content: Option<String> = None;
 
@@ -161,22 +161,28 @@ pub async fn embellish_preview(env: &mut Env, preview: &mut Preview) -> Result<O
         preview.summary = Some(format!("Source: {source}\n\n{summary}"));
     }
 
+    // preview.summary.map(|summary| summary.trim());
+    if let Some(summary) = &mut preview.summary {
+        *summary = summary.trim().to_string();
+    }
+
     Ok(content)
 }
 
 /// Requires input preview to already be embellished.
 pub async fn bookmark_preview(_env: &mut Env, preview: &mut Preview) -> Result<()> {
-    log::info!["bookmark_preview({})", &preview.url];
+    log::info!["bookmark_preview: {}", &preview.url];
 
     // generate tags
     if preview.tags.is_none()
-        && let Some(title) = &preview.title
         && let Some(summary) = &preview.summary
     {
         let response = utility::ai::gemini_cli(&format!(
-            "Consider the following content:\n\nTitle: {title}\n\nText:\n\n{summary}...\n\nWrite a comma-separated list of categorizational tags for the above content. Respond ONLY with the comma-separated list"
-        ))?;
-        preview.tags = Some(response);
+            "Consider the following content:\n\n{summary}...\n\nWrite a comma-separated list of categorizational tags for the above content. Respond ONLY with the comma-separated list"
+        ));
+        if let Ok(response) = response {
+            preview.tags = Some(response);
+        }
     }
 
     preview.bookmarked = true;
