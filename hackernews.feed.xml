@@ -10,786 +10,363 @@
             <link>https://github.com/rybla/linkstitcher</link>
         </image>
         <item>
-            <title>Walt Disney Imagineering Debuts Next-Generation Robotic Character, Olaf&amp;nbsp;</title>
-            <link>https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/</link>
+            <title>FracturedJson</title>
+            <link>https://github.com/j-brooke/FracturedJson/wiki</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-<p>Article URL: <a href="https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/">https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348847">https://news.ycombinator.com/item?id=46348847</a></p>
-<p>Points: 196</p>
-<p># Comments: 79</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
+# FracturedJson
+
+FracturedJson is a family of utilities that format [JSON data](https://www.json.org) in a way that's easy for
+humans to read, but fairly compact.  Arrays and objects are written on single lines, as long as they're
+neither too long nor too complex.  When several such lines are similar in structure, they're written with
+fields aligned like a table.  Long arrays are written with multiple items per line across multiple lines.
+
+It is available as a browser page, a .NET Standard 2.0 library, a JavaScript package, and a Visual Studio Code 
+extension.
+
+Here's a sample of output using ]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>[Revised] You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models</title>
-            <link>https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude</link>
+            <title>10 years of personal finances in plain text files</title>
+            <link>https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-<p>Article URL: <a href="https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude">https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348329">https://news.ycombinator.com/item?id=46348329</a></p>
-<p>Points: 434</p>
-<p># Comments: 232</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
+<p>Article URL: <a href="https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/">https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46463644">https://news.ycombinator.com/item?id=46463644</a></p>
+<p>Points: 246</p>
+<p># Comments: 96</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>I can&apos;t upgrade to Windows 11, now leave me alone</title>
-            <link>https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone</link>
+            <title>https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820</title>
+            <link>https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-<p>Article URL: <a href="https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone">https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46347108">https://news.ycombinator.com/item?id=46347108</a></p>
-<p>Points: 470</p>
-<p># Comments: 456</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
+<p>Article URL: <a href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820">https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46463315">https://news.ycombinator.com/item?id=46463315</a></p>
+<p>Points: 274</p>
+<p># Comments: 132</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>https://mastodon.online/@mullvadnet/115742530333573065</title>
-            <link>https://mastodon.online/@mullvadnet/115742530333573065</link>
+            <title>Blocked</title>
+            <link>https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-<p>Article URL: <a href="https://mastodon.online/@mullvadnet/115742530333573065">https://mastodon.online/@mullvadnet/115742530333573065</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46347080">https://news.ycombinator.com/item?id=46347080</a></p>
-<p>Points: 573</p>
-<p># Comments: 208</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>You’re Not Burnt Out. You’re Existentially Starving.</title>
-            <link>https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/">https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46346958">https://news.ycombinator.com/item?id=46346958</a></p>
-<p>Points: 296</p>
-<p># Comments: 335</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Logging Sucks - Your Logs Are Lying To You</title>
-            <link>https://loggingsucks.com/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://loggingsucks.com/">https://loggingsucks.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46346796">https://news.ycombinator.com/item?id=46346796</a></p>
-<p>Points: 534</p>
-<p># Comments: 207</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Autoland Saves King Air, Everyone Reported Safe (Updated) - AvBrief.com</title>
-            <link>https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/">https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46346214">https://news.ycombinator.com/item?id=46346214</a></p>
-<p>Points: 227</p>
-<p># Comments: 137</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>https://hackernews-readings-613604506318.us-west1.run.app</title>
-            <link>https://hackernews-readings-613604506318.us-west1.run.app</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://hackernews-readings-613604506318.us-west1.run.app">https://hackernews-readings-613604506318.us-west1.run.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345897">https://news.ycombinator.com/item?id=46345897</a></p>
-<p>Points: 468</p>
-<p># Comments: 167</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>WalletWallet — Create Apple Passes for Free</title>
-            <link>https://walletwallet.alen.ro/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>I got my Apple developer certificate and built a simple app to solve a problem I had. One shop I buy from doesn't have Apple Wallet passes. Since you need signed certificates to build these very simple things, I created a minimal app that signs them. It's available if you need it too. It won't scan cards with AI - you manually enter the barcode, which I think makes it less prone to error.</p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345745">https://news.ycombinator.com/item?id=46345745</a></p>
-<p>Points: 385</p>
-<p># Comments: 103</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>CO2 Batteries That Store Grid Energy Take Off Globally</title>
-            <link>https://spectrum.ieee.org/co2-battery-energy-storage</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://spectrum.ieee.org/co2-battery-energy-storage">https://spectrum.ieee.org/co2-battery-energy-storage</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46345506">https://news.ycombinator.com/item?id=46345506</a></p>
-<p>Points: 249</p>
-<p># Comments: 208</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Coarse is Better</title>
-            <link>https://borretti.me/article/coarse-is-better</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://borretti.me/article/coarse-is-better">https://borretti.me/article/coarse-is-better</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46344514">https://news.ycombinator.com/item?id=46344514</a></p>
-<p>Points: 204</p>
-<p># Comments: 110</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Clair Obscur having its Indie Game Game Of The Year award stripped due to AI use</title>
-            <link>https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/</link>
-            <description><![CDATA[<p>Article URL: <a href="https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/">https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342902">https://news.ycombinator.com/item?id=46342902</a></p>
-<p>Points: 172</p>
-<p># Comments: 390</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Ruby Programming Language</title>
-            <link>https://www.ruby-lang.org/en/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.ruby-lang.org/en/">https://www.ruby-lang.org/en/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342859">https://news.ycombinator.com/item?id=46342859</a></p>
-<p>Points: 396</p>
-<p># Comments: 161</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Indoor Tanning Makes Youthful Skin Much Older on a Genetic Level | UC San Francisco</title>
-            <link>https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level">https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342447">https://news.ycombinator.com/item?id=46342447</a></p>
-<p>Points: 245</p>
-<p># Comments: 182</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Waymo halts service during massive S.F. blackout after causing traffic jams</title>
-            <link>https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/">https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342412">https://news.ycombinator.com/item?id=46342412</a></p>
-<p>Points: 254</p>
-<p># Comments: 364</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Measuring AI Ability to Complete Long Tasks</title>
-            <link>https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46342166">https://news.ycombinator.com/item?id=46342166</a></p>
-<p>Points: 229</p>
-<p># Comments: 182</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>https://haveibeenflocked.com/news/cyble-downtime</title>
-            <link>https://haveibeenflocked.com/news/cyble-downtime</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://haveibeenflocked.com/news/cyble-downtime">https://haveibeenflocked.com/news/cyble-downtime</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46341305">https://news.ycombinator.com/item?id=46341305</a></p>
-<p>Points: 578</p>
-<p># Comments: 117</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Claude in Chrome | Claude</title>
-            <link>https://claude.com/chrome</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://claude.com/chrome">https://claude.com/chrome</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46339777">https://news.ycombinator.com/item?id=46339777</a></p>
-<p>Points: 310</p>
-<p># Comments: 181</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Jmail, logged in as jeevacation@gmail.com</title>
-            <link>https://www.jmail.world</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Hi everyone! My name's Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ's "Epstein files" release.<p>Please AMA!</p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46339600">https://news.ycombinator.com/item?id=46339600</a></p>
-<p>Points: 1429</p>
-<p># Comments: 329</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Meet Ireland&apos;s &apos;LeBron James&apos; of Microsoft Excel Diarmuid Early</title>
-            <link>https://www.bbc.com/news/articles/cj4qzgvxxgvo</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cj4qzgvxxgvo">https://www.bbc.com/news/articles/cj4qzgvxxgvo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46339031">https://news.ycombinator.com/item?id=46339031</a></p>
-<p>Points: 307</p>
-<p># Comments: 121</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>I spent a WEEK without IPv4 to understand IPv6 transition mechanisms</title>
-            <link>https://www.apalrd.net/posts/2023/network_ipv6/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.apalrd.net/posts/2023/network_ipv6/">https://www.apalrd.net/posts/2023/network_ipv6/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46338365">https://news.ycombinator.com/item?id=46338365</a></p>
-<p>Points: 163</p>
-<p># Comments: 336</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Backing up Spotify</title>
-            <link>https://annas-archive.li/blog/backing-up-spotify.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://annas-archive.li/blog/backing-up-spotify.html">https://annas-archive.li/blog/backing-up-spotify.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46338339">https://news.ycombinator.com/item?id=46338339</a></p>
-<p>Points: 1776</p>
-<p># Comments: 601</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Big GPUs don&apos;t need big PCs</title>
-            <link>https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs">https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46338016">https://news.ycombinator.com/item?id=46338016</a></p>
-<p>Points: 278</p>
-<p># Comments: 120</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>OpenSCAD Is Kinda Neat – nuxx.net</title>
-            <link>https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/">https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46337984">https://news.ycombinator.com/item?id=46337984</a></p>
-<p>Points: 311</p>
-<p># Comments: 239</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>End of the Internet</title>
-            <link>https://hmpg.net/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://hmpg.net/">https://hmpg.net/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46337656">https://news.ycombinator.com/item?id=46337656</a></p>
-<p>Points: 196</p>
-<p># Comments: 60</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates</title>
-            <link>https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html">https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46337438">https://news.ycombinator.com/item?id=46337438</a></p>
-<p>Points: 415</p>
-<p># Comments: 70</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Why do people leave comments on OpenBenches?</title>
-            <link>https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/">https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46337134">https://news.ycombinator.com/item?id=46337134</a></p>
-<p>Points: 221</p>
-<p># Comments: 23</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Over 40% of Deceased Drivers in Motor Vehicle Crashes Test Positive for THC</title>
-            <link>https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/">https://www.facs.org/media-center/press-releases/2025/over-40-of-deceased-drivers-in-motor-vehicle-crashes-test-positive-for-thc-study-shows/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46337123">https://news.ycombinator.com/item?id=46337123</a></p>
-<p>Points: 328</p>
-<p># Comments: 487</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Go ahead, self-host Postgres | Pierce Freeman</title>
-            <link>https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1">https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46336947">https://news.ycombinator.com/item?id=46336947</a></p>
-<p>Points: 658</p>
-<p># Comments: 387</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>HN Wrapped 2025</title>
-            <link>https://hn-wrapped.kadoa.com?year=2025</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>I was looking for some fun project to play around with the latest Gemini models and ended up building this :)<p>Enter your username and get:<p>- Generated roasts and stats based on your HN activity 2025<p>- Your personalized HN front page from 2035 (inspired by a recent Show HN [0])<p>- An xkcd-style comic of your HN persona<p>It uses the latest gemini-3-flash and gemini-3-pro-image (nano banana pro) models, which deliver pretty impressive and funny results.<p>A few examples:<p>- dang: <a href="https://hn-wrapped.kadoa.com/dang" rel="nofollow">https://hn-wrapped.kadoa.com/dang</a><p>- myself: <a href="https://hn-wrapped.kadoa.com/hubraumhugo" rel="nofollow">https://hn-wrapped.kadoa.com/hubraumhugo</a><p>Give it a try and share yours :)<p>Happy holidays!<p>[0] <a href="https://news.ycombinator.com/item?id=46205632">https://news.ycombinator.com/item?id=46205632</a></p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46336104">https://news.ycombinator.com/item?id=46336104</a></p>
-<p>Points: 290</p>
-<p># Comments: 148</p>]]></description>
-            <pubDate>2025-12-22</pubDate>
-        </item>
-        <item>
-            <title>Inside CECOT | 60 Minutes : CBS News : Free Download, Borrow, and Streaming : Internet Archive</title>
-            <link>https://archive.org/details/insidececot</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://archive.org/details/insidececot">https://archive.org/details/insidececot</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46361024">https://news.ycombinator.com/item?id=46361024</a></p>
-<p>Points: 523</p>
-<p># Comments: 52</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>NPM Package With 56K Downloads Caught Stealing WhatsApp Messages</title>
-            <link>https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages">https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46359996">https://news.ycombinator.com/item?id=46359996</a></p>
-<p>Points: 293</p>
-<p># Comments: 185</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>It&apos;s always TCP_NODELAY. Every damn time.</title>
-            <link>https://brooker.co.za/blog/2024/05/09/nagle.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://brooker.co.za/blog/2024/05/09/nagle.html">https://brooker.co.za/blog/2024/05/09/nagle.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46359120">https://news.ycombinator.com/item?id=46359120</a></p>
-<p>Points: 321</p>
-<p># Comments: 105</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>Ultrasound Cancer Treatment: Sound Waves Fight Tumors</title>
-            <link>https://spectrum.ieee.org/ultrasound-cancer-treatment</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://spectrum.ieee.org/ultrasound-cancer-treatment">https://spectrum.ieee.org/ultrasound-cancer-treatment</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46357945">https://news.ycombinator.com/item?id=46357945</a></p>
-<p>Points: 261</p>
-<p># Comments: 77</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/</title>
-            <link>https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/">https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46357881">https://news.ycombinator.com/item?id=46357881</a></p>
-<p>Points: 555</p>
-<p># Comments: 459</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>The Garbage Collection Handbook</title>
-            <link>https://gchandbook.org/index.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://gchandbook.org/index.html">https://gchandbook.org/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46357870">https://news.ycombinator.com/item?id=46357870</a></p>
-<p>Points: 211</p>
-<p># Comments: 20</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>The Illustrated Transformer</title>
-            <link>https://jalammar.github.io/illustrated-transformer/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://jalammar.github.io/illustrated-transformer/">https://jalammar.github.io/illustrated-transformer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46357675">https://news.ycombinator.com/item?id=46357675</a></p>
-<p>Points: 388</p>
-<p># Comments: 76</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>GLM-4.7: Advancing the Coding Capability</title>
-            <link>https://z.ai/blog/glm-4.7</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://z.ai/blog/glm-4.7">https://z.ai/blog/glm-4.7</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46357287">https://news.ycombinator.com/item?id=46357287</a></p>
-<p>Points: 345</p>
-<p># Comments: 169</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>https://www.youtube.com/watch?v=vU1-uiUlHTo</title>
-            <link>https://www.youtube.com/watch?v=vU1-uiUlHTo</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.youtube.com/watch?v=vU1-uiUlHTo">https://www.youtube.com/watch?v=vU1-uiUlHTo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46356182">https://news.ycombinator.com/item?id=46356182</a></p>
-<p>Points: 264</p>
-<p># Comments: 4</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>NIST was 5 μs off UTC after last week&apos;s power cut</title>
-            <link>https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut">https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46355949">https://news.ycombinator.com/item?id=46355949</a></p>
-<p>Points: 267</p>
-<p># Comments: 123</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>Jimmy Lai is a martyr for freedom</title>
-            <link>https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/">https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46355888">https://news.ycombinator.com/item?id=46355888</a></p>
-<p>Points: 357</p>
-<p># Comments: 196</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves</title>
-            <link>https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Archive Link: <a href="https://archive.ph/IWMKe" rel="nofollow">https://archive.ph/IWMKe</a><p>Also: <a href="https://www.youtube.com/watch?v=vU1-uiUlHTo" rel="nofollow">https://www.youtube.com/watch?v=vU1-uiUlHTo</a> – <i>This Flock Camera Leak is like Netflix For Stalkers</i></p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46355548">https://news.ycombinator.com/item?id=46355548</a></p>
-<p>Points: 598</p>
-<p># Comments: 406</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>Claude Code gets native LSP support</title>
-            <link>https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-# Claude Code
-
-![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)
-
-[npm]: https://img.shields.io/npm/v/@anthropic-ai/claude-code.svg?style=flat-square
-
-Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows -- all through natural language commands. Use it in your terminal, IDE, or tag @claude on Github.
-
-**Learn more in the [official documentation](https://doc]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine</title>
-            <link>https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html">https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46355077">https://news.ycombinator.com/item?id=46355077</a></p>
-<p>Points: 203</p>
-<p># Comments: 266</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>Scaling LLMs to larger codebases</title>
-            <link>https://blog.kierangill.xyz/oversight-and-guidance</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://blog.kierangill.xyz/oversight-and-guidance">https://blog.kierangill.xyz/oversight-and-guidance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46354970">https://news.ycombinator.com/item?id=46354970</a></p>
-<p>Points: 261</p>
-<p># Comments: 99</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/</title>
-            <link>https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/">https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46353777">https://news.ycombinator.com/item?id=46353777</a></p>
-<p>Points: 259</p>
-<p># Comments: 159</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>If You Don&apos;t Design Your Career, Someone Else Will</title>
-            <link>https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/">https://gregmckeown.com/if-you-dont-design-your-career-someone-else-will/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46352930">https://news.ycombinator.com/item?id=46352930</a></p>
-<p>Points: 409</p>
-<p># Comments: 228</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>diziet | Debian’s git transition</title>
-            <link>https://diziet.dreamwidth.org/20436.html</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://diziet.dreamwidth.org/20436.html">https://diziet.dreamwidth.org/20436.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46352231">https://news.ycombinator.com/item?id=46352231</a></p>
-<p>Points: 223</p>
-<p># Comments: 103</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
-        </item>
-        <item>
-            <title>Rue</title>
-            <link>https://rue-lang.dev/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Related: <a href="https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/" rel="nofollow">https://steveklabnik.com/writing/thirteen-years-of-rust-and-...</a></p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46348262">https://news.ycombinator.com/item?id=46348262</a></p>
-<p>Points: 241</p>
+<p>Article URL: <a href="https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/">https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46461563">https://news.ycombinator.com/item?id=46461563</a></p>
+<p>Points: 506</p>
 <p># Comments: 244</p>]]></description>
-            <pubDate>2025-12-23</pubDate>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>Travel in Style. UniFi style. UniFi Travel Router.</title>
-            <link>https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</link>
+            <title>Happy Public Domain Day 2026!</title>
+            <link>https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-<p>Article URL: <a href="https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router">https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46371135">https://news.ycombinator.com/item?id=46371135</a></p>
-<p>Points: 267</p>
-<p># Comments: 235</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
+<p>Article URL: <a href="https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/">https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46460440">https://news.ycombinator.com/item?id=46460440</a></p>
+<p>Points: 367</p>
+<p># Comments: 71</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>X-ray: a Python library for finding bad redactions in PDF documents</title>
-            <link>https://github.com/freelawproject/x-ray</link>
+            <title>Why users cannot create Issues directly</title>
+            <link>https://github.com/ghostty-org/ghostty/issues/3558</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-![Image of REDACTED STAMP](https://raw.githubusercontent.com/freelawproject/x-ray/main/redacted.png)
-
-x-ray is a Python library for finding bad redactions in PDF documents.
-
-## Why?
-
-At Free Law Project, we collect millions of PDFs. An ongoing problem
-is that people fail to properly redact things. Instead of doing it the right
-way, they just draw a black rectangle or a black highlight on top of black
-text and call it a day. Well, when that happens you just select the text under
-the rectangle, and you can read it again. Not great.
-
-After witnessing this problem for years, we decided it would be]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Some Epstein file redactions are being undone with hacks</title>
-            <link>https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Related: <a href="https://xcancel.com/vmfunc/status/2003292986650853825" rel="nofollow">https://xcancel.com/vmfunc/status/2003292986650853825</a><p><a href="https://old.reddit.com/r/law/comments/1ptlms6/some_epstein_files_can_be_unredacted/" rel="nofollow">https://old.reddit.com/r/law/comments/1ptlms6/some_epstein_f...</a><p><a href="https://krassencast.com/p/breaking-we-just-unredacted-the-epstein" rel="nofollow">https://krassencast.com/p/breaking-we-just-unredacted-the-ep...</a></p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46368946">https://news.ycombinator.com/item?id=46368946</a></p>
-<p>Points: 515</p>
-<p># Comments: 387</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>We Mass-Deployed 15-Year-Old Screen Sharing Technology and It&apos;s Actually Better</title>
-            <link>https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen">https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46367475">https://news.ycombinator.com/item?id=46367475</a></p>
-<p>Points: 427</p>
-<p># Comments: 261</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Fabrice Bellard Releases MicroQuickJS</title>
-            <link>https://github.com/bellard/mquickjs/blob/main/README.md</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-MicroQuickJS
-============
-
-## Introduction
-
-MicroQuickJS (aka. MQuickJS) is a JavaScript engine targetted at
-embedded systems. It compiles and runs JavaScript programs using as little
-as 10 kB of RAM. The whole engine requires about 100 kB of ROM (ARM
-Thumb-2 code) including the C library. The speed is comparable to
-QuickJS.
-
-MQuickJS only supports a [subset](#javascript-subset-reference) of JavaScript close to ES5. It
-implements a **stricter mode** where some error prone or inefficient
-JavaScript constructs are forbidden.
-
-Although MQuickJS shares much code with QuickJS, it internals are
-diff]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Meta Is Using The Linux Scheduler Designed For Valve&apos;s Steam Deck On Its Servers</title>
-            <link>https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server">https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46366998">https://news.ycombinator.com/item?id=46366998</a></p>
-<p>Points: 628</p>
-<p># Comments: 345</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Ryanair fined €256m over ‘abusive strategy’ to limit ticket sales by online travel agencies</title>
-            <link>https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota">https://www.theguardian.com/business/2025/dec/23/ryanair-fined-limit-online-travel-agencies-ticket-sales-ota</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46364272">https://news.ycombinator.com/item?id=46364272</a></p>
-<p>Points: 245</p>
-<p># Comments: 260</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Ask HN: What are the best engineering blogs with real-world depth?</title>
-            <link>https://news.ycombinator.com/item?id=46363921</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>I’m looking for examples of high-quality engineering blog posts—especially from tech company blogs, that go beyond surface-level explanations.<p>Specifically interested in posts that:
-1. Explain technical concepts clearly and concisely
-2. Show real implementation details, trade-offs, and failures
-3. Are well-structured and readable
-4. Tie engineering decisions back to business or product outcomes<p>Any standout blogs, posts, or platforms you regularly learn from?</p>
-<hr>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363921">https://news.ycombinator.com/item?id=46363921</a></p>
-<p>Points: 394</p>
-<p># Comments: 122</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Instant database clones with PostgreSQL 18</title>
-            <link>https://boringsql.com/posts/instant-database-clones/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://boringsql.com/posts/instant-database-clones/">https://boringsql.com/posts/instant-database-clones/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363360">https://news.ycombinator.com/item?id=46363360</a></p>
-<p>Points: 399</p>
-<p># Comments: 154</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>A look back at 2025</title>
-            <link>https://www.datocms.com/blog/a-look-back-at-2025</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.datocms.com/blog/a-look-back-at-2025">https://www.datocms.com/blog/a-look-back-at-2025</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46363319">https://news.ycombinator.com/item?id=46363319</a></p>
-<p>Points: 307</p>
-<p># Comments: 118</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA</title>
-            <link>https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-<p>Article URL: <a href="https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/">https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46362927">https://news.ycombinator.com/item?id=46362927</a></p>
-<p>Points: 293</p>
-<p># Comments: 259</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
-        </item>
-        <item>
-            <title>Show HN: CineCLI – Browse and torrent movies directly from your terminal</title>
-            <link>https://github.com/eyeblech/cinecli</link>
-            <description><![CDATA[Source: Hackernews: Customized
-
-![PyPI](https://img.shields.io/pypi/v/cinecli)
-![Python](https://img.shields.io/pypi/pyversions/cinecli)
-![Nix Flake](https://img.shields.io/badge/Nix-Flake-5277C3?logo=nixos&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Downloads](https://img.shields.io/pypi/dm/cinecli)
-
-
-![Stars](https://img.shields.io/github/stars/eyeblech/cinecli?style=flat-square)
-
-
----
-
-## 📡 YTS API Status
-
-
+<!-- LOGO -->
+<h1>
 <p align="center">
-  <img
-    src="https://img.shields.io/github/actions/workflow/status/eyeblech/cinecli/api-health.yml?label=YTS%20API&style=for-the-badge"
-    alt="YTS API Status"
- ]]></description>
-            <pubDate>2025-12-24</pubDate>
+  <img src="https://github.com/user-attachments/assets/fe853809-ba8b-400b-83ab-a9a0da25be8a" alt="Logo" width="128">
+  <br>Ghostty
+</h1>
+  <p align="center">
+    Fast, native, feature-rich terminal emulator pushing modern features.
+    <br />
+    <a href="#about">About</a>
+    ·
+    <a href="https://ghostty.org/download">Download</a>
+    ·
+    <a href="https://ghostty.org/docs">Documentation</a>
+    ·
+    <a href="CONTRIBUTING.md">Contributing</a>
+    ·
+    <a href="HACKING.md">Developing</a>
+  </p>
+</p>
+
+## About
+
+Ghostty is a terminal emulator that diffe]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>Snitch – A friendlier ss/netstat</title>
-            <link>https://github.com/karol-broda/snitch</link>
+            <title>Can Bundler Be as Fast as uv?</title>
+            <link>https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-# snitch
-
-a friendlier `ss` / `netstat` for humans. inspect network connections with a clean tui or styled tables.
-
-![snitch demo](demo/demo.gif)
-
-## install
-
-### go
-
-```bash
-go install github.com/karol-broda/snitch@latest
-```
-
-### nixos / nix
-
-```bash
-# try it
-nix run github:karol-broda/snitch
-
-# install to profile
-nix profile install github:karol-broda/snitch
-
-# or add to flake inputs
-{
-  inputs.snitch.url = "github:karol-broda/snitch";
-}
-# then use: inputs.snitch.packages.${system}.default
-```
-
-### arch linux (aur)
-
-```bash
-# with yay
-yay -S snitch-bin
-
-# with paru
-paru -S snitch-bin
-```
-
-#]]></description>
-            <pubDate>2025-12-24</pubDate>
+<p>Article URL: <a href="https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/">https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46458302">https://news.ycombinator.com/item?id=46458302</a></p>
+<p>Points: 307</p>
+<p># Comments: 93</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
         <item>
-            <title>Lua: version history</title>
-            <link>https://lua.org/versions.html#5.5</link>
+            <title>A Website To End All Websites</title>
+            <link>https://henry.codes/writing/a-website-to-destroy-all-websites/</link>
             <description><![CDATA[Source: Hackernews: Customized
 
-<p>Article URL: <a href="https://lua.org/versions.html#5.5">https://lua.org/versions.html#5.5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46354674">https://news.ycombinator.com/item?id=46354674</a></p>
-<p>Points: 300</p>
-<p># Comments: 102</p>]]></description>
-            <pubDate>2025-12-24</pubDate>
+<p>Article URL: <a href="https://henry.codes/writing/a-website-to-destroy-all-websites/">https://henry.codes/writing/a-website-to-destroy-all-websites/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46457784">https://news.ycombinator.com/item?id=46457784</a></p>
+<p>Points: 654</p>
+<p># Comments: 332</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>I&apos;m brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the&amp;hellip;</title>
+            <link>https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/">https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46457770">https://news.ycombinator.com/item?id=46457770</a></p>
+<p>Points: 979</p>
+<p># Comments: 794</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Finland detains ship and its crew after critical undersea cable damaged</title>
+            <link>https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl">https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46456797">https://news.ycombinator.com/item?id=46456797</a></p>
+<p>Points: 462</p>
+<p># Comments: 555</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Cameras and Lenses – Bartosz Ciechanowski</title>
+            <link>https://ciechanow.ski/cameras-and-lenses/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://ciechanow.ski/cameras-and-lenses/">https://ciechanow.ski/cameras-and-lenses/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46455872">https://news.ycombinator.com/item?id=46455872</a></p>
+<p>Points: 476</p>
+<p># Comments: 53</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>PlayStation 5 ROM keys leaked &amp;mdash; jailbreaking could be made easier with BootROM codes</title>
+            <link>https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes">https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46455053">https://news.ycombinator.com/item?id=46455053</a></p>
+<p>Points: 264</p>
+<p># Comments: 90</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Bloomberg - Are you a robot?</title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal">https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454977">https://news.ycombinator.com/item?id=46454977</a></p>
+<p>Points: 318</p>
+<p># Comments: 507</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752</title>
+            <link>https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752">https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454944">https://news.ycombinator.com/item?id=46454944</a></p>
+<p>Points: 241</p>
+<p># Comments: 286</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Attention Required! | Cloudflare</title>
+            <link>https://www.acm.org/articles/bulletins/2026/january/acm-open-access</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.acm.org/articles/bulletins/2026/january/acm-open-access">https://www.acm.org/articles/bulletins/2026/january/acm-open-access</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454763">https://news.ycombinator.com/item?id=46454763</a></p>
+<p>Points: 327</p>
+<p># Comments: 47</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Introducing OpenWorkers – Self-hosted Cloudflare Workers in Rust</title>
+            <link>https://openworkers.com/introducing-openworkers</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>I've been working on this for some time now, starting with vm2, then deno-core for 2 years, and recently rewrote it on rusty_v8 with Claude's help.<p>OpenWorkers lets you run untrusted JS in V8 isolates on your own infrastructure. Same DX as Cloudflare Workers, no vendor lock-in.<p>What works today: fetch, KV, Postgres bindings, S3/R2, cron scheduling, crypto.subtle.<p>Self-hosting is a single docker-compose file + Postgres.<p>Would love feedback on the architecture and what feature you'd want next.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454693">https://news.ycombinator.com/item?id=46454693</a></p>
+<p>Points: 479</p>
+<p># Comments: 146</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Python Numbers Every Programmer Should Know</title>
+            <link>https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/">https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454470">https://news.ycombinator.com/item?id=46454470</a></p>
+<p>Points: 388</p>
+<p># Comments: 162</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>2025 letter | Dan Wang</title>
+            <link>https://danwang.co/2025-letter/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://danwang.co/2025-letter/">https://danwang.co/2025-letter/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46454413">https://news.ycombinator.com/item?id=46454413</a></p>
+<p>Points: 357</p>
+<p># Comments: 277</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Using alternative browser engines in Japan - Support</title>
+            <link>https://developer.apple.com/support/alternative-browser-engines-jp/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://developer.apple.com/support/alternative-browser-engines-jp/">https://developer.apple.com/support/alternative-browser-engines-jp/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46453950">https://news.ycombinator.com/item?id=46453950</a></p>
+<p>Points: 406</p>
+<p># Comments: 363</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Rather than fully cracking down on scam ads, Meta worked to make them harder to find</title>
+            <link>https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/">https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46453582">https://news.ycombinator.com/item?id=46453582</a></p>
+<p>Points: 310</p>
+<p># Comments: 106</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Bluetooth Headphone Jacking: A Key to Your Phone</title>
+            <link>https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone">https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46453204">https://news.ycombinator.com/item?id=46453204</a></p>
+<p>Points: 524</p>
+<p># Comments: 191</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>How I rebooted my social life</title>
+            <link>https://takes.jamesomalley.co.uk/p/this-might-be-oversharing</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://takes.jamesomalley.co.uk/p/this-might-be-oversharing">https://takes.jamesomalley.co.uk/p/this-might-be-oversharing</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46453114">https://news.ycombinator.com/item?id=46453114</a></p>
+<p>Points: 468</p>
+<p># Comments: 352</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>2025: The year in LLMs</title>
+            <link>https://simonwillison.net/2025/Dec/31/the-year-in-llms/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://simonwillison.net/2025/Dec/31/the-year-in-llms/">https://simonwillison.net/2025/Dec/31/the-year-in-llms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46449643">https://news.ycombinator.com/item?id=46449643</a></p>
+<p>Points: 891</p>
+<p># Comments: 548</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Warren Buffett steps down as Berkshire Hathaway CEO after six decades - Los Angeles Times</title>
+            <link>https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades">https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46448705">https://news.ycombinator.com/item?id=46448705</a></p>
+<p>Points: 706</p>
+<p># Comments: 561</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>reuters.com</title>
+            <link>https://www.reuters.com/investigations/meta-created-playbook-fend-off-pressure-crack-down-scammers-documents-show-2025-12-31/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://archive.ph/Phdes" rel="nofollow">https://archive.ph/Phdes</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46446838">https://news.ycombinator.com/item?id=46446838</a></p>
+<p>Points: 249</p>
+<p># Comments: 118</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>I canceled my book deal</title>
+            <link>https://austinhenley.com/blog/canceledbookdeal.html</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://austinhenley.com/blog/canceledbookdeal.html">https://austinhenley.com/blog/canceledbookdeal.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46446815">https://news.ycombinator.com/item?id=46446815</a></p>
+<p>Points: 602</p>
+<p># Comments: 339</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Web browsers have stopped blocking pop-ups – Smoking on a Bike</title>
+            <link>https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/">https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46446366">https://news.ycombinator.com/item?id=46446366</a></p>
+<p>Points: 378</p>
+<p># Comments: 448</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>Stewart Cheifet Obituary 2025 - Goldsteins Funeral</title>
+            <link>https://obits.goldsteinsfuneral.com/stewart-cheifet</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://obits.goldsteinsfuneral.com/stewart-cheifet">https://obits.goldsteinsfuneral.com/stewart-cheifet</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46446359">https://news.ycombinator.com/item?id=46446359</a></p>
+<p>Points: 246</p>
+<p># Comments: 77</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>2025 has been a disaster for Windows 11 as frustrating bugs and intrusive features continue to erode trust in&amp;hellip;</title>
+            <link>https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features">https://www.windowscentral.com/microsoft/windows-11/2025-has-been-an-awful-year-for-windows-11-with-infuriating-bugs-and-constant-unwanted-features</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46445491">https://news.ycombinator.com/item?id=46445491</a></p>
+<p>Points: 240</p>
+<p># Comments: 310</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
+        </item>
+        <item>
+            <title>New Sponsor Announcement | MonoGame</title>
+            <link>https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/">https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46445068">https://news.ycombinator.com/item?id=46445068</a></p>
+<p>Points: 582</p>
+<p># Comments: 245</p>]]></description>
+            <pubDate>2026-01-02</pubDate>
         </item>
     </channel>
 </rss>
