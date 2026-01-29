@@ -45,7 +45,9 @@ async fn main() -> Result<()> {
 
     // insert previews into database
     for preview in &previews {
-        utility::db::insert_preview(&mut env.db_conn, preview)?;
+        if let Err(e) = utility::db::insert_preview(&mut env.db_conn, preview) {
+            log::warn!("Error during insert_preview: {e}");
+        }
     }
 
     // write local RSS channel

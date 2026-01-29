@@ -119,7 +119,7 @@ async fn main() -> Result<()> {
     // insert previews into database
     for preview in &previews {
         if let Err(e) = utility::db::insert_preview(&mut env.db_conn, preview) {
-            log::warn!("{e}");
+            log::warn!("Error during insert_preview: {e}");
         }
     }
 
