@@ -364,5 +364,357 @@
 <p># Comments: 230</p>]]></description>
             <pubDate>2026-01-29</pubDate>
         </item>
+        <item>
+            <title>Euro firms must ditch Uncle Sam&apos;s clouds and go EU-native</title>
+            <link>https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/">https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46835336">https://news.ycombinator.com/item?id=46835336</a></p>
+<p>Points: 472</p>
+<p># Comments: 411</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>A 9M-parameter Mandarin pronunciation tutor</title>
+            <link>https://simedw.com/2026/01/31/ear-pronunication-via-ctc/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Built this because tones are killing my spoken Mandarin and I can't reliably hear my own mistakes.<p>It's a 9M Conformer-CTC model trained on ~300h (AISHELL + Primewords), quantized to INT8 (11 MB), runs 100% in-browser via ONNX Runtime Web.<p>Grades per-syllable pronunciation + tones with Viterbi forced alignment.<p>Try it here: <a href="https://simedw.com/projects/ear/" rel="nofollow">https://simedw.com/projects/ear/</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46832074">https://news.ycombinator.com/item?id=46832074</a></p>
+<p>Points: 344</p>
+<p># Comments: 110</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>wsj.com</title>
+            <link>https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3">https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46831702">https://news.ycombinator.com/item?id=46831702</a></p>
+<p>Points: 326</p>
+<p># Comments: 251</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>PeerWeb - Decentralized Website Hosting</title>
+            <link>https://peerweb.lol/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://github.com/omodaka9375/peerweb" rel="nofollow">https://github.com/omodaka9375/peerweb</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46829582">https://news.ycombinator.com/item?id=46829582</a></p>
+<p>Points: 307</p>
+<p># Comments: 106</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>https://antirender.com/</title>
+            <link>https://antirender.com/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://antirender.com/">https://antirender.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46829147">https://news.ycombinator.com/item?id=46829147</a></p>
+<p>Points: 1596</p>
+<p># Comments: 389</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Amazon’s Spending on ‘Melania’ Is a Barely Concealed Bribe</title>
+            <link>https://daringfireball.net/linked/2026/01/29/amazon-melania-spending</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://daringfireball.net/linked/2026/01/29/amazon-melania-spending">https://daringfireball.net/linked/2026/01/29/amazon-melania-spending</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46827826">https://news.ycombinator.com/item?id=46827826</a></p>
+<p>Points: 234</p>
+<p># Comments: 68</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>RIP Privacy: Microsoft 365 Now Tracks Your Real-Time Location</title>
+            <link>https://ztechtalk.com/microsoft-teams</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://ztechtalk.com/microsoft-teams">https://ztechtalk.com/microsoft-teams</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46827003">https://news.ycombinator.com/item?id=46827003</a></p>
+<p>Points: 374</p>
+<p># Comments: 285</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Kimi K2.5 Technical Report [pdf]</title>
+            <link>https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<div align="center">
+  <picture>
+      <img src="figures/kimi-logo.png" width="30%" alt="Kimi K2.5">
+  </picture>
+</div>
+<hr>
+<div align="center" style="line-height:1">
+  <a href="https://www.kimi.com" target="_blank"><img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-Kimi%20K2.5-ff6b6b?color=1783ff&logoColor=white"/></a>
+  <a href="https://www.moonshot.ai" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-Moonshot%20AI-white?logo=Kimi&logoColor=white"/></a>
+</div>
+
+<div align="center" style="line-height: 1;">
+  <a href="https://huggingface.co/moonshotai" t]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Wallace and Gromit Font</title>
+            <link>https://jamieclarketype.com/case-study/wallace-and-gromit-font/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://jamieclarketype.com/case-study/wallace-and-gromit-font/">https://jamieclarketype.com/case-study/wallace-and-gromit-font/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46825415">https://news.ycombinator.com/item?id=46825415</a></p>
+<p>Points: 233</p>
+<p># Comments: 49</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>HTTP Cats</title>
+            <link>https://http.cat/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://http.cat/">https://http.cat/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46824422">https://news.ycombinator.com/item?id=46824422</a></p>
+<p>Points: 465</p>
+<p># Comments: 78</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>At least 4 Wisconsin communities signed secrecy deals for billion-dollar data centers</title>
+            <link>https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers">https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46824098">https://news.ycombinator.com/item?id=46824098</a></p>
+<p>Points: 329</p>
+<p># Comments: 356</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Code is cheap. Show me the talk.</title>
+            <link>https://nadh.in/blog/code-is-cheap/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://nadh.in/blog/code-is-cheap/">https://nadh.in/blog/code-is-cheap/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46823485">https://news.ycombinator.com/item?id=46823485</a></p>
+<p>Points: 256</p>
+<p># Comments: 204</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Tesla’s own Robotaxi data confirms crash rate 3x worse than humans even with monitor</title>
+            <link>https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/">https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46822632">https://news.ycombinator.com/item?id=46822632</a></p>
+<p>Points: 469</p>
+<p># Comments: 256</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Surely the crash of the US economy has to be soon</title>
+            <link>https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/">https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46822630">https://news.ycombinator.com/item?id=46822630</a></p>
+<p>Points: 424</p>
+<p># Comments: 535</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>GOG: Linux &quot;the next major frontier&quot; for gaming as it works on a native client</title>
+            <link>https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/</link>
+            <description><![CDATA[<p>Article URL: <a href="https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/">https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46821774">https://news.ycombinator.com/item?id=46821774</a></p>
+<p>Points: 699</p>
+<p># Comments: 379</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Netflix Animation Studios joins the Blender Development Fund as Corporate Patron</title>
+            <link>https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/">https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46821134">https://news.ycombinator.com/item?id=46821134</a></p>
+<p>Points: 515</p>
+<p># Comments: 103</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>How AI assistance impacts the formation of coding skills</title>
+            <link>https://www.anthropic.com/research/AI-assistance-coding-skills</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.anthropic.com/research/AI-assistance-coding-skills">https://www.anthropic.com/research/AI-assistance-coding-skills</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46820924">https://news.ycombinator.com/item?id=46820924</a></p>
+<p>Points: 441</p>
+<p># Comments: 333</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Introducing OpenClaw — OpenClaw Blog</title>
+            <link>https://openclaw.ai/blog/introducing-openclaw</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://openclaw.ai/blog/introducing-openclaw">https://openclaw.ai/blog/introducing-openclaw</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46820783">https://news.ycombinator.com/item?id=46820783</a></p>
+<p>Points: 640</p>
+<p># Comments: 329</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>moltbook - the front page of the agent internet</title>
+            <link>https://www.moltbook.com/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p><a href="https://twitter.com/karpathy/status/2017296988589723767" rel="nofollow">https://twitter.com/karpathy/status/2017296988589723767</a><p>also <i>Moltbook is the most interesting place on the internet right now</i> - <a href="https://news.ycombinator.com/item?id=46826963">https://news.ycombinator.com/item?id=46826963</a></p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46820360">https://news.ycombinator.com/item?id=46820360</a></p>
+<p>Points: 1581</p>
+<p># Comments: 735</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Two days of oatmeal reduce cholesterol level</title>
+            <link>https://www.uni-bonn.de/en/news/017-2026</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.uni-bonn.de/en/news/017-2026">https://www.uni-bonn.de/en/news/017-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46819809">https://news.ycombinator.com/item?id=46819809</a></p>
+<p>Points: 329</p>
+<p># Comments: 256</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Grid.Space for Education - STEM Learning Tools</title>
+            <link>https://grid.space/stem/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://grid.space/stem/">https://grid.space/stem/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46817813">https://news.ycombinator.com/item?id=46817813</a></p>
+<p>Points: 389</p>
+<p># Comments: 129</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>https://openai.com/index/retiring-gpt-4o-and-older-models/</title>
+            <link>https://openai.com/index/retiring-gpt-4o-and-older-models/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://openai.com/index/retiring-gpt-4o-and-older-models/">https://openai.com/index/retiring-gpt-4o-and-older-models/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46816539">https://news.ycombinator.com/item?id=46816539</a></p>
+<p>Points: 295</p>
+<p># Comments: 394</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>The Wi-Fi only works when it&apos;s raining</title>
+            <link>https://predr.ag/blog/wifi-only-works-when-its-raining/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://predr.ag/blog/wifi-only-works-when-its-raining/">https://predr.ag/blog/wifi-only-works-when-its-raining/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46816357">https://news.ycombinator.com/item?id=46816357</a></p>
+<p>Points: 301</p>
+<p># Comments: 110</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Flameshot</title>
+            <link>https://github.com/flameshot-org/flameshot</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<div align="center">
+  <p>
+    <h1>
+      <a href="https://github.com/flameshot-org/flameshot">
+        <img src="data/img/app/org.flameshot.Flameshot.svg" alt="Flameshot" />
+      </a>
+      <br />
+      Flameshot
+    </h1>
+    <h4>Powerful yet simple to use screenshot software.</h4>
+  </p>
+  <p>
+    <a href="https://github.com/flameshot-org/flameshot/actions?query=workflow%3APackaging%28Linux%29">
+      <img src="https://img.shields.io/github/actions/workflow/status/flameshot-org/flameshot/Linux-pack.yml?branch=master&label=gnu%2Flinux" alt="GNU/Linux Build Status" />
+    </a>
+    <a href="h]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Playstation 2 Recompilation Project Is Absolutely Incredible – RedGamingTech</title>
+            <link>https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/">https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46814743">https://news.ycombinator.com/item?id=46814743</a></p>
+<p>Points: 548</p>
+<p># Comments: 342</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/</title>
+            <link>https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/">https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46814614">https://news.ycombinator.com/item?id=46814614</a></p>
+<p>Points: 434</p>
+<p># Comments: 202</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Tesla is committing automotive suicide</title>
+            <link>https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/">https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46814089">https://news.ycombinator.com/item?id=46814089</a></p>
+<p>Points: 310</p>
+<p># Comments: 412</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Project Genie: Experimenting with infinite, interactive worlds</title>
+            <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46812933">https://news.ycombinator.com/item?id=46812933</a></p>
+<p>Points: 657</p>
+<p># Comments: 320</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>US cybersecurity chief leaked sensitive government files to ChatGPT: Report</title>
+            <link>https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/">https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46812173">https://news.ycombinator.com/item?id=46812173</a></p>
+<p>Points: 434</p>
+<p># Comments: 36</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Drug trio found to block tumour resistance in pancreatic cancer models</title>
+            <link>https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/</link>
+            <description><![CDATA[Source: Hackernews: Customized
+
+<p>Article URL: <a href="https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/">https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=46812159">https://news.ycombinator.com/item?id=46812159</a></p>
+<p>Points: 266</p>
+<p># Comments: 147</p>]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
     </channel>
 </rss>

@@ -70,5 +70,38 @@ Stocks o]]></description>
 Agents, language model-based systems that are capable of reasoning, planning, and acting are becoming the dominant paradigm for real-world AI applications. Despite this widespread adoption, the principles that determine their performance remain underexplored. We address this by deriving quantitative scaling principles for agent systems. We first formalize a definition for agentic evaluation and characterize scaling laws as the interplay between agent quantity, coordination structure, model capability, and task properties. We evaluate this across four benchmarks: Finance-Agent, BrowseComp-Plus, PlanCraft, and Workbench. With five canonical agent architectures (Single-Agent and four Multi-Agent Systems: Independent, Centralized, Decentralized, Hybrid), instantiated across three LLM families, we perform a controlled evaluation spanning 180 configurations. We derive a predictive model using coordination metrics, that achieves cross-validated R^2=0.524, enabling prediction on unseen task domains. We identify three effects: (1) a tool-coordination trade-off: under fixed computational budgets, tool-heavy tasks suffer disproportionately from multi-agent overhead. (2) a capability saturation: coordination yields diminishing or negative returns once single-agent baselines exceed ~45%. (3) topology-dependent error amplification: independent agents amplify errors 17.2x, while centralized coordination contains this to 4.4x. Centralized coordination improves performance by 80.8% on parallelizable tasks, while decentralized coordination excels on web navigation (+9.2% vs. +0.2%). Yet for sequential reasoning tasks, every multi-agent variants degraded performance by 39-70%. The framework predicts the optimal coordination strategy for 87% of held-out configurations. Out-of-sample validation on GPT-5.2, achieves MAE=0.071 and confirms four of five scaling principles generalize to unseen frontier models.]]></description>
             <pubDate>2026-01-29</pubDate>
         </item>
+        <item>
+            <title>Gwtar: a static efficient single-file HTML format</title>
+            <link>https://gwern.net/gwtar</link>
+            <description><![CDATA[Gwtar is a new polyglot HTML archival format which provides a single, self-contained, HTML file which still can be efficiently lazy-loaded by a web browser. This is done by a header’s JavaScript making HTTP range requests. It is used on Gwern.net to serve large HTML archives.
+        
+      
+
+Archiving HTML files faces a trilemma: it is easy to create an archival format which is any two of static (self-contained ie. all assets included, no special software or server support), a single file (when stored on disk), and efficient (lazy-loads assets only as necessary to display]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Towards a Better Hutter Prize</title>
+            <link>https://gwern.net/blog/2026/hutter-prize</link>
+            <description><![CDATA[Site
+        Me
+        New
+        Blog
+        Links
+        Patreon]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <title>Digital Red Queen: Adversarial Program Evolution in Core War with LLMs</title>
+            <link>https://arxiv.org/abs/2601.03335</link>
+            <description><![CDATA[Source: ArXiv
+
+Large language models (LLMs) are increasingly being used to evolve solutions to problems in many domains, in a process inspired by biological evolution. However, unlike biological evolution, most LLM-evolution frameworks are formulated as static optimization problems, overlooking the open-ended adversarial dynamics that characterize real-world evolutionary processes. Here, we study Digital Red Queen (DRQ), a simple self-play algorithm that embraces these so-called "Red Queen" dynamics via continual adaptation to a changing objective. DRQ uses an LLM to evolve assembly-like programs, called warriors, which compete against each other for control of a virtual machine in the game of Core War, a Turing-complete environment studied in artificial life and connected to cybersecurity. In each round of DRQ, the model evolves a new warrior to defeat all previous ones, producing a sequence of adapted warriors. Over many rounds, we observe that warriors become increasingly general (relative to a set of held-out human warriors). Interestingly, warriors also become less behaviorally diverse across independent runs, indicating a convergence pressure toward a general-purpose behavioral strategy, much like convergent evolution in nature. This result highlights a potential value of shifting from static objectives to dynamic Red Queen objectives. Our work positions Core War as a rich, controllable sandbox for studying adversarial adaptation in artificial systems and for evaluating LLM-based evolution methods. More broadly, the simplicity and effectiveness of DRQ suggest that similarly minimal self-play approaches could prove useful in other more practical multi-agent adversarial domains, like real-world cybersecurity or combating drug resistance.]]></description>
+            <pubDate>2026-01-31</pubDate>
+        </item>
+        <item>
+            <link>https://psycnet.apa.org/fulltext/2027-17343-001.pdf</link>
+            <pubDate>2026-01-31</pubDate>
+        </item>
     </channel>
 </rss>
