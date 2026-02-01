@@ -103,5 +103,33 @@ Large language models (LLMs) are increasingly being used to evolve solutions to 
             <link>https://psycnet.apa.org/fulltext/2027-17343-001.pdf</link>
             <pubDate>2026-01-31</pubDate>
         </item>
+        <item>
+            <title>Autonomous Agents and Policy Compliance: A Framework for Reasoning About Penalties</title>
+            <link>https://arxiv.org/abs/2512.03931</link>
+            <description><![CDATA[Source: ArXiv
+
+This paper presents a logic programming-based framework for policy-aware autonomous agents that can reason about potential penalties for non-compliance and act accordingly. While prior work has primarily focused on ensuring compliance, our approach considers scenarios where deviating from policies may be necessary to achieve high-stakes goals. Additionally, modeling non-compliant behavior can assist policymakers by simulating realistic human decision-making. Our framework extends Gelfond and Lobo's Authorization and Obligation Policy Language (AOPL) to incorporate penalties and integrates Answer Set Programming (ASP) for reasoning. Compared to previous approaches, our method ensures well-formed policies, accounts for policy priorities, and enhances explainability by explicitly identifying rule violations and their consequences. Building on the work of Harders and Inclezan, we introduce penalty-based reasoning to distinguish between non-compliant plans, prioritizing those with minimal repercussions. To support this, we develop an automated translation from the extended AOPL into ASP and refine ASP-based planning algorithms to account for incurred penalties. Experiments in two domains demonstrate that our framework generates higher-quality plans that avoid harmful actions while, in some cases, also improving computational efficiency. These findings underscore its potential for enhancing autonomous decision-making and informing policy refinement. Under consideration in Theory and Practice of Logic Programming (TPLP).]]></description>
+            <pubDate>2026-02-01</pubDate>
+        </item>
+        <item>
+            <title>The Code-Only Agent</title>
+            <link>https://rijnard.com/blog/the-code-only-agent</link>
+            <description><![CDATA[When Code Execution Really is All You Need
+          
+
+          
+            
+          
+
+          
+            If you're building an agent, you're probably overwhelmed. Tools.
+            MCP. Subagents. Skills. The ecosystem pushes you toward complexity,
+            toward "the right way" to do things. You should know: Concepts like
+            "Skills" and "MCP" are actually outcomes of an
+            ongoing learning process of humans figuring stuff out. The
+            space is wide open for exploration. With this mindset I
+            wanted]]></description>
+            <pubDate>2026-02-01</pubDate>
+        </item>
     </channel>
 </rss>
